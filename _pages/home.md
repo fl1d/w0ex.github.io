@@ -26,7 +26,6 @@ header:
     url: "/activity-report/"
   - label: "SSS推進コンソーシアム"
     url: "https://www.sss.e.titech.ac.jp/"
-
 intro:
   - title: "超スマート社会卓越教育院では、社会連携教育（オープンエデュケーション）と異分野融合研究（オープンイノベーション）の融合によって、来たる超スマート社会を牽引するスーパードクターを養成します。"
 
@@ -56,6 +55,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-<!-- {% include feature_row id="intro" type="center" %} -->
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
