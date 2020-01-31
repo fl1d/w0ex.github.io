@@ -25,8 +25,8 @@ header:
     url: "/activity-report/"
   - label: "SSS推進コンソーシアム"
     url: "https://www.sss.e.titech.ac.jp/"
-intro:
-  - title: "超スマート社会卓越教育院では、<br>社会連携教育（オープンエデュケーション）<br>と異分野融合研究（オープンイノベーション）<br>の融合によって、来たる超スマート社会を牽引する<br>スーパードクターを養成します。"
+# intro:
+#  - title: "超スマート社会卓越教育院では、<br>社会連携教育（オープンエデュケーション）<br>と異分野融合研究（オープンイノベーション）<br>の融合によって、来たる超スマート社会を牽引する<br>スーパードクターを養成します。"
 
 feature_row:
   - image_path: /assets/images/matching-workshop.jpg
@@ -56,6 +56,8 @@ feature_row:
 
 ---
 
-{% include feature_row id="intro" type="center" %}
+<div style="text-align:center"><h1>
+超スマート社会卓越教育院では、<br>社会連携教育（オープンエデュケーション）<br>と異分野融合研究（オープンイノベーション）<br>の融合によって、来たる超スマート社会を牽引する<br>スーパードクターを養成します。
+</h1></div>
 
 {% include feature_row %}

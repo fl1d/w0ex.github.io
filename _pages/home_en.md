@@ -26,8 +26,8 @@ header:
   - label: "SSSPromotion Consortium"
     url: "https://www.sss.e.titech.ac.jp/en"
 
-intro:
-  - title: "Tokyo Tech Academy for Super Smart Society cultivate super doctor leading future society, based on the fusion of society-collaborated education (open education) and interdisciplinary collaboration reseach (open innovation)"
+# intro:
+#   - title: "Tokyo Tech Academy for Super Smart Society cultivate super doctor leading future society, based on the fusion of society-collaborated education (open education) and interdisciplinary collaboration reseach (open innovation)"
 
 feature_row:
   - image_path: /assets/images/kuramae.jpg
@@ -55,6 +55,11 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+<div style="text-align:center"><h1>
+Tokyo Tech Academy for Super Smart Society<br>
+cultivate super doctor leading future society, based on the fusion of society-collaborated education (open education) and interdisciplinary collaboration reseach (open innovation)
+</h1></div>
+
+ {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
