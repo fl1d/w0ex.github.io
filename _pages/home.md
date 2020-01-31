@@ -29,9 +29,17 @@ intro:
   - title: "超スマート社会卓越教育院では、<br>社会連携教育（オープンエデュケーション）<br>と異分野融合研究（オープンイノベーション）<br>の融合によって、来たる超スマート社会を牽引する<br>スーパードクターを養成します。"
 
 feature_row:
+  - image_path: /assets/images/matching-workshop.jpg
+    alt: "超スマート社会グローバルフォーラム"
+    title: "超スマート社会グローバルフォーラム"
+    excerpt: "2020/03/12<br><B>日時：2020年3月12日（水） 13:00~<br>場所：東京工業大学 大岡山キャンパス 南2号館 221～224講義室</B><br>超スマート社会推進コンソーシアムが企画し、世界各地から海外アドバイザーを中心に一流の研究者を招聘して、招待講演による超スマート社会向けのシンポジウムを開催します。"
+    url: "/global_forum/"
+    btn_label: "詳細はこちら"
+    btn_class: "btn--primary"
+
   - image_path: /assets/images/kuramae.jpg
-    alt: "キックオフ記念式典"
-    title: "キックオフ記念式典"
+    alt: "超スマート社会卓越教育院キックオフ記念式典 "
+    title: "超スマート社会卓越教育院キックオフ記念式典 "
     excerpt: "2020/03/11<br><B>日時：2020年3月11日（水） 13:00-20:00<br>場所：東京工業大学 大岡山キャンパス <br>東工大蔵前会館</B><br>このたび、SSS推進コンソーシアム関係者や特別アドバイザーの皆様方をお招きし、「超スマート社会卓越教育院 キックオフ記念式典」を下記日時にて開催する運びとなりました。万障お繰り合わせの上ご参加下さい。"
     url: "/kick-off/"
     btn_label: "詳細はこちら"
@@ -45,13 +53,7 @@ feature_row:
     btn_label: "詳細はこちら"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/matching-workshop.jpg
-    alt: "SSSマッチングワークショップ"
-    title: "SSSマッチングワークショップ"
-    excerpt: "2019/11/08<br>本教育院では、SSS推進コンソーシアム参加機関のニーズと、東工大の教員・学生の技術的・人材的シーズをマッチングし、分野を超えた異分野融合研究チームの構築を目的に、年二回マッチングワークショップを開催しています。"
-    url: "https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/"
-    btn_label: "詳細はこちら"
-    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
