@@ -28,16 +28,16 @@ header:
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
 
-<!-- 学修案内（案）は[こちら](https://www.wise-sss.titech.ac.jp/courses/guide_SSS.pdf) -->
+Click [here](https://www.wise-sss.titech.ac.jp/courses/guide_SSS.pdf)  for the Study Guide(tentative).
 
 ## Registration Guide
 
-* **STEP 1: Participate in the orientation**
+* **Step 1: Participate in the orientation**
 
   **2nd Orientation for the WISE-SSS**<br>
   Date：2020/2/5 17:00-18:30<br>
   Place：（W531）Lecture Theater, Ookayama Campus, Tokyo Tech<br>
-  Detailed：See [here](https://www.sss.e.titech.ac.jp/event-wise-orientation-20200205/)
+  Details：See [here](https://www.sss.e.titech.ac.jp/event-wise-orientation-20200205/)
 
 * **Step 2: Participate in the interdisciplinary matching workshop**
 
@@ -45,20 +45,23 @@ header:
   <span style="color:Red">（This workshop is over. It will be updated as soon as the next details are decided.）</span><br>
   Date：2019/11/8 13:00-20:00<br>
   Place：Tokyo Tech Front, Ookayama Campus, Tokyo Tech<br>
-  Detailed：See [here](http://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/)
+  Details：See [here](http://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/)
 
 * **​Step 3: Take the cyber / physical off-campus project course**
 
-  本教育院が開講または指定する[サイバー・フィジカルオフキャンパスプロジェクト科目群](https://www.wise-sss.titech.ac.jp/courses/off-campus.pdf)から１単位以上を修得して下さい。インターンの内容は任意で、所属しているコースのインターン科目の単位でも、本教育院が開講するサイバー・フィジカルオフキャンパスプロジェクトの単位でも構いません。なお、単位の取得が選抜試験に間に合わない場合には、インターン実施機関からのプロジェクト修了証明書等でこれを代用することができます。ここで取得した単位は卓越大学院の修了要件の一部となります。超スマート社会推進コンソーシアム参加機関のインターンに関する情報は、[こちら(学内からのみアクセス可能)](https://www.sss.e.titech.ac.jp/for_students/for_students_only/)を参照ください。
+  Please take at least 1 credit from the course related to [cyber physical off-campus project designed by the program](https://www.wise-sss.titech.ac.jp/courses/off-campus.pdf). The content of the intern is optional. It can be both the credit from inter subject of the student's original course, or the credit from cyber physical off-campus subjects offered by the program. In the case that the student cannot acquire the credit by the date of entrance exam, he/she can substitute by a certificate of internship completion provided by the company where the internship was conducted. The acquired credit will be counted for completion requirement of this program in the future. For information about internship program provided by SSS consortium, please click [here](https://www.sss.e.titech.ac.jp/for_students/for_students_only/) (internal link).
 
-* **Step 4: Create a registration application here ([word](https://www.wise-sss.titech.ac.jp/forms/application_form.docx), [pdf](https://www.wise-sss.titech.ac.jp/forms/application_form.pdf)), attach a short essay on the research plan from the master course to the doctoral course and the relation to super smart society. Submit it to the office of the Tokyo Tech Academy for Super Smart Society by the submission deadline.) We will inform you as soon as details are decided, such as the deadline for submission.)**
+* **Step 4: Create a registration application here ([word](https://www.wise-sss.titech.ac.jp/forms/application_form.docx), [pdf](https://www.wise-sss.titech.ac.jp/forms/application_form.pdf)), attach a short essay on the research plan from the master course to the doctoral course and the relation to super smart society. Submit it to the office of the Tokyo Tech Academy for Super Smart Society at S3-213.**
 
-* **Step 5: Take the selection test**
-(We will inform you as soon as details are decided, such as the deadline for submission.)
+  Please read the [study guide](https://www.wise-sss.titech.ac.jp/courses/guide_SSS.pdf) (tentative) carefully. Doctoral course applicants or existing doctoral students who request for mid-term review in concurrent with the entrance examination, please fill into 「4. Request for mid-term review for transforming into the program」 of the registration application form. Details about the mid-term review will be informed to the relevant applicants later from the office.
+
+  Deadline: 2020/2/28 12:00<br>
+  Place of submission: Rm.S3-213
+
 
 ## 4 Gates for Completion of the Course
 
-<div style="text-align:center"><img src="/assets/images/curriculum.png" /></div><br>
+<div style="text-align:center"><img src="/assets/images/curr-en.jpg" /></div><br>
 
 ### １．Enrollment Examination
 
