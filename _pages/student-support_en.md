@@ -28,7 +28,7 @@ header:
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
 
-In this curriculum, we will introduce the “Education and Research Expense Support System” to create an environment where students can become financially supported to concentrate on their studies. This system provides the following supports in addition to the Tokyo Tech Doctoral Student Scholarship “Tsubame” to be provided to all doctoral students.
+In this curriculum, we will introduce the “Education and Research Expense Support System” to create an environment where students can become financially supported to concentrate on their studies. This system provides the following supports in addition to the Tokyo Tech Doctoral Student Scholarship TSUBAME to be provided to all doctoral students.
 
 * **Super Smart Society Doctoral Leadership Scholarship**
 

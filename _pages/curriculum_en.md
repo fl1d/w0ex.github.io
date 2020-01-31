@@ -27,18 +27,19 @@ header:
   - label: "SSS Promotion Consortium"
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
+For the Study Guide, please click [here](https://www.wise-sss.titech.ac.jp/courses/guide_SSS.pdf).
 
 ## Curriculum
 
-<div style="text-align:center"><img src="/assets/images/curriculum.png" /></div><br>
+<div style="text-align:center"><img src="/assets/images/curr-en.jpg" /></div><br>
 
-## Cultivation of Specialized Academic Ability & Originality
+## Cultivation of Specialized Academic Abilities & Creativities
 
-* **Quantum Science and Artificial Intelligence Basic Subjects**  (Click [here](https://www.wise-sss.titech.ac.jp/courses/AI-Q.pdf) for more information)
+* **Courses Related to Basic Quantum Science and Artificial Intelligence**  (Click [here](https://www.wise-sss.titech.ac.jp/courses/AI-Q.pdf) for more information)
 
   In order to acquire the core academic skills required for the research and development of advanced technologies in super smart society, acquisition of subjects related to artificial intelligence and quantum science carefully selected in this program is a condition for passing the mid-term examination. After acquiring core academic ability, students can enroll in education and research utilizing artificial intelligence and quantum science.
 
-* **Cyber / Physical Specialized Subjects** 　(Click [here](https://www.wise-sss.titech.ac.jp/courses/Cyber-Physical.pdf) for more information)
+* **Courses Related to Cyber / Physical Specialized Subjects** 　(Click [here](https://www.wise-sss.titech.ac.jp/courses/Cyber-Physical.pdf) for more information)
 
   Completion requirement is to acquire specialized subjects related to cyber space and physical space that are carefully selected in this program. By acquiring knowledge of both spaces, the students are cultivated for "specialized academic ability & originality" for super smart society.
 
@@ -46,7 +47,7 @@ header:
 
   Set up mentors who specialize in different fields. As a result, it is possible to confirm the significance of education and research from an objective viewpoint in different fields and obtain guidelines for solving problems. In addition, by providing consistent guidance to the students in an integrated manner from master to doctoral course, continous effects are expected, that cannot be obtained with short-term experiences such as lab rotation.
 
-## Cultivation of Social Cooperation Comprehensiveness
+## Cultivation of Broad Perspectives through Social Cooperation Comprehensiveness
 
 * **Super Smart Society Creation Subjects**　(Click [here](https://www.wise-sss.titech.ac.jp/courses/SSS.pdf) for more information)
 
@@ -57,7 +58,7 @@ header:
   The completion requirement is to conduct an internship at a participating organization of the Super Smart Society Promotion Consortium. The puropose of this subject is to develop human resources who can overlook the super smart society by experiencing off-campus projects in fields different from their specialty.
 
 
-## Cultivation of Ability to Solve Interdisciplinary Issues
+## Cultivation of Solving Ability for Interdisciplinary Issues
 
 * **Interdisciplinary Matching Workshop**　(Click [here](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/) for more information)
 
@@ -75,7 +76,7 @@ header:
 
   With regard to the research theme for which matching has been established, the students will work on solving interdisci- plinary social by jointly conducting research projects creating super smart society with partner organizations. If the interdisciplinary research team is established, a research fund of up to 2 million yen / year will be allocated to conduct social implementation research.
 
-## Global leadership development
+## Cultivation Global leadership development
 
 * **Global Leadership Development Courses**　(Click [here](https://www.wise-sss.titech.ac.jp/courses/global.pdf) for more information)
 
