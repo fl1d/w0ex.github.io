@@ -36,10 +36,10 @@ header:
 **Please apply at the website by February 26.**
 
 * **For students and faculties of TokyoTech**<br>
-https://form.run/@sss-wise-kickoff-titech
+[https://form.run/@sss-wise-kickoff-titech](https://form.run/@sss-wise-kickoff-titech)
 
 * **For General**<br>
-https://form.run/@sss-wise-kickoff
+[https://form.run/@sss-wise-kickoff](https://form.run/@sss-wise-kickoff-titech)
 
 <hr>
 

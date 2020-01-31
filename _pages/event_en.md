@@ -30,9 +30,15 @@ header:
 
 ## Upcoming Events
 
+* **Super Smart Sociery Global Forum**
+
+  Date : 2020.3.12(Thu)13:00-<br>
+  Venue : Room.221-224, South Bldg.2, TokyoTech<br>
+  Details: See [here](/global_forum_en/)
+
 * **Kick-off ceremony of the Tokyo Tech Academy for Super Smart Society**
 
-  Date and time: Wednesday, March 11, 2020<br>       
+  Date: Wednesday, March 11, 2020<br>
   Location: Kuramae Hall, Tokyo Tech Front<br>
   Detailed: See [here](/kick-off-en)
 
@@ -55,3 +61,10 @@ header:
   -Obtain consent from the student’s academic supervisor for engagement into the program.
 
   If the students wish to sign up for this program from F2020, they must participate in the held SSS matching workshop on last Nov. 8 (2019), as one of the affiliation requirements . Please attend the orientation scheduled on Feb. 5 for more advice.
+
+
+* **2nd Orientation**
+
+  Date: Wednesday, Fe. 5, 2020<br>
+  Location: Lecture Theater W531, Ookayama Campus, TokyoTech<br>
+  Detailed: See [here](https://www.sss.e.titech.ac.jp/event-wise-orientation-20200205/)
