@@ -30,8 +30,8 @@ header:
 
 * **SSS Matching Workshop**
 
-  Date and time: Friday, November 8, 2019 13: 00-20: 00
-  Place: Tokyo Institute of Technology, Ookayama Campus, Tokyo Tech Front, Kuramae Hall
+  Date and time: Friday, November 8, 2019 13: 00-20: 00<br>
+  Place: Tokyo Institute of Technology, Ookayama Campus, Tokyo Tech Front, Kuramae Hall<br>
   Details: see [here](http://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/)
 
   The event aims to build interdisciplinary research teams that match the needs of consortium participating institutions with the technical and human resources of faculty and students at Tokyo Tech. For this purpose, faculty members and students from various fields and the participating organizations can conduct direct discussions in an integrated event that hold twice last year as S-Round (Seeds) and N-Round (Needs) respectively. By the merging, it is intended to provide more opportunities for research matching.
