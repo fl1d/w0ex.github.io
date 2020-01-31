@@ -23,7 +23,7 @@ header:
     url: "/event_en/"
   - label: "Activity Report"
     url: "/activity-report_en/"
-  - label: "SSSPromotion Consortium"
+  - label: "SSS Promotion Consortium"
     url: "https://www.sss.e.titech.ac.jp/en"
 
 # intro:
@@ -41,7 +41,7 @@ feature_row:
   - image_path: /assets/images/digital2015.jpg
     title: "2nd Orientation"
     alt: "2nd Orientation"
-    excerpt: "2020/02/05<br><B>日時：2020/2/5 17:00-18:30<br>Place：[Lecture Theater](http://www.mono.titech.ac.jp/~kokusai/TLT.html) W531<br> Ookayama Campus, Tokyo Tech</B><br>The curriculum is scheduled to start in FY2020. The 2nd Orientation will be held with more information for guiding students who plan to join the program."
+    excerpt: "2020/02/05<br><B>Date：2020/2/5 17:00-18:30<br>Place：[Lecture Theater](http://www.mono.titech.ac.jp/~kokusai/TLT.html) W531<br> Ookayama Campus, Tokyo Tech</B><br>The curriculum is scheduled to start in FY2020. The 2nd Orientation will be held with more information for guiding students who plan to join the program."
     url: "https://www.sss.e.titech.ac.jp/event-wise-orientation-20200205/"
     btn_label: "Click for Details"
     btn_class: "btn--primary"

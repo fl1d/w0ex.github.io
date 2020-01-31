@@ -24,7 +24,7 @@ header:
     url: "/event_en/"
   - label: "Activity Report"
     url: "/activity-report_en/"
-  - label: "SSSPromotion Consortium"
+  - label: "SSS Promotion Consortium"
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
 
