@@ -2,7 +2,6 @@
 title: "超スマート社会卓越教育院"
 layout: splash
 permalink: /
-date: 2018-04-22T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
