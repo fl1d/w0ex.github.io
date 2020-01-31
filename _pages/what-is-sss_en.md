@@ -28,15 +28,17 @@ header:
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
 
-In the social revolution since modern times (thermodynamics + heat engine = industrial revolution, information science + computer = information revolution, etc.), advanced science (physics, information science, etc.) and innovative engineering (mechanical, electrical and electronic engineering, etc.) has revolutionized our society. The realization of the super smart society, which is also called the fifth social revolution, is not limited to the integration of physical space technologies such as machinery, electricity, and construction after the industrial revolution and cyber space technologies after the information revolution but requires the fusion of cutting-edge science and technology such as science and artificial intelligence. Quantum science is a discipline based on quantum mechanics that governs the smallest unit of material and energy, "quantum." The quantum computer that realizes massively parallel computing has dramatically improved the capabilities of artificial intelligence (such as deep learning). Also, it is expected that cryptographic communication will provide secure network technology and enable automated driving with IoT using quantum sensors with ultimate sensitivity. This educational program aims to realize the super smart society based on quantum science through a degree program that integrates master and doctoral courses, with the aim of cultivating super doctors who are professional of knowledge and capable for leading multiple sectors of the future super smart society.
+In the Industrial Revolution and the Information Revolution, advanced science and innovative engineering have transformed our society. The next revolution is the fifth revolution, the realization of a super smart society. In order to realize a super smart society, it is essential to integrate physical space technologies such as machinery, electricity, and construction with cyber space technologies, as well as to combine advanced sciences and technologies, such as quantum science. Quantum science is a discipline based on quantum mechanics that governs the smallest unit of material and energy, "quantum." The quantum computer that realizes massively parallel computing has dramatically improved the capabilities of artificial intelligence (such as deep learning). Also, it is expected that cryptographic communication will provide secure network technology and enable automated driving with IoT using quantum sensors with ultimate sensitivity.
 
-To achieve this goal, in addition to teaching specialized courses where the students enroll, we will cultivate the following five skills essential for realizing the future super smart society based on quantum science.。
+This educational program aims to realize the super smart society based on quantum science through a degree program that integrates master and doctoral courses, with the aim of cultivating super-skilled PhD holders who are professional of knowledge and capable for leading multiple sectors of the future super smart society.
 
-* Have fundamental knowledge in quantum science and artificial intelligence
-* Cultivate science and technology in specialized fields related to both cyber space and physical space technologies
-* Have the overall view of both quantum science and super-smart society
-* Possess capabilities of solving multi-disciplinary social issues
-* Demonstrate leadership in each sector of industry, government, and academia
+To achieve this goal, we will cultivate the following five skills essential for realizing the future Super Smart Society based on quantum science, in addition to teaching specialized courses where the students enroll.
+
+* Fundamental knowledge in quantum science and artificial intelligence
+* Science and technology in specialized fields related to both cyber space and physical space technologies
+* The overall view of both quantum science and super-smart society
+* Capabilities of solving multi-disciplinary social issues
+* Leadership in each sector of industry, government, and academia
 
 <div style="text-align:center"><img src="/assets/images/5o-en.png" /></div>
 
@@ -44,25 +46,25 @@ To achieve this goal, in addition to teaching specialized courses where the stud
 
 Specifically, the following 13 measures will be implemented.
 
-**【Cultivation of specialized academic ability & originality】**
+**【Cultivation of specialized academic abilities & creativities】**
 
-* Quantum science and artificial intelligence basic subjects
+* Courses related to the basic quantum science and artificial intelligence
 * Cyber / Physical specialized subjects
 * Cyber / Physical cross mentor system
 
-**【Cultivation of social cooperation comprehensiveness】**
+**【Cultivation of broad perspectives through social collaborations】**
 
-* Super smart society creation subjects
+* Courses related to Super Smart Society creation subjects
 * Super smart society creation subjects
 
-**【Cultivation of ability to solve interdisciplinary issues】**
+**【Cultivation of solving ability for interdisciplinary issues】**
 
 * Interdisciplinary matching workshop
 * Intensive practice for interdisciplinary research planning
 * Super smart social basic technology research project
 * Super smart society creation research project
 
-**【Global leadership development】**
+**【Cultivation of Global leadership development】**
 
 * Global leadership cultivation subjects
 * Global forum for super smart society
@@ -73,7 +75,7 @@ For details, please check the [curriculum](https://www.tac-mi.titech.ac.jp/en/cu
 
 **Management system of Tokyo Tech Academy for Super Smart Society**
 
-<div style="text-align:center"><img src="/assets/images/organization.png" /></div><br>
+<div style="text-align:center"><img src="/assets/images/org_en.png" /></div><br>
 
 **Faculty**
 
