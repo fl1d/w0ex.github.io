@@ -34,9 +34,13 @@ header:
 
 **会場：東京工業大学 蔵前会館 くらまえホール**
 
-**以下の[URL](https://www.wise-sss.titech.ac.jp)よりお申込みください(申込締切：2/26)**<br>
-[https://www.wise-sss.titech.ac.jp](https://www.wise-sss.titech.ac.jp)
+**以下のURLよりお申込みください(申込締切：2/26)**
 
+* **学内用（教職員・学生）**<br>
+  [https://form.run/@sss-wise-kickoff-titech](https://form.run/@sss-wise-kickoff-titech)
+
+* **学外用（コンソーシアム参加機関・一般）**<br>
+  [https://form.run/@sss-wise-kickoff](https://form.run/@sss-wise-kickoff-titech)
 
 超スマート社会(Super Smart Society)を牽引する博士人材を育成する超スマート社会卓越教育院の発足を記念して、キックオフ記念式典を開催いたします。超スマート社会卓越教育課程は、文部科学省の卓越大学院プログラムに採択された新世代の教育プログラムです。
 
