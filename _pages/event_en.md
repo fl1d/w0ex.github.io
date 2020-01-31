@@ -32,8 +32,8 @@ header:
 
 * **Kick-off ceremony of the Tokyo Tech Academy for Super Smart Society**
 
-  Date and time: Wednesday, March 11, 2020         
-  Location: Kuramae Hall, Tokyo Tech Front
+  Date and time: Wednesday, March 11, 2020<br>       
+  Location: Kuramae Hall, Tokyo Tech Front<br>
   Detailed: See [here](/kick-off-en)
 
 * **First enrollment examination (Scheduled to be held from February to March 2020)**
