@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: 超スマート社会グローバルフォーラム
+title: Super Smart Society Global Forum
 permalink: /global_forum_en/
 author_profile: false
 header:

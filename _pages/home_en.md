@@ -30,6 +30,14 @@ header:
 #   - title: "Tokyo Tech Academy for Super Smart Society cultivate super doctor leading future society, based on the fusion of society-collaborated education (open education) and interdisciplinary collaboration reseach (open innovation)"
 
 feature_row:
+  - image_path: /assets/images/matching-workshop.jpg
+    alt: "Super Smart Society Global Forum"
+    title: "Super Smart Society Global Forum"
+    excerpt: "2020/03/12<br><B>Date：2020/3/12日 13:00~<br>Please：S221-224, Ookayama Campus, TokyoTech</B><br>A symposium with invited talks from the overseas advisors of WISE-SSS program is organized by SSS promotion consortium."
+    url: "/global_forum_en/"
+    btn_label: "Click for Details"
+    btn_class: "btn--primary"
+
   - image_path: /assets/images/kuramae.jpg
     alt: "WISE-SSS kickoff ceremony"
     title: "WISE-SSS kickoff ceremony"
@@ -44,14 +52,6 @@ feature_row:
     excerpt: "2020/02/05<br><B>Date：2020/2/5 17:00-18:30<br>Place：[Lecture Theater](http://www.mono.titech.ac.jp/~kokusai/TLT.html) W531<br> Ookayama Campus, Tokyo Tech</B><br>The curriculum is scheduled to start in FY2020. The 2nd Orientation will be held with more information for guiding students who plan to join the program."
     url: "https://www.sss.e.titech.ac.jp/event-wise-orientation-20200205/"
     btn_label: "Click for Details"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/matching-workshop.jpg
-    alt: "SSS Matching Workshop"
-    title: "SSS Matching Workshop"
-    excerpt: "2019/11/08<br>We aim to build interdisciplinary research teams by matching the needs of consortium participating partners with the technical and human resources of Tokyo Tech faculties and students. The aim is to provide a playground for faculty members and students in various fields to have direct discussion with participating consortium partners. This time, we aim to create more matching opportunities by holding concurrently S-Round (Seeds) and N-Round (Needs), which were held twice last year, at the same time."
-    url: "https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/"
-    btn_label: "Click for Detailes"
     btn_class: "btn--primary"
 ---
 
