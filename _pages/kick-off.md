@@ -34,8 +34,7 @@ header:
 
 **会場：東京工業大学 蔵前会館 くらまえホール**
 
-**以下の[URL](https://www.wise-sss.titech.ac.jp)よりお申込みください(申込締切：2/26)**
-
+**以下の[URL](https://www.wise-sss.titech.ac.jp)よりお申込みください(申込締切：2/26)**<br>
 [https://www.wise-sss.titech.ac.jp](https://www.wise-sss.titech.ac.jp)
 
 
@@ -73,8 +72,7 @@ header:
 
 **対象：学生及び超スマート社会卓越教育院関係者**
 
-**以下の[URL](https://www.wise-sss.titech.ac.jp)よりお申込みください(申込締切：2/26)**
-
+**以下の[URL](https://www.wise-sss.titech.ac.jp)よりお申込みください(申込締切：2/26)**<br>
 [https://www.wise-sss.titech.ac.jp](https://www.wise-sss.titech.ac.jp)
 
   <span style="color:Red">​プログラムは追って連絡いたします。</span>

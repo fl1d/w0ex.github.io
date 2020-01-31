@@ -29,7 +29,7 @@ header:
 ---
 
 ## カリキュラム
-（学修案内は[こちら](https://www.wise-sss.titech.ac.jp/courses/guide_SSS.pdf)）
+（学修案内(案)は[こちら](https://www.wise-sss.titech.ac.jp/courses/guide_SSS.pdf)）
 
 <div style="text-align:center"><img src="/assets/images/curriculum.png" /></div><br>
 
