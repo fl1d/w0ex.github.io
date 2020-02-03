@@ -42,7 +42,7 @@ header:
 
   Date: Wednesday, March 11, 2020<br>
   Location: Kuramae Hall, Tokyo Tech Front<br>
-  Detailed: See [here](/kick-off-en)
+  Detailed: See [here](/kick-off_en/)
 
 <hr>
 
