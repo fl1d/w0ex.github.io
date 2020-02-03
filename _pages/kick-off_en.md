@@ -39,7 +39,7 @@ header:
 [https://form.run/@sss-wise-kickoff-titech](https://form.run/@sss-wise-kickoff-titech)
 
 * **For General**<br>
-[https://form.run/@sss-wise-kickoff](https://form.run/@sss-wise-kickoff-titech)
+[https://form.run/@sss-wise-kickoff](https://form.run/@sss-wise-kickoff)
 
 <hr>
 

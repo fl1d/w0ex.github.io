@@ -40,7 +40,7 @@ header:
   [https://form.run/@sss-wise-kickoff-titech](https://form.run/@sss-wise-kickoff-titech)
 
 * **学外用（コンソーシアム参加機関・一般）**<br>
-  [https://form.run/@sss-wise-kickoff](https://form.run/@sss-wise-kickoff-titech)
+  [https://form.run/@sss-wise-kickoff](https://form.run/@sss-wise-kickoff)
 
 超スマート社会(Super Smart Society)を牽引する博士人材を育成する超スマート社会卓越教育院の発足を記念して、キックオフ記念式典を開催いたします。超スマート社会卓越教育課程は、文部科学省の卓越大学院プログラムに採択された新世代の教育プログラムです。
 

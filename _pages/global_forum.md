@@ -42,7 +42,7 @@ header:
   [https://form.run/@sss-wise-workshop-0312-titech](https://form.run/@sss-wise-workshop-0312-titech)
 
 * **学外用（国内プログラム担当者）**<br>
-  [https://form.run/@sss-wise-workshop-0312](https://form.run/@sss-wise-workshop-0312-titech)
+  [https://form.run/@sss-wise-workshop-0312](https://form.run/@sss-wise-workshop-0312)
 
 超スマート社会推進コンソーシアムが企画し、世界各地から海外アドバイザーを中心に一流の研究者を招聘して、招待講演による超スマート社会向けのシンポジウムを開催します。また、所属学生の研究成果を発表し、海外アドバイザーとの質疑討論でグローバルな知見を獲得するイベントです。
 

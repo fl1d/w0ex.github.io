@@ -39,7 +39,7 @@ header:
 [https://form.run/@sss-wise-workshop-0312-titech](https://form.run/@sss-wise-workshop-0312-titech)
 
 * **For Faculty**<br>
-[https://form.run/@sss-wise-workshop-0312](https://form.run/@sss-wise-kickoff-titech)
+[https://form.run/@sss-wise-workshop-0312](https://form.run/@sss-wise-workshop-0312)
 
 <hr>
 
