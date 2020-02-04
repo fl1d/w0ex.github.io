@@ -41,7 +41,7 @@ header:
 * **学内用（学生）**<br>
   [https://form.run/@sss-wise-workshop-0312-titech](https://form.run/@sss-wise-workshop-0312-titech)
 
-* **学外用（国内プログラム担当者）**<br>
+* **学外用（コンソーシアム会員）**<br>
   [https://form.run/@sss-wise-workshop-0312](https://form.run/@sss-wise-workshop-0312)
 
 超スマート社会推進コンソーシアムが企画し、世界各地から海外アドバイザーを中心に一流の研究者を招聘して、招待講演による超スマート社会向けのシンポジウムを開催します。また、所属学生の研究成果を発表し、海外アドバイザーとの質疑討論でグローバルな知見を獲得するイベントです。
@@ -53,14 +53,15 @@ header:
 第一部（講演会）＠S221
 
 * 13:00　開会挨拶：高田潤一 副学長
-* 13:35　(仮題) Smart Wirelessのパネル討論
+* 13:05　(仮題) Smart Wirelessの講演会及びパネル討論
   * 司会：高田潤一 副学長
   * パネリスト（予定）：
     * Ali Sadri (Intel, 米国）
-    * Emilio　Calvanese Strinati (CEA Leti, 仏国）
+    * Emilio Calvanese Strinati (CEA Leti, 仏国）
     * Thomas Haustein (Fraunhofer HHI, ドイツ)
     * Jenq-Shiou Leu (NTUST, 台湾）
     * Masaaki Maeda (Asurion, 米国）
+    * Seong-Lyun Kim (延世大学, 韓国)
 * 14:45   休憩
 * 15:05　(仮題) Smart Societyのパネル討論
   * 司会：クロス ジェフリー スコット　環境・社会理工学院　教授

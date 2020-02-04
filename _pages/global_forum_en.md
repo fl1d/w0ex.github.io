@@ -35,10 +35,10 @@ header:
 
 **Please apply at the website by February 26.**
 
-* **For students**<br>
+* **For Students**<br>
 [https://form.run/@sss-wise-workshop-0312-titech](https://form.run/@sss-wise-workshop-0312-titech)
 
-* **For Faculty**<br>
+* **For Consortium Members**<br>
 [https://form.run/@sss-wise-workshop-0312](https://form.run/@sss-wise-workshop-0312)
 
 <hr>
@@ -48,14 +48,15 @@ header:
 1st part（Symposium）＠S221
 
 * 13:00　Opening：Prof. Jun-ichi Takada (Vice President)
-* 13:35　(Tentative) Panel discussion on Smart Wireless
+* 13:05　(Tentative) Speech and Panel discussion on Smart Wireless
   * Chair：Prof. Jun-ichi Takada (Vice President)
   * Panelist（TBD）：
     * Ali Sadri (Intel,US）
-    * Emilio　Calvanese Strinati (CEA-Leti,France）
+    * Emilio Calvanese Strinati (CEA-Leti,France）
     * Thomas Haustein (Fraunhofer HHI,Germany)
     * Jenq-Shiou Leu (NTUST,Taiwan）
     * Masaaki Maeda (Asurion,US）
+    * Seong-Lyun Kim (Yonsei University, Korea)
 * 14:45   Bio break
 * 15:05　(Tentative) Panel discussion on Smart Society
   * Chair：Prof. Cross Jeffrey Scott (School of Environment and Society)
