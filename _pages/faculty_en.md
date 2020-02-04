@@ -28,7 +28,7 @@ header:
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
 
-
+**Academic Supervisors**
 
 Nobuyuki Iwatsuki | Professor |Mechanical Engineering
 Koichi Suzumori | Professor|Mechanical Engineering
@@ -91,3 +91,38 @@ Hidetoshi Nishimori|Professor|Quantum Computing Unit
 Misako Takayasu|Professor|Advanced Data Analysis and Modeling Unit
 Takuya Oda|Specially Appointed Professor|International Research Center of Advanced<br> Energy Systems for Sustainability
 Kenji Suzuki|Specially Appointed Professor|World Research Hub Initiative
+
+<br><br>
+
+**External Evaluation Special Advisors**
+
+|Prof. Pramod P. Khargonekar| Vice Chancellor for Research of UC Irvine <br>Former NSF Assistant Director for Engineering
+|Dr. Makoto Ando|Director, KOSEN National Institute of Technology<br>Ex-president, IEICE
+|Dr. Kazuo Kyuma|President, National Agriculture and Food Research Organization<br>Ex-executive member, CSTI
+|Prof. Hironori Hibino|Tokyo University of Science
+
+<br><br>
+
+**Private Companies/Public Research Institutes/Local Governments**
+
+|KDDI CORPORATION
+|SoftBank Corp.
+|Koden Electronics Co., Ltd.
+|NEC Corporation
+|Azbil Corporation
+|JTEKT CORPORATION
+|DENSO Corporation
+|NSK Ltd.
+|Yokogawa Electric Corporation
+|Hitachi Industrial Equipment Systems Co.,Ltd.
+|YASKAWA Electric Corporation
+|SHO-BOND CORPORATION
+|Digital Transformation Division, Mitsubishi UFJ Financial Group, Inc.
+|Ota City
+|Kawasaki City
+|Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
+|Center for Advanced Intelligence Project, RIKEN
+|National Institutes for Quantum and Radiological Science and Technology (QST)
+|The Wireless Networks Research Center,<br>National Institute of Information and Communications Technology (NICT)
+|Information Technology and Human Factors,<br>National Institute of Advanced Industrial Science and Technology (AIST)
+|National Agriculture and Food Research Organization (NARO)
