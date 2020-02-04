@@ -56,7 +56,7 @@ header:
     * Thomas Haustein (Fraunhofer HHI,Germany)
     * Jenq-Shiou Leu (NTUST,Taiwan）
     * Masaaki Maeda (Asurion,US）
-    * Seong-Lyun Kim (Yonsei University, Korea)
+    * Seong-Lyun Kim (Yonsei U, Korea)
 * 14:45   Bio break
 * 15:05　(Tentative) Panel discussion on Smart Society
   * Chair：Prof. Cross Jeffrey Scott (School of Environment and Society)
