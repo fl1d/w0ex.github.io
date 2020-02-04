@@ -101,21 +101,21 @@ Cross Jeffrey Scott|オンライン教育委員会　副委員長|社会理工�
 **海外アドバイザー**
 
 | |
-M. Egerstedt |(Georgia Institute of Technology)
-J.-S. Leu| (NTUST)
-W.G. van der Wiel |(University of Twente)
-M. Ceccarelli| (University of Rome Tor Vergata)
-C.-H. Menq |(The Ohio State University)
-T. Chaisomphob |(Thammasat University)
-I. Watson |(University of Glasgow)
-S. Hirche |(Technical University of Munich)
-T. Haustein |(Fraunhofer Heinrich-Hertz-Institute)
-B. Vucetic |(University of Sydney)
-S.S. Varvayanis| (Cornell University)
-M. Bacchiani |(Google Japan)
-A. Sadri |(Intel Corp.)
-E. C. Strinati |(CEA Leti)
-S. Sun |(Infocomm Research)
+M. Egerstedt |Georgia Institute of Technology
+J.-S. Leu| NTUST
+W.G. van der Wiel |University of Twente
+M. Ceccarelli| University of Rome Tor Vergata
+C.-H. Menq |The Ohio State University
+T. Chaisomphob |Thammasat University
+I. Watson |University of Glasgow
+S. Hirche |Technical University of Munich
+T. Haustein |Fraunhofer Heinrich-Hertz-Institute
+B. Vucetic |University of Sydney
+S.S. Varvayanis| Cornell University
+M. Bacchiani |Google Japan
+A. Sadri |Intel Corp.
+E. C. Strinati |CEA Leti
+S. Sun |Infocomm Research
 
 
 <br><br>
@@ -123,24 +123,24 @@ S. Sun |(Infocomm Research)
 **民間企業・国研・自治体**
 
  | |
-|KDDI株式会社
-|ソフトバンク株式会社
-|株式会社光電製作所
-|日本電気株式会社 (NEC)
-|アズビル株式会社
-|株式会社ジェイテクト
-|株式会社デンソー
-|株式会社日立産機システム
-|株式会社安川電機
-|日本精工株式会社
-|ショーボンド建設株式会社
-|株式会社三菱UFJフィナンシャル・グループ (デジタル企画部)
-|横河電機株式会社
-|大田区
-|川崎市
-|国立研究開発法人 海洋研究開発機構（JAMSTEC）
-|国立研究開発法人 理化学研究所（RIKEN）革新知能統合研究センター
-|国立研究開発法人 量子科学技術研究開発機構（QST）
-|国立研究開発法人 情報通信研究機構（NICT） ワイヤレスネットワーク総合研究センター
-|国立研究開発法人 産業技術総合研究所（AIST） 情報・人間工学領域
-|国立研究開発法人 農業・食品産業技術総合研究機構
+吉原貴仁|KDDI株式会社
+藤井輝也|ソフトバンク株式会社
+荒田慎太郎|株式会社光電製作所
+中村祐一|日本電気株式会社 (NEC)
+綛田長生|アズビル株式会社
+桑原寛文|株式会社ジェイテクト
+川原伸章|株式会社デンソー
+山崎正裕|株式会社日立産機システム
+筒井幸雄|株式会社安川電機
+宮田慎司|日本精工株式会社
+岳尾弘洋|ショーボンド建設株式会社
+安喰就一|株式会社三菱UFJフィナンシャル・グループ (デジタル企画部)
+和田英彦|横河電機株式会社
+山田良司|大田区
+佐藤一憲|川崎市
+豊福高志|国立研究開発法人 海洋研究開発機構（JAMSTEC）
+前原貴憲|国立研究開発法人 理化学研究所（RIKEN）革新知能統合研究センター
+大島武|国立研究開発法人 量子科学技術研究開発機構（QST）
+児島史秀|国立研究開発法人 情報通信研究機構（NICT） ワイヤレスネットワーク総合研究センター
+小川宏高|国立研究開発法人 産業技術総合研究所（AIST） 情報・人間工学領域
+久間和生|国立研究開発法人 農業・食品産業技術総合研究機構
