@@ -91,10 +91,10 @@ Cross Jeffrey Scott|オンライン教育委員会　副委員長|社会理工�
 **学外評価特別アドバイザー**
 
 |　|　
-|Pramod Khargoneka |(Vice Chancellor for Research of UC Irvine, 前NSF工学部門局長)
-|安藤真| (国立高等専門学校機構理事, 前電子情報通信学会会長)
-| 久間和生 |(農研機構理事長, 前CSTI有識者議員)
-| 日比野浩典 |(東京理科大学)
+|Pramod Khargoneka |Vice Chancellor for Research of UC Irvine, 前NSF工学部門局長
+|安藤真| 国立高等専門学校機構理事, 前電子情報通信学会会長
+| 久間和生 |農研機構理事長, 前CSTI有識者議員
+| 日比野浩典 |東京理科大学
 
 <br><br>
 
