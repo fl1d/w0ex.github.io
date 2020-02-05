@@ -28,7 +28,7 @@ header:
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
 
-Click [here](/available-soon) for the Study Guide(tentative).
+Click [here](/doc/Guide_SSS.pdf) for the Study Guide(tentative).
 
 ## Registration Guide
 
