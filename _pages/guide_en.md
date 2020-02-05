@@ -49,7 +49,7 @@ Click [here](/doc/Guide_SSS.pdf) for the Study Guide(tentative).
 
 * **​Step 3: Take the cyber / physical off-campus project course**
 
-  Please take at least 1 credit from the course related to [cyber physical off-campus project designed by the program](/doc/Guide_SSS.pdf). The content of the intern is optional. It can be both the credit from internship subject of the student's original course, or the credit from cyber physical off-campus subjects offered by the program. In the case that the student cannot acquire the credit by the date of entrance exam, he/she can substitute by a certificate of internship completion provided by the company where the internship was conducted. The acquired credit will be counted for completion requirement of this program in the future. For information about internship program provided by SSS consortium, please click [here](https://www.sss.e.titech.ac.jp/for_students/for_students_only/) (internal link).
+  Please take at least 1 credit from the course related to cyber physical off-campus project designed by the program(Please refer to Table 1 and 6-1 in [Study Guide](/doc/Guide_SSS.pdf)). The content of the intern is optional. It can be both the credit from internship subject of the student's original course, or the credit from cyber physical off-campus subjects offered by the program. In the case that the student cannot acquire the credit by the date of entrance exam, he/she can substitute by a certificate of internship completion provided by the company where the internship was conducted. The acquired credit will be counted for completion requirement of this program in the future. For information about internship program provided by SSS consortium, please click [here](https://www.sss.e.titech.ac.jp/for_students/for_students_only/) (internal link).
 
 * **Step 4: Create a registration application here ([word](/doc/2020_Spring_Application.docx), [pdf](/doc/2020_Spring_Application.pdf)), attach a short essay on the research plan from the master course to the doctoral course and the relation to super smart society. Submit it to the office of the Tokyo Tech Academy for Super Smart Society at S3-213.**
 
@@ -76,13 +76,13 @@ In order to take this curriculum, you need to register and pass the enrollment e
 
 Registration into this program must be at least six months after enrollment in the master or doctoral program. Students who wish to register into this program must complete certain prior education before enrollment. If students start from the doctoral program, the enrollment examination and mid-term examination can be conducted at the same time.
 
-* **Selection method**
+* **Selection Method**
 
 The selection test (enrollment exam) will be judged based on the student’s motivation, research plan from master to doctoral course, and an essay on the relationship with the super smart society. Details and dates of the examination will be announced when available.
 
 In order to pass the exam, the following conditions must be met before the start of study at this program.
 
-1. At least one credit must be acquired or expected to be acquired from the [Cyber / Physical Off-Campus Project Course Group](/doc/Guide_SSS.pdf) specified or offered by the program. The off-campus project credit can be obtained by taking the aforementioned internship subjects. If the acquisition of credits cannot be confirmed by the time of the exam, the student can substitute with a project completion certificate from the organization where the off-campus project (internship) is conducted.
+1. At least one credit must be acquired or expected to be acquired from the Cyber / Physical Off-Campus Project Course Group(Please refer to Table 1 and 6-1 in Study [Guide](/doc/Guide_SSS.pdf)) specified or offered by the program. The off-campus project credit can be obtained by taking the aforementioned internship subjects. If the acquisition of credits cannot be confirmed by the time of the exam, the student can substitute with a project completion certificate from the organization where the off-campus project (internship) is conducted.
 2. Participation in the [Interdisciplinary Matching Workshop](http://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/) organized by the program.
 
 ### ２．Mid-term Examination
@@ -92,8 +92,8 @@ In order to apply for and participate in doctoral course of the program, it is n
 The mid-term examination will be based on the student’s master thesis summary / achievement list, a doctoral program research plan, and an essay on contributions to super smart society. In order to pass the mid-term examination, the following requirements must be satisfied.
 
 1. Complete the master's program or pass the completion exam.
-2. Have at least one credit from the [Artificial Intelligence Basic Subjects group](/doc/Guide_SSS.pdf) assigned by the program. The basic course of artificial intelligence designated by this program is a class to learn basic concepts of artificial intelligence (data analysis, machine learning, etc.) or an advanced class based on elementary artificial intelligence knowledge. Examples of subjects are listed [here](/doc/Guide_SSS.pdf). Acquisition of core academic ability for artificial intelligence may be obtained by acquiring credits from lectures other than those listed in this table.
-3. At least one credit from the [Basic Quantum Science Subjects group](/doc/Guide_SSS.pdf) assigned by the program. The basic course of quantum mechanics designated by this program is a class to learn basic concepts of quantum mechanics (wave function, uncertainty, etc.), or an advanced class based on elementary quantum mechanics knowledge. Examples of subjects are listed in [here](/doc/Guide_SSS.pdf). Acquisition of core academic ability for quantum science may be obtained by acquiring credits from lectures other than those listed in this table.
+2. Have at least one credit from the Artificial Intelligence Basic Subjects group(Please refer to Table 2-1 in [Study Guide](/doc/Guide_SSS.pdf)) assigned by the program. The basic course of artificial intelligence designated by this program is a class to learn basic concepts of artificial intelligence (data analysis, machine learning, etc.) or an advanced class based on elementary artificial intelligence knowledge. Acquisition of core academic ability for artificial intelligence may be obtained by acquiring credits from lectures other than those listed in this table.
+3. At least one credit from the Basic Quantum Science Subjects group(Please refer to Table 2-2 in [tudy Guide](/doc/Guide_SSS.pdf)) assigned by the program. The basic course of quantum mechanics designated by this program is a class to learn basic concepts of quantum mechanics (wave function, uncertainty, etc.), or an advanced class based on elementary quantum mechanics knowledge. Acquisition of core academic ability for quantum science may be obtained by acquiring credits from lectures other than those listed in this table.
 
 
 ### ３．Completion examination
@@ -101,8 +101,8 @@ The mid-term examination will be based on the student’s master thesis summary 
 In order to qualify for completion of this curriculum, it is necessary to satisfy the following qualification items in addition to the completion of the student’s original doctoral course.
 
 1. Students must acquire at least 10 credits from the subjects offered or designated by the program shown [here](/doc/Guide_SSS.pdf). In this curriculum, it is only necessary to obtain the specified number of credits from the prescribed subjects (400, 500, 600) by the time of completion. Even if the students who study at the doctoral course earn (400,500) credits, they can be included in the credit requirements for completing the curriculum.
-2. Participation in various events held by the program shown [here](/doc/Guide_SSS.pdf).
-3. Have passed the completion examination conducted by the program. In the completion examination, student will give oral presentation on the outline of the doctoral dissertation, activities at this WISE program. The committee will judge if the students have the ability to be a knowledgeable professional who have fundamental academic abilities, creativity, bird's eye view, problem solving skills, and leader- ship skills. Details and dates of completion examination will be announced when available.
+2. Participation in various events held by the program (Please shown refer to Table 3-2 in [Study Guide](/doc/Guide_SSS.pdf)).
+3. Have passed the completion examination conducted by the program. In the completion examination, student will give oral presentation on the outline of the doctoral dissertation, activities at this WISE program. The committee will judge if the students have the ability to be a knowledgeable professional who have fundamental academic abilities, creativity, bird's eye view, problem solving skills, and leadership skills. Details and dates of completion examination will be announced when available. Please shown refer to Table 3-1 in [Study Guide](/doc/Guide_SSS.pdf).
 
 ### ４． Doctoral Degree Examination
 
