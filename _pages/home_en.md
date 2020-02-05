@@ -2,6 +2,8 @@
 title: "Tokyo Tech Academy for Super Smart Society"
 layout: splash
 permalink: /en
+# excerpt: <br><B>Next-generation Human Resources<br>Technologies for Super Smart Society</B><br><br>
+excerpt: <br><B>Cultivating super doctor leading future society based on <br>the fusion of society-collaborated education (open education)<br> and interdisciplinary collaboration research (open innovation)</B><br><br>
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
@@ -55,10 +57,10 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-<div style="text-align:center"><h1>
+<!-- <div style="text-align:center"><h1>
 Tokyo Tech Academy for Super Smart Society<br>
 cultivate super doctor leading future society, based on the fusion of society-collaborated education (open education) and interdisciplinary collaboration research (open innovation)
-</h1></div>
+</h1></div> -->
 
  {% include feature_row id="intro" type="center" %}
 

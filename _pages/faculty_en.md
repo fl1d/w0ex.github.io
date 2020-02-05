@@ -90,6 +90,7 @@ Takamichi Nakamoto|Professor|Laboratory for Future Interdisciplinary <br>Researc
 Hidetoshi Nishimori|Professor|Quantum Computing Unit
 Misako Takayasu|Professor|Advanced Data Analysis and Modeling Unit
 Takuya Oda|Specially Appointed Professor|International Research Center of Advanced<br> Energy Systems for Sustainability
+Takao Kashiwagi|Institute Professor<br>Emeritus Professor|International Research Center of Advanced <br>Energy System for Sustainability
 Kenji Suzuki|Specially Appointed Professor|World Research Hub Initiative
 
 <br><br>

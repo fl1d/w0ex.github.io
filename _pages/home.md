@@ -2,6 +2,7 @@
 title: "超スマート社会卓越教育院"
 layout: splash
 permalink: /
+excerpt: <br><B>社会連携教育（オープンエデュケーション）<br>と異分野融合研究（オープンイノベーション）<br>の融合によって、来たる超スマート社会を牽引する<br>スーパードクターを養成します</B><br><br>
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
@@ -56,8 +57,8 @@ feature_row:
 
 ---
 
-<div style="text-align:center"><h1>
+<!-- <div style="text-align:center"><h1>
 超スマート社会卓越教育院では、<br>社会連携教育（オープンエデュケーション）<br>と異分野融合研究（オープンイノベーション）<br>の融合によって、来たる超スマート社会を牽引する<br>スーパードクターを養成します。
-</h1></div>
+</h1></div> -->
 
 {% include feature_row %}

@@ -52,7 +52,7 @@ header:
   * Prof. Nobuyuki Iwatsuki (Dean of School of Engineering, Tokyo Tech)
   * Prof. Noriyuki Ueda (Dean of Institute of Liberal Arts, Tokyo Tech)
 * 14:30 Initiatives toward Super Smart Society in various fields and expectations for this education program
-  * Prof. Takao Kashiwagi (International Reseach Center of Advanced Energy System for Sustainability, Tokyo Tech)
+  * Prof. Takao Kashiwagi (International Research Center of Advanced Energy System for Sustainability, Tokyo Tech)
   * Dr. Makoto Ando (National Institute of Technology)
   * Mr. Kazunori Sato (Kawasaki City)
   * Dr. Fumihide Kojima (National Institute of Information and Communications Technology)
