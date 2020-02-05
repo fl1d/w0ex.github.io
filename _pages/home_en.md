@@ -41,7 +41,7 @@ feature_row:
   - image_path: /assets/images/kuramae.jpg
     alt: "WISE-SSS kickoff ceremony"
     title: "WISE-SSS kickoff ceremony"
-    excerpt: "2020/03/11<br><B>Date：2020/3/11 13:00-20:00<br>Place：Tokyo Tech Front <br>Ookayama Campus, Tokyo Tech</B><br> We will cultivate society-leading super-skill PhD holders capable of fusing cutting-edge quantum science and technologies in both cyber and physical space. The consortium officials and special advisors have been invited to hold the kick-off ceremony for the Tokyo Tech Academy for the Super Smart Society at the above date and time. Please join us. "
+    excerpt: "2020/03/11<br><B>Date：2020/3/11 13:00-20:00<br>Place：Tokyo Tech Front <br>Ookayama Campus, Tokyo Tech</B><br>The consortium officials and special advisors have been invited to hold the kick-off ceremony for the Tokyo Tech Academy for the Super Smart Society at the above date and time. Please join us. "
     url: "/kick-off_en/"
     btn_label: "Click for Details"
     btn_class: "btn--primary"
