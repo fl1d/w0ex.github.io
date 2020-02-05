@@ -34,7 +34,7 @@ header:
   Place: Tokyo Tech Front, Ookayama Campus, TokyoTech <br>
   Details: see [here](http://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/)
 
-  The event aims to build interdisciplinary research teams that match the needs of consortium participating institutions with the technical and human resources of faculty and students at Tokyo Tech. For this purpose, faculty members and students from various fields and the participating organizations can conduct direct discussions in an integrated event that hold twice last year as S-Round (Seeds) and N-Round (Needs) respectively. By the merging, it is intended to provide more opportunities for research matching.
+  The event aims to build interdisciplinary research teams that match the needs of consortium participating institutions with the technical and human resources of faculty and students at Tokyo Tech. For this purpose, faculty members and students from various fields and the participating organizations can conduct direct discussions in an integrated event that hold twice last year as S-Round (Seeds) and N-Round (Needs) respectively. By the merging, it will provide more opportunities for research matching.
 
 * **Orientation of the WISE-SSS education curriculum**
 

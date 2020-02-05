@@ -63,6 +63,6 @@ Students who belong to this institute have the following advantages.
 
 * **Global Off-Campus Research Project**
 
-  Stay at a research organization of an overseas partner organization or consortium participat- ing organization for three months or more, an3d carry out global joint research related to the student’s research theme. This activity aims to foster global leadership and deepen research contents. A maximum of 800,000 yen per student will be provided as travel expenses.
+  Stay at a research organization of an overseas partner organization or consortium participating organization for three months or more, an3d carry out global joint research related to the student’s research theme. This activity aims to foster global leadership and deepen research contents. A maximum of 800,000 yen per student will be provided as travel expenses.
 
 ### 5. The program will provide career path support mainly to SSS Promotion Consortium participating organizations.

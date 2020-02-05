@@ -67,7 +67,7 @@ Click [here](/doc/Guide_SSS.pdf) for the Study Guide(tentative).
 
 * **Students' Eligibility**
 
-In order to take the enrollment examination, the following conditions must be met before the start of the study at this prgoram.
+In order to take the enrollment examination, the following conditions must be met before the start of the study at this program.
 
 1. A master student enrolled in the university who intends to continue the master course at the start of official study in this program.
 2. A master student (excluding student (I)) or a doctoral student enrolled in the university who will start / continue the program at the doctoral course (limited).

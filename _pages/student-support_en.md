@@ -32,10 +32,10 @@ In this curriculum, we will introduce the “Education and Research Expense Supp
 
 * **Super Smart Society Doctoral Leadership Scholarship**
 
-  Among the program’s encruited students, those who are recognized with high research ability / potential will be provided a scholarship of upper limit 2 million yen / year. The selection of scholarship recipients will be made during the mid-term examination based on evaluations of the students’ participation at “Interdisciplinary Matching Workshop” and interviews with the program faculty members.
+  Among the program’s enrolled students, those who are recognized with high research ability / potential will be provided a scholarship of upper limit 2 million yen / year. The selection of scholarship recipients will be made during the mid-term examination based on evaluations of the students’ participation at “Interdisciplinary Matching Workshop” and interviews with the program faculty members.
 
 * **RA for Promoting Interdisciplinary Collaborative Research**
 
-  If the research seeds of the encruited student match the needs of the consortium participating companies, the students are granted RA (Research Assistant) to conduct the established collaborative research.
+  If the research seeds of the enrolled student match the needs of the consortium participating companies, the students are granted RA (Research Assistant) to conduct the established collaborative research.
 
  In addition to the above-mentioned support, since active collaboration with MEXT and JST research projects are promoted, students belonging to this program may be employed as RAs for the aforementioned projects as well. Even if the students cannot obtain scholarship or RA for promoting interdisciplinary collaborative research, the RA expenses of the supervisor may be applied for students owning ability / potential for conducting research if the support is judged to be essential.
