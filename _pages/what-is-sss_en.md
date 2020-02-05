@@ -71,7 +71,7 @@ Specifically, the following 13 measures will be implemented.
 * Global off-campus research project
 * Overseas mentor system
 
-For details, please check the [curriculum](https://www.tac-mi.titech.ac.jp/en/curriculum).
+For details, please check the [curriculum](/curriculum_en/).
 
 **Management system of Tokyo Tech Academy for Super Smart Society**
 
