@@ -35,11 +35,11 @@ For the Study Guide, please click [here](/doc/Guide_SSS.pdf).
 
 ## Cultivation of Specialized Academic Abilities & Creativities
 
-* **Courses Related to Basic Quantum Science and Artificial Intelligence**  (Click [here](https://www.wise-sss.titech.ac.jp/courses/AI-Q.pdf) for more information)
+* **Courses Related to Basic Quantum Science and Artificial Intelligence**  (Click [here](/doc/Guide_SSS.pdf) for more information)
 
   In order to acquire the core academic skills required for the research and development of advanced technologies in super smart society, acquisition of subjects related to artificial intelligence and quantum science carefully selected in this program is a condition for passing the mid-term examination. After acquiring core academic ability, students can enroll in education and research utilizing artificial intelligence and quantum science.
 
-* **Courses Related to Cyber / Physical Specialized Subjects** 　(Click [here](https://www.wise-sss.titech.ac.jp/courses/Cyber-Physical.pdf) for more information)
+* **Courses Related to Cyber / Physical Specialized Subjects** 　(Click [here](/doc/Guide_SSS.pdf) for more information)
 
   Completion requirement is to acquire specialized subjects related to cyber space and physical space that are carefully selected in this program. By acquiring knowledge of both spaces, the students are cultivated for "specialized academic ability & originality" for super smart society.
 
@@ -49,11 +49,11 @@ For the Study Guide, please click [here](/doc/Guide_SSS.pdf).
 
 ## Cultivation of Broad Perspectives through Social Cooperation Comprehensiveness
 
-* **Super Smart Society Creation Subjects**　(Click [here](https://www.wise-sss.titech.ac.jp/courses/SSS.pdf) for more information)
+* **Super Smart Society Creation Subjects**　(Click [here](/doc/Guide_SSS.pdf) for more information)
 
   In order to cultivate professional skills and bird's eye view, with the cooperation of super smart society promotion consortium’s participating organizations (national research institutes, private companies, municipalities, etc.), the courses for creating super smart society are offered where students can learn real-world issues & advanced technologies for realizing super smart society. Taking credits from this group of subjects is required for completion of the course.
 
-* **Cyber Physical Off Campus Project**　(Click [here](https://www.wise-sss.titech.ac.jp/courses/off-campus.pdf) for more information)
+* **Cyber Physical Off Campus Project**　(Click [here](/doc/Guide_SSS.pdf) for more information)
 
   The completion requirement is to conduct an internship at a participating organization of the Super Smart Society Promotion Consortium. The puropose of this subject is to develop human resources who can overlook the super smart society by experiencing off-campus projects in fields different from their specialty.
 
@@ -78,7 +78,7 @@ For the Study Guide, please click [here](/doc/Guide_SSS.pdf).
 
 ## Cultivation Global leadership development
 
-* **Global Leadership Development Courses**　(Click [here](https://www.wise-sss.titech.ac.jp/courses/global.pdf) for more information)
+* **Global Leadership Development Courses**　(Click [here](/doc/Guide_SSS.pdf) for more information)
 
   To cultivate the power to drive super smart society, students must take the University's leadership education subjects and demonstrate his leadership skills on the above super smart society creation research project and the below global off-campus research project.
 
@@ -86,7 +86,7 @@ For the Study Guide, please click [here](/doc/Guide_SSS.pdf).
 
   The students present research results, evaluate and determine research direction via discussions at the Super Smart Society Global Forum, which is organized by the Super Smart Society Promotion Consortium, where leading researchers from around the world, centering on overseas advisors, are invited, to gain global knowledge.
 
-* **Global Off-Campus Research Project**　(Click [here](https://www.wise-sss.titech.ac.jp/courses/off-campus.pdf) for more information)
+* **Global Off-Campus Research Project**　(Click [here](/doc/Guide_SSS.pdf) for more information)
 
    Stay at a research organization of an overseas partner organization or consortium participating organization for three months or more, and carry out global joint research related to the students’ research theme. This activity aims to foster global leadership and deepen research contents. A maximum of 800,000 yen per student will be provided as travel expenses.
 
