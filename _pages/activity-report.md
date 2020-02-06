@@ -40,4 +40,4 @@ header:
 
   日時：2019年10月10日（木）17:00-17:50 <br>
   場所：西9号館　ディジタル多目的ホール <br>
-  詳細：[こちら](https://www.sss.e.titech.ac.jp/event-eng-edu-program-orientation-20191010/)を参照
+  詳細：[こちら](/1st-orientation/)を参照

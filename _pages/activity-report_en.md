@@ -40,4 +40,4 @@ header:
 
   Date and time: Thursday, October 10, 2019 17: 00-17: 50
   Venue: West Building 9 Digital Multipurpose Hall
-  Details: See [here](https://www.sss.e.titech.ac.jp/event-eng-edu-program-orientation-20191010/)
+  Details: See [here](/1st-orientation/)
