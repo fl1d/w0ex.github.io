@@ -48,7 +48,7 @@ feature_row:
     title: "第２回オリエンテーション"
     alt: "第２回オリエンテーション"
     excerpt: "2020/02/05<br><B>日時：2020年2月5日（水） 17:00-18:30<br>場所：東京工業大学 大岡山キャンパス <br>大岡山西講義棟１（W531）<br>[レクチャーシアター](http://www.mono.titech.ac.jp/~kokusai/TLT.html)</B><br>2020年4月の超スマート社会卓越教育課程のプログラム開始に先立ち、2月～3月に第一期生の所属選抜を実施します。 それに伴いまして、下記要領にて第２回オリエンテーションを開催しますので、本プログラムにご興味のある方は奮ってご参加ください。"
-    url: "https://www.sss.e.titech.ac.jp/event-wise-orientation-20200205/"
+    url: "/2nd-orientation/"
     btn_label: "詳細はこちら"
     btn_class: "btn--primary"
 
