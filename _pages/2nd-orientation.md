@@ -28,7 +28,7 @@ header:
     url: "https://www.sss.e.titech.ac.jp/"
 ---
 
-<span style="color:Red">オリエンテーション資料は[**こちら**](https://www.sss.e.titech.ac.jp/event-wise-orientation-20200205/materials/)からダウンロードしてください。(学内だけ)</span><br>
+<span style="color:Red">オリエンテーション資料は[**こちら**](https://www.sss.e.titech.ac.jp/event-wise-orientation-20200205/materials/)からダウンロードしてください。<br>(学内からのみアクセス可能)</span><br>
 
 <hr>
 
