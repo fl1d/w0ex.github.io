@@ -37,7 +37,7 @@ Click [here](/doc/Guide_SSS.pdf) for the Study Guide(tentative).
   **2nd Orientation for the WISE-SSS**<br>
   Date：2020/2/5 17:00-18:30<br>
   Place：（W531）Lecture Theater, Ookayama Campus, Tokyo Tech<br>
-  Details：See [here](https://www.sss.e.titech.ac.jp/event-wise-orientation-20200205/)
+  Details：See [here](/2nd-orientation_en/)
 
 * **Step 2: Participate in the interdisciplinary matching workshop**
 
