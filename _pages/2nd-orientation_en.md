@@ -27,6 +27,9 @@ header:
   - label: "SSS Promotion Consortium"
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
+<span style="color:Red">Please download the orientation materials from [**here**](https://www.sss.e.titech.ac.jp/event-wise-orientation-20200205/materials/).<br> (only accessible from TokyoTech network)</span><br>
+
+<hr>
 
 **Date**：Feb. 5, 2020 (Wed.) 17:00-18:30<br>
 **Venue**：Tokyo Institute of Technology Ookayama Campus　Lecture Theatre<br>
