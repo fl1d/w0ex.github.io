@@ -50,22 +50,22 @@ header:
 * 13:00　Opening：Prof. Jun-ichi Takada (Vice President)
 * 13:05　(Tentative) Speech and Panel discussion on Smart Wireless
   * Chair：Prof. Jun-ichi Takada (Vice President)
-  * Panelist（TBD）：
+  * Speakers（TBD）：
     * Ali Sadri (Intel,US）
-    * Emilio Calvanese Strinati (CEA-Leti,France）
-    * Thomas Haustein (Fraunhofer HHI,Germany)
-    * Jenq-Shiou Leu (NTUST,Taiwan）
-    * Masaaki Maeda (Asurion,US）
+    * Emilio Calvanese Strinati (CEA-Leti, France）
+    * Thomas Haustein (Fraunhofer HHI, Germany)
+    * Jenq-Shiou Leu (NTUST, Taiwan）
+    * Masaaki Maeda (Asurion, US）
     * Seong-Lyun Kim (Yonsei U, Korea)
-* 14:45   Bio break
-* 15:05　(Tentative) Panel discussion on Smart Society
+* 14:45 Bio break
+* 15:05　(Tentative) Speech and Panel discussion on Smart Society
   * Chair：Prof. Cross Jeffrey Scott (School of Environment and Society)
-  * Panelist（TBD）：
-    * Michiel Bacchiani (Google,JP）
-    * Marco Ceccarelli (U Rome Tor Vergata,Italy)
-    * Taweep Chaisomphob (Thammasat U,Thailand）
-    * Ian Watson (U Glasgow,UK）
-    * Susi Varvayanis (Cornell U,US）
+  * Speakers（TBD）：
+    * Michiel Bacchiani (Google, JP）
+    * Marco Ceccarelli (U Rome Tor Vergata, Italy)
+    * Taweep Chaisomphob (Thammasat U, Thailand）
+    * Ian Watson (U Glasgow, UK）
+    * Susi Varvayanis (Cornell U, US）
 
 <br>
 2nd part（Poster presentation）＠S223-S224
