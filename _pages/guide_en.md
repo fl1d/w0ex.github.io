@@ -53,7 +53,7 @@ Click [here](/doc/Guide_SSS.pdf) for the Study Guide(tentative).
 
 * **Step 4: Create a registration application here ([word](/doc/2020_Spring_Application.docx), [pdf](/doc/2020_Spring_Application.pdf)), attach a short essay on the research plan from the master course to the doctoral course and the relation to super smart society. Submit it to the office of the Tokyo Tech Academy for Super Smart Society at S3-213.**
 
-  Please read the [study guide](/doc/Guide_SSS.pdf) (tentative) carefully. Doctoral course applicants or existing doctoral students who request for mid-term review in concurrent with the entrance examination, please fill into 「4. Request for mid-term review for transforming into the program」 of the registration application form. Details about the mid-term review will be informed to the relevant applicants later from the office.
+  Please read the [Study Guide](/doc/Guide_SSS.pdf) (tentative) carefully. Doctoral course applicants or existing doctoral students who request for mid-term review in concurrent with the entrance examination, please fill into 「4. Request for mid-term review for transforming into the program」 of the registration application form. Details about the mid-term review will be informed to the relevant applicants later from the office.
 
   Deadline: 2020/2/28 12:00<br>
   Place of submission: Rm.S3-213
@@ -82,7 +82,7 @@ The selection test (enrollment exam) will be judged based on the student’s mot
 
 In order to pass the exam, the following conditions must be met before the start of study at this program.
 
-1. At least one credit must be acquired or expected to be acquired from the Cyber / Physical Off-Campus Project Course Group(Please refer to Table 1 and 6-1 in Study [Guide](/doc/Guide_SSS.pdf)) specified or offered by the program. The off-campus project credit can be obtained by taking the aforementioned internship subjects. If the acquisition of credits cannot be confirmed by the time of the exam, the student can substitute with a project completion certificate from the organization where the off-campus project (internship) is conducted.
+1. At least one credit must be acquired or expected to be acquired from the Cyber / Physical Off-Campus Project Course Group(Please refer to Table 1 and 6-1 in [Study Guide](/doc/Guide_SSS.pdf)) specified or offered by the program. The off-campus project credit can be obtained by taking the aforementioned internship subjects. If the acquisition of credits cannot be confirmed by the time of the exam, the student can substitute with a project completion certificate from the organization where the off-campus project (internship) is conducted.
 2. Participation in the [Interdisciplinary Matching Workshop](http://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/) organized by the program.
 
 ### ２．Mid-term Examination
@@ -93,7 +93,7 @@ The mid-term examination will be based on the student’s master thesis summary 
 
 1. Complete the master's program or pass the completion exam.
 2. Have at least one credit from the Artificial Intelligence Basic Subjects group(Please refer to Table 2-1 in [Study Guide](/doc/Guide_SSS.pdf)) assigned by the program. The basic course of artificial intelligence designated by this program is a class to learn basic concepts of artificial intelligence (data analysis, machine learning, etc.) or an advanced class based on elementary artificial intelligence knowledge. Acquisition of core academic ability for artificial intelligence may be obtained by acquiring credits from lectures other than those listed in this table.
-3. At least one credit from the Basic Quantum Science Subjects group(Please refer to Table 2-2 in [tudy Guide](/doc/Guide_SSS.pdf)) assigned by the program. The basic course of quantum mechanics designated by this program is a class to learn basic concepts of quantum mechanics (wave function, uncertainty, etc.), or an advanced class based on elementary quantum mechanics knowledge. Acquisition of core academic ability for quantum science may be obtained by acquiring credits from lectures other than those listed in this table.
+3. At least one credit from the Basic Quantum Science Subjects group(Please refer to Table 2-2 in [Study Guide](/doc/Guide_SSS.pdf)) assigned by the program. The basic course of quantum mechanics designated by this program is a class to learn basic concepts of quantum mechanics (wave function, uncertainty, etc.), or an advanced class based on elementary quantum mechanics knowledge. Acquisition of core academic ability for quantum science may be obtained by acquiring credits from lectures other than those listed in this table.
 
 
 ### ３．Completion examination
