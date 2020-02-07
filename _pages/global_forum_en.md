@@ -48,7 +48,7 @@ header:
 1st part（Symposium）＠S221
 
 * 13:00　Opening：Prof. Jun-ichi Takada (Vice President)
-* 13:05　(Tentative) Speech and Panel discussion on Smart Wireless
+* 13:05　(Tentative) Speech and panel discussion on Smart Wireless
   * Chair：Prof. Jun-ichi Takada (Vice President)
   * Speakers（TBD）：
     * Ali Sadri (Intel,US）
@@ -58,7 +58,7 @@ header:
     * Masaaki Maeda (Asurion, US）
     * Seong-Lyun Kim (Yonsei U, Korea)
 * 14:45 Bio break
-* 15:05　(Tentative) Speech and Panel discussion on Smart Society
+* 15:05　(Tentative) Speech and panel discussion on Smart Society
   * Chair：Prof. Cross Jeffrey Scott (School of Environment and Society)
   * Speakers（TBD）：
     * Michiel Bacchiani (Google, JP）
