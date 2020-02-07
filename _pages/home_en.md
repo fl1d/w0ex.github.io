@@ -1,5 +1,5 @@
 ---
-title: "Tokyo Tech Academy for Super Smart Society"
+title: "<font size='3'>Doctoral Program for World-leading Innovative & Smart Education by MEXT </font><br>Tokyo Tech Academy for Super Smart Society"
 layout: splash
 permalink: /en
 excerpt: <br><B>Cultivating super doctor leading future society based on <br>the fusion of society-collaborated education (open education)<br> and interdisciplinary collaboration research (open innovation)</B><br><br>
