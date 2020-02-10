@@ -31,7 +31,7 @@ header:
 
   Date: Wednesday, Fe. 5, 2020<br>
   Location: Lecture Theater W531, Ookayama Campus, TokyoTech<br>
-  Detailed: See [here](/2nd-orientation/)
+  Detailed: See [here](/2nd-orientation_en/)
 
 * **SSS Matching Workshop**
 
