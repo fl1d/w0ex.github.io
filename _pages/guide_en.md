@@ -82,8 +82,8 @@ The selection test (enrollment exam) will be judged based on the student’s mot
 
 In order to pass the exam, the following conditions must be met before the start of study at this program.
 
-1. At least one credit must be acquired or expected to be acquired from the Cyber / Physical Off-Campus Project Course Group(Please refer to Table 1 and 6-1 in [Study Guide](/doc/Guide_SSS.pdf)) specified or offered by the program. The off-campus project credit can be obtained by taking the aforementioned internship subjects. If the acquisition of credits cannot be confirmed by the time of the exam, the student can substitute with a project completion certificate from the organization where the off-campus project (internship) is conducted.
-2. Participation in the [Interdisciplinary Matching Workshop](http://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/) organized by the program.
+1. Acquired one or more credits from Cyber-Physical Off-Campus Project courses (Table 1 in [Study Guide](/doc/Guide_SSS.pdf)) offered or specified by the WISE Program for SSS, or finished a relevant off-campus project and be expected to acquire the credits of these courses. In cases where there is no official document certifying the course credits acquired, applicants may submit a copy of a completion certificate or equivalent document issued by the organization that facilitated relevant off-campus projects.
+2. Participation in the Interdisciplinary Matching Workshop (Table 3-2 in [Study Guide](/doc/Guide_SSS.pdf)) organized by the program.
 
 ### ２．Mid-term Examination
 
