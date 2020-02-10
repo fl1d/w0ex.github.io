@@ -65,11 +65,3 @@ header:
   -Obtain consent from the student’s academic supervisor for engagement into the program.
 
   If the students wish to sign up for this program from F2020, they must participate in the held SSS matching workshop on last Nov. 8 (2019), as one of the affiliation requirements . Please attend the orientation scheduled on Feb. 5 for more advice.
-
-<hr>
-
-* **2nd Orientation**
-
-  Date: Wednesday, Fe. 5, 2020<br>
-  Location: Lecture Theater W531, Ookayama Campus, TokyoTech<br>
-  Detailed: See [here](https://www.sss.e.titech.ac.jp/event-wise-orientation-20200205/)

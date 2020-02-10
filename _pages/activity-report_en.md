@@ -27,7 +27,12 @@ header:
   - label: "SSS Promotion Consortium"
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
+* **2nd Orientation**
 
+  Date: Wednesday, Fe. 5, 2020<br>
+  Location: Lecture Theater W531, Ookayama Campus, TokyoTech<br>
+  Detailed: See [here](https://www.sss.e.titech.ac.jp/event-wise-orientation-20200205/)
+  
 * **SSS Matching Workshop**
 
   Date and time: Friday, November 8, 2019 13: 00-20: 00<br>
