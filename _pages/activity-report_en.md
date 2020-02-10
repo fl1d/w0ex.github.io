@@ -31,8 +31,8 @@ header:
 
   Date: Wednesday, Fe. 5, 2020<br>
   Location: Lecture Theater W531, Ookayama Campus, TokyoTech<br>
-  Detailed: See [here](https://www.sss.e.titech.ac.jp/event-wise-orientation-20200205/)
-  
+  Detailed: See [here](/2nd-orientation/)
+
 * **SSS Matching Workshop**
 
   Date and time: Friday, November 8, 2019 13: 00-20: 00<br>

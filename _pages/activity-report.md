@@ -32,7 +32,7 @@ header:
 
   日時：2020年2月5日（水）17:00-18:30<br>
   場所：東京工業大学 大岡山キャンパス　大岡山西講義棟１（W531）レクチャーシアター<br>
-  詳細：[こちら](https://www.sss.e.titech.ac.jp/event-wise-orientation-20200205/)を参照
+  詳細：[こちら](/2nd-orientation/)を参照
 
 * **SSSマッチングワークショップ**
 
