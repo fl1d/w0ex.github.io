@@ -31,7 +31,7 @@ header:
 
 **Date : 2020.3.12(Thu)13:00-**
 
-**Venue : Room.221-224, South Bldg.2, TokyoTech**
+**Venue : Rm.S221-S224, South Bldg.2, TokyoTech**
 
 **Please apply at the website by February 26.**
 
@@ -45,7 +45,7 @@ header:
 
 **Program**
 
-1st part（Symposium）＠S221
+1st part（Symposium）＠S222
 
 * 13:00　Opening：Prof. Jun-ichi Takada (Vice President)
 * 13:05　(Tentative) Speech and panel discussion on Smart Wireless
