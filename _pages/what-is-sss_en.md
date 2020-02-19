@@ -79,4 +79,4 @@ For details, please check out the [curriculum](/curriculum_en/).
 
 **Faculty**
 
-Please click [here](/faculty_en/) for information about program personnel.
+Please click [here](/faculty_en/) for information about the program faculty.
