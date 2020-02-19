@@ -34,7 +34,7 @@ feature_row:
   - image_path: /assets/images/poster.jpg
     alt: "Super Smart Society Global Forum"
     title: "Super Smart Society Global Forum"
-    excerpt: "2020/03/12<br><B>Date：2020/3/12日 13:00~<br>Please：S221-224, Ookayama Campus, TokyoTech</B><br>A symposium with invited talks from the overseas advisors of WISE-SSS program is organized by SSS promotion consortium."
+    excerpt: "2020/03/12<br><B>Date：2020/3/12日 13:00~<br>Place：S221-224, Ookayama Campus, TokyoTech</B><br>A symposium with invited talks from the overseas advisors of WISE-SSS program is organized by SSS promotion consortium."
     url: "/global_forum_en/"
     btn_label: "Click for Details"
     btn_class: "btn--primary"
