@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Outline and purpose of the WISE-SSS program
+title: About the WISE–Super Smart Society (SSS) Program
 permalink: /what-is-sss_en/
 author_profile: false
 header:
@@ -30,48 +30,48 @@ header:
 
 In the Industrial Revolution and the Information Revolution, advanced science and innovative engineering have transformed our society. The next revolution is the fifth revolution, the realization of a super smart society. In order to realize a super smart society, it is essential to integrate physical space technologies such as machinery, electricity, and construction with cyber space technologies, as well as to combine advanced sciences and technologies, such as quantum science. Quantum science is a discipline based on quantum mechanics that governs the smallest unit of material and energy, "quantum." The quantum computer that realizes massively parallel computing has dramatically improved the capabilities of artificial intelligence (such as deep learning). Also, it is expected that cryptographic communication will provide secure network technology and enable automated driving with IoT using quantum sensors with ultimate sensitivity.
 
-This educational program aims to realize the super smart society based on quantum science through a degree program that integrates master and doctoral courses, with the aim of cultivating super-skilled PhD holders who are professional of knowledge and capable for leading multiple sectors of the future super smart society.
+This educational curriculum aims to realize a super smart society based on quantum science through a degree program that integrates master and doctoral courses. The objective is to train super-skilled PhD holders with technical and professional knowledge capable of leading multiple sectors of a future super smart society.
 
-To achieve this goal, we will cultivate the following five skills essential for realizing the future Super Smart Society based on quantum science, in addition to teaching specialized courses where the students enroll.
+This program cultivates five essential skills to realize a future Super Smart Society based on quantum science, in addition to teaching specialized courses where the students enroll.
 
-* Fundamental knowledge in quantum science and artificial intelligence
+* Fundamental knowledge of quantum science and artificial intelligence
 * Science and technology in specialized fields related to both cyber space and physical space technologies
-* The overall view of both quantum science and super-smart society
-* Capabilities of solving multi-disciplinary social issues
+* High-level understanding of both quantum science and a super-smart society
+* Critical-thinking skills to solve multidisciplinary social issues
 * Leadership in each sector of industry, government, and academia
 
 <div style="text-align:center"><img src="/assets/images/5o-en.png" /></div>
 
 <br>
 
-Specifically, the following 13 measures will be implemented.
+These skills are realized by the 13 measures:
 
-**【Cultivation of specialized academic abilities & creativities】**
+**Cultivation of specialized academic abilities & creativities**
 
 * Courses related to the basic quantum science and artificial intelligence
-* Cyber / Physical specialized subjects
-* Cyber / Physical cross mentor system
+* Cyber/Physical specialized subjects
+* Cyber/Physical cross mentor system
 
-**【Cultivation of broad perspectives through social collaborations】**
+**Cultivation of broad perspectives through social collaborations**
 
-* Courses related to Super Smart Society creation subjects
+* Courses related to super smart society creation subjects
 * Super smart society creation subjects
 
-**【Cultivation of solving ability for interdisciplinary issues】**
+**Cultivation of critical-thinking skills to solve interdisciplinary issues**
 
 * Interdisciplinary matching workshop
 * Intensive practice for interdisciplinary research planning
 * Super smart social basic technology research project
 * Super smart society creation research project
 
-**【Cultivation of Global leadership development】**
+**Cultivation of global leadership development**
 
 * Global leadership cultivation subjects
 * Global forum for super smart society
 * Global off-campus research project
 * Overseas mentor system
 
-For details, please check the [curriculum](/curriculum_en/).
+For details, please check out the [curriculum](/curriculum_en/).
 
 **Management system of Tokyo Tech Academy for Super Smart Society**
 
