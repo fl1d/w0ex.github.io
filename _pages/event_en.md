@@ -8,9 +8,9 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/images/mv-2_en.jpg
   actions:
-  - label: "About WISE-SSS Program"
+  - label: "About the WISE-SSS Program"
     url: "/what-is-sss_en/"
-  - label: "Merit for Students"
+  - label: "Benefits for Students"
     url: "/merit_en/"
   - label: "Curriculum"
     url: "/curriculum_en/"

@@ -2,15 +2,15 @@
 title: "<font size='3'>Doctoral Program for World-leading Innovative & Smart Education by MEXT </font><br>Tokyo Tech Academy for Super Smart Society"
 layout: splash
 permalink: /en
-excerpt: <br><B>Cultivating super doctor leading future society based on <br>the fusion of society-collaborated education (open education)<br> and interdisciplinary collaboration research (open innovation)</B><br><br>
+excerpt: <br><B>Program to cultivate leaders of a future society based on <br>the fusion of society-collaborated education (open education)<br> and interdisciplinary collaboration research (open innovation)</B><br><br>
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/mv-2_en.jpg
   actions:
-  - label: "About WISE-SSS Program"
+  - label: "About the WISE-SSS Program"
     url: "/what-is-sss_en/"
-  - label: "Merit for Students"
+  - label: "Benefits for Students"
     url: "/merit_en/"
   - label: "Curriculum"
     url: "/curriculum_en/"
@@ -32,17 +32,17 @@ header:
 
 feature_row:
   - image_path: /assets/images/poster.jpg
-    alt: "Super Smart Society Global Forum"
-    title: "Super Smart Society Global Forum"
-    excerpt: "2020/03/12<br><B>Date：2020/3/12日 13:00~<br>Place：S221-224, Ookayama Campus, TokyoTech</B><br>A symposium with invited talks from the overseas advisors of WISE-SSS program is organized by SSS promotion consortium."
+    alt: "SSS Global Forum"
+    title: "SSS Global Forum"
+    excerpt: "March 12, 2020<br><B>Date：March 12, 2020 at 13:00<br>Venue: S221-S224, Ookayama Campus, Tokyo Institute of Technology</B><br>A symposium with invited talks from overseas advisors of the WISE-SSS program is organized by the SSS Promotion Consortium."
     url: "/global_forum_en/"
     btn_label: "Click for Details"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/kuramae.jpg
-    alt: "WISE-SSS kickoff ceremony"
-    title: "WISE-SSS kickoff ceremony"
-    excerpt: "2020/03/11<br><B>Date：2020/3/11 13:00-20:00<br>Place：Tokyo Tech Front <br>Ookayama Campus, Tokyo Tech</B><br>The consortium officials and special advisors have been invited to hold the kick-off ceremony for the Tokyo Tech Academy for the Super Smart Society at the above date and time. Please join us. "
+    alt: "WISE-SSS Kickoff Ceremony"
+    title: "WISE-SSS Kickoff Ceremony"
+    excerpt: "March 11, 2020<br><B>Date：March 11, 2020 at 13:00-20:00<br>Venue: TokyoTech Front, Ookayama Campus, Tokyo Institute of Technology</B><br>Consortium officials and special advisors will host a kick-off ceremony for the Tokyo Tech Academy for Super Smart Society. Please join us. "
     url: "/kick-off_en/"
     btn_label: "Click for Details"
     btn_class: "btn--primary"
@@ -50,7 +50,7 @@ feature_row:
   - image_path: /assets/images/lecturetheater.png
     title: "2nd Orientation"
     alt: "2nd Orientation"
-    excerpt: "2020/02/05<br><B>Date：2020/2/5 17:00-18:30<br>Place：[Lecture Theater](http://www.mono.titech.ac.jp/~kokusai/TLT.html) W531<br> Ookayama Campus, Tokyo Tech</B><br>The curriculum is scheduled to start in FY2020. The 2nd Orientation will be held with more information for guiding students who plan to join the program."
+    excerpt: "February 5, 2020<br><B>Date：February 5, 2020 at 17:00-18:30<br>Venue: [Lecture Theater](http://www.mono.titech.ac.jp/~kokusai/TLT.html) W531, Ookayama Campus, Tokyo Institute of Technology</B><br>The curriculum is scheduled to start in FY2020. The 2nd Orientation will provide information to guide students planning to join the program."
     url: "/2nd-orientation_en/"
     btn_label: "Click for Details"
     btn_class: "btn--primary"
