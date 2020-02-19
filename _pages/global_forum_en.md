@@ -38,7 +38,7 @@ header:
 * **For Students**<br>
 [https://form.run/@sss-wise-workshop-0312-titech](https://form.run/@sss-wise-workshop-0312-titech)
 
-* **For Consortium Members**<br>
+* **For Faculties and Consortium Members**<br>
 [https://form.run/@sss-wise-workshop-0312](https://form.run/@sss-wise-workshop-0312)
 
 <hr>
