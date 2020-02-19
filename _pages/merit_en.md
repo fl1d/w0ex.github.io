@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Merit for Students
+title: Benefits for Students
 permalink: /merit_en/
 author_profile: false
 header:
@@ -28,41 +28,41 @@ header:
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
 
-Students who belong to this institute have the following advantages.
+Advantages for students studying at the institute include:
 
 
-### 1. The program offers the opportunities to take part in research projects creating Super Smart Society in collaboration with consortium partners.
+### 1. Opportunities to participate in research projects to create a super smart society in collaboration with consortium partners
 
-* **Research Project Related to Fundamental Technologies for Super Smart Society**
+* **Research projects related to fundamental technologies for a super smart society**
 
-  Based on advice from not only academic advisors but industrial and government experts, students can conduct fundamental technology research projects creating super smart society and cultivate interdisciplinary problem-solving skills. An annual budget of about 500,000 yen will be allocated to students to discuss with their advisors and carry out the research.
+  Students can conduct fundamental technology research projects towards a super smart society and cultivate interdisciplinary problem-solving skills under the mentorship of not only the students’ academic supervisors but also industrial and government advisors. A budget of 500,000 yen per year is allocated for student-initiated research.
 
-* **Research project creating Super Smart Society**
+* **Research projects to create a super smart society**
 
-  Research project creating super smart society based on matching is conducted to solve interdisciplinary social issues. If such interdisciplinary research team is established, a research fund of up to 2 million yen / year will be allocated for social implementation.
+  Research projects to create a super smart society aim to create research groups to solve interdisciplinary social issues. If such an interdisciplinary research team is established, a research fund of up to two million yen per year will be allocated for social implementation.
 
-### 2. Through the SSS Promotion Consortium, we provide attractive educational programs in cooperation with society.
+### 2. Unique educational programs in cooperation with society through the Super Smart Society Promotion Consortium
 
-* **Courses Related to Super Smart Society Creation**
+* **Courses related to the creation of a super smart society**
 
-  In order to cultivate professional skills and bird's eye view, with the cooperation of super smart society promotion consortium’s participating organizations (national research institutes, private companies, municipalities, etc.), the courses for creating super smart society are offered where students can learn real-world issues & advanced technologies for realizing super smart society. Taking credits from this group of subjects is required for completion of the course.
+  To cultivate professional skills and a holistic view, courses are developed in cooperation with the Super Smart Society Promotion Consortium’s participating organizations (national research institutes, private companies, municipalities, etc.). Students learn about current real-world issues & advanced technologies. All students must earn credits in this area.
 
-* **Cyber / Physical Off-Campus Project**
+* **Cyber/physical off-campus project**
 
-  The completion requirement is to conduct an internship at a participating organization of the Super Smart Society Promotion Consortium. The purpose of this subject is to develop human resources who can overlook the super smart society by experiencing off-campus projects in fields different from their specialty.
+  Students complete an internship at a participating organization of the Super Smart Society Promotion Consortium. The intent is to cultivate skills necessary to lead a super smart society through a hands-on off-campus project in a different field from their specialty.
 
-### 3. We provide financial support that allows students to concentrate on studies and research.
+### 3. Financial support that allows students to concentrate on their education and research.
 
   The following financial support systems are available:
   * Super Smart Society Leadership Grant
-  * RA employment to promote collaborative research in interdisciplinary fields
+  * Research Assistant(RA) employment to promote collaborative research in interdisciplinary fields
 
   See [Enrolled Students’ Support](/student-support_en/) for more information.
 
-### 4. We will provide opportunities for joint research with overseas partner organizations and support travel expenses.
+### 4. Opportunities for joint research with overseas partner organizations and support for travel expenses
 
-* **Global Off-Campus Research Project**
+* **Global off-campus research project**
 
-  Stay at a research organization of an overseas partner organization or consortium participating organization for three months or more, an3d carry out global joint research related to the student’s research theme. This activity aims to foster global leadership and deepen research contents. A maximum of 800,000 yen per student will be provided as travel expenses.
+  Students intern at a research organization of an overseas partner organization or consortium-participating organization for three months or more, and conduct global joint research related to the student’s research theme. This activity fosters global leadership and deepens research content. A maximum of 800,000 yen per student is provided for travel expenses.
 
-### 5. The program will provide career path support mainly to SSS Promotion Consortium participating organizations.
+### 5. Career path support to join Super Smart Society Promotion Consortium–participating organizations
