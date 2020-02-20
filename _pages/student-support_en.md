@@ -28,14 +28,14 @@ header:
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
 
-In this curriculum, we will introduce the “Education and Research Expense Support System” to create an environment where students can become financially supported to concentrate on their studies. This system provides the following supports in addition to the Tokyo Tech Doctoral Student Scholarship TSUBAME to be provided to all doctoral students.
+This curriculum introduces the “Education and Research Expense Support System” to create an environment where students can concentrate on their studies by receiving financial support. In addition to the Tokyo Tech Doctoral Student Scholarship TSUBAME, which is provided to all doctoral students, the system provides the following support.
 
 * **Super Smart Society Doctoral Leadership Scholarship**
 
-  Among the program’s enrolled students, those who are recognized with high research ability / potential will be provided a scholarship of upper limit 2 million yen / year. The selection of scholarship recipients will be made during the mid-term examination based on evaluations of the students’ participation at “Interdisciplinary Matching Workshop” and interviews with the program faculty members.
+  Among the program’s enrolled students, students with a high research ability or outstanding potential will be provided a scholarship with an upper limit of two million yen per year. Recipients are selected during the mid-term examination based on evaluations of the students’ participation at an “Interdisciplinary Matching Workshop” and interviews with the program faculty members.
 
-* **RA for Promoting Interdisciplinary Collaborative Research**
+* **Research assistantship for promoting interdisciplinary collaborative research**
 
-  If the research seeds of the enrolled student match the needs of the consortium participating companies, the students are granted RA (Research Assistant) to conduct the established collaborative research.
+  If the research seed of the enrolled student matches the needs of the consortium-participating companies, the student is granted research assistantship to conduct the established collaborative research.
 
- In addition to the above-mentioned support, since active collaboration with MEXT and JST research projects are promoted, students belonging to this program may be employed as RAs for the aforementioned projects as well. Even if the students cannot obtain scholarship or RA for promoting interdisciplinary collaborative research, the RA expenses of the supervisor may be applied for students owning ability / potential for conducting research if the support is judged to be essential.
+ In addition to the aforementioned support, since active collaboration with MEXT (Ministry of Education, Culture, Sports, Science and Technology) and JST (Japan Science and Technology Agency) research projects is promoted, students belonging to this program may be employed as research assistants for the aforementioned projects as well. Even if the students cannot obtain a scholarship or research assistantship for promoting interdisciplinary collaborative research, the research assistant expenses of the supervisor may be applied if the student’s support is deemed essential in a project.
