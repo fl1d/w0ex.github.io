@@ -38,7 +38,7 @@ header:
 
 <hr>
 
-* **Kick-off ceremony of the Tokyo Tech Academy for Super Smart Society**
+* **Opening ceremony of the Tokyo Tech Academy for Super Smart Society**
 
   Date: March 11, 2020 (Wednesday)<br>
   Location: Kuramae Hall, TokyoTech Front<br>

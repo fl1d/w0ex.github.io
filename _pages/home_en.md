@@ -40,9 +40,9 @@ feature_row:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/kuramae.jpg
-    alt: "WISE-SSS Kickoff Ceremony"
-    title: "WISE-SSS Kickoff Ceremony"
-    excerpt: "March 11, 2020<br><B>Date：March 11, 2020 at 13:00-20:00<br>Venue: TokyoTech Front, Ookayama Campus, Tokyo Institute of Technology</B><br>Consortium officials and special advisors will host a kick-off ceremony for the Tokyo Tech Academy for Super Smart Society. Please join us. "
+    alt: "WISE-SSS Opening Ceremony"
+    title: "WISE-SSS Opening Ceremony"
+    excerpt: "March 11, 2020<br><B>Date：March 11, 2020 at 13:00-20:00<br>Venue: TokyoTech Front, Ookayama Campus, Tokyo Institute of Technology</B><br>Consortium officials and special advisors will host a opening ceremony for the Tokyo Tech Academy for Super Smart Society. Please join us. "
     url: "/kick-off_en/"
     btn_label: "Click for Details"
     btn_class: "btn--primary"
