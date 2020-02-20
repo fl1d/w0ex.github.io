@@ -38,7 +38,7 @@ header:
 
 **以下のURLよりお申込みください(申込締切：2/26)**
 
-* **学内用（学生）**<br>
+* **学内用（学生 および 教職員）**<br>
   [https://form.run/@sss-wise-workshop-0312-titech](https://form.run/@sss-wise-workshop-0312-titech)
 
 * **学外用（プログラム担当者 および コンソーシアム会員）**<br>
