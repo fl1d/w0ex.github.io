@@ -31,16 +31,15 @@ header:
 
 **Measures against the Novel Coronavirus at this event**
 
-* Depending on the risk of the spread of the Coronavirus infection, we may stop holding the Opening Ceremony for Tokyo Tech Academy for Super Smart Society, or cancel some events.
-Before coming to the event, please be sure to check the event website for availability.
+* Depending on the risk of the spread of the Coronavirus infection, we may cancel some events of the Opening Ceremony for Tokyo Tech Academy for Super Smart Society. Before coming to the event, please be sure to check the event website for availability.
 * Requests to participants
-  * If you have symptoms such as fever, please refrain from attending the event.
+  * Due to the breakout of novel corona virus, persons who have returned to Japan from or via China including Hong Kong and Macao for the last two weeks before Mar. 11, or persons who suffer from cough and fever, please refrain from attending the event.
   * Please note that the staff may wear a mask to prevent infection.
 * <span style="color:Red">We will stop holding the reception scheduled at 18:30, due to concerns about the spread of the Coronavirus. We apologize to all those who have registered to participate in the reception. </span><br>
 
 We apologize for any inconvenience that we may cause, and appreciate your kind understanding and cooperation in this matter.
 
-<p align="right" >February 19, 2020</p>
+<p align="right" >February 20, 2020</p>
 
 <hr>
 
