@@ -35,61 +35,61 @@ For the Study Guide, please click [here](/doc/Guide_SSS.pdf).
 
 ## Cultivation of Specialized Academic Abilities & Creativities
 
-* **Courses Related to Basic Quantum Science and Artificial Intelligence**  (Please refer to Table 2-1 and 2-2 in [Study Guide](/doc/Guide_SSS.pdf))
+* **Courses Related to Basic Quantum Science and Artificial Intelligence**  (Please refer to Tables 2-1 and 2-2 in the [Study Guide](/doc/Guide_SSS.pdf))
 
-  In order to acquire the core academic skills required for the research and development of advanced technologies in super smart society, acquisition of subjects related to artificial intelligence and quantum science carefully selected in this program is a condition for passing the mid-term examination. After acquiring core academic ability, students can enroll in education and research utilizing artificial intelligence and quantum science.
+  To acquire the core academic skills necessary for the research and development of advanced technologies in a super smart society, this program carefully selects subjects related to artificial intelligence and quantum science. After demonstrating core academic abilities by passing a mid-term examination, students can enroll in education and research utilizing artificial intelligence and quantum science.
 
-* **Courses Related to Cyber / Physical Specialized Subjects** 　(Please refer to Table 4-1 and 4-2 in [Study Guide](/doc/Guide_SSS.pdf))
+* **Courses related to cyber/physical specialized subjects** 　(Please refer to Tables 4-1 and 4-2 in the [Study Guide](/doc/Guide_SSS.pdf))
 
-  Completion requirement is to acquire specialized subjects related to cyber space and physical space that are carefully selected in this program. By acquiring knowledge of both spaces, the students are cultivated for "specialized academic ability & originality" for super smart society.
+  Students must earn credits in selected subjects related to cyber space and physical space to acquire “specialized academic ability & originality” for a super smart society.
 
-* **Cyber / Physical Cross Mentor System**
+* **Cyber/physical cross mentor system**
 
-  Set up mentors who specialize in different fields. As a result, it is possible to confirm the significance of education and research from an objective viewpoint in different fields and obtain guidelines for solving problems. In addition, by providing consistent guidance to the students in an integrated manner from master to doctoral course, continuous effects are expected, that cannot be obtained with short-term experiences such as lab rotation.
+  To objectively assess the significance from different viewpoints and to develop multi-faceted problem-solving skills, each student is assigned mentors who specializes in different fields. In addition, by providing consistent guidance in an integrated manner from master to doctoral course, students have improved outcomes that cannot be obtained with short-term experiences such as a lab rotation.
 
-## Cultivation of Broad Perspectives through Social Cooperation Comprehensiveness
+## Cultivation of broad perspectives through social cooperation comprehensiveness
 
-* **Super Smart Society Creation Subjects**　(Please refer to Table 5 in [Study Guide](/doc/Guide_SSS.pdf))
+* **Super smart society creation subjects**　(Please refer to Table 5 in the [Study Guide](/doc/Guide_SSS.pdf))
 
-  In order to cultivate professional skills and bird's eye view, with the cooperation of super smart society promotion consortium’s participating organizations (national research institutes, private companies, municipalities, etc.), the courses for creating super smart society are offered where students can learn real-world issues & advanced technologies for realizing super smart society. Taking credits from this group of subjects is required for completion of the course.
+  To cultivate professional skills and a holistic view, the courses are offered such that students can learn about real-world issues and advanced technologies toward a super smart society. The curriculum is developed in cooperation with the Super Smart Society Promotion Consortium’s participating organizations (national research institutes, private companies, municipalities, etc.). Students must earn credits from this group of subjects.
 
-* **Cyber Physical Off Campus Project**　(Please refer to Table 1 and 6-1 in [Study Guide](/doc/Guide_SSS.pdf))
+* **Cyber physical off-campus project**　(Please refer to Tables 1 and 6-1 in [Study Guide](/doc/Guide_SSS.pdf))
 
-  The completion requirement is to conduct an internship at a participating organization of the Super Smart Society Promotion Consortium. The purpose of this subject is to develop human resources who can overlook the super smart society by experiencing off-campus projects in fields different from their specialty.
+  Students must complete an internship at a participating organization of the Super Smart Society Promotion Consortium. The purpose is to develop human resources who can lead a super smart society by experiencing off-campus projects in fields different from their specialty.
 
 
-## Cultivation of Solving Ability for Interdisciplinary Issues
+## Cultivation of problem-solving ability for interdisciplinary issues
 
-* **Interdisciplinary Matching Workshop**　(Click [here](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/))
+* **Interdisciplinary matching workshop**　(Click [here](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/))
 
-  Students participating in the program (including students considering participation), faculty members, and participating organizations in the Super Smart Society Consortium jointly attend a twice-yearly interdisciplinary workshop that aim to match students' research achievements (seeds) and social research issues (needs). The program motivates students to contribute to society and provides opportunities for them to build industry-academia joint research. Participation in this workshop is a condition of enrolling into the program.
+  Students participating in the program (including those considering participation), faculty members, and participating organizations in the Super Smart Society Consortium jointly attend a twice-yearly interdisciplinary workshop that aims to match students’ research achievements (seeds) and social research issues (needs). The program not only motivates students to contribute to society but also provides opportunities to build industry–academia joint research. Participation in this workshop is a prerequisite to enroll in the program.
 
-* **Intensive Exercise for Interdisciplinary Research Planning**
+* **Intensive exercise for interdisciplinary research planning**
 
-  Intensive exercises on interdisciplinary and important issues selected by faculty and collaborating institutions in order to strengthen the research matching capability and to formulate a concrete research plan to solve them. To be held during the summer vacation period.
+  Intensive exercises on interdisciplinary and important issues selected by faculty and collaborating institutions are held to strengthen the research matching capability and to formulate a concrete research plan. These are held over the summer.
 
-* **Super Smart Society Basic Technology Research Project**
+* **Super smart society basic technology research project**
 
-  Conduct basic technology research projects to realize super smart society based on advice from program advisors in addition to the students’ academic supervisors, to cultivate problem-solving skills in interdisciplinary fields. A budget of about 500,000 yen will be allocated to students to discuss with the assigned advisor and carry out research.
+  To cultivate problem-solving skills that encompass interdisciplinary fields, this project supports basic technology research to realize a super smart society under the mentorship of not only the students’ academic supervisors but also industrial and government advisors. A budget of 500,000 yen per year is allocated to support student-led research.
 
-* **Super Smart Society Creation Research Project**
+* **Super smart society creation research project**
 
-  With regard to the research theme for which matching has been established, the students will work on solving interdisciplinary social by jointly conducting research projects creating super smart society with partner organizations. If the interdisciplinary research team is established, a research fund of up to 2 million yen / year will be allocated to conduct social implementation research.
+  For matched student/mentor research themes, students solve interdisciplinary social challenges by jointly conducting social implementation research projects toward creating a super smart society with partner organizations. If an interdisciplinary research team is established, a research fund of up to two million yen per year will be allocated.
 
-## Cultivation Global leadership development
+## Cultivation of global leadership development
 
-* **Global Leadership Development Courses**　(Please refer to Table 7-1 and 7-2 in [Study Guide](/doc/Guide_SSS.pdf))
+* **Global leadership development courses**　(Please refer to Tables 7-1 and 7-2 in the [Study Guide](/doc/Guide_SSS.pdf))
 
-  To cultivate the power to drive super smart society, students must take the University's leadership education subjects and demonstrate his leadership skills on the above super smart society creation research project and the below global off-campus research project.
+  To cultivate the power to drive a super smart society, students must complete the University’s leadership education subjects and demonstrate leadership skills as part of a super smart society creation research project and a global off-campus research project.
 
 * **Super Smart Society Global Forum**
 
-  The students present research results, evaluate and determine research direction via discussions at the Super Smart Society Global Forum, which is organized by the Super Smart Society Promotion Consortium, where leading researchers from around the world, centering on overseas advisors, are invited, to gain global knowledge.
+  Students present research results and evaluate and determine research directions via discussions at the Super Smart Society Global Forum. This forum is organized by the Super Smart Society Promotion Consortium, and leading researchers from around the world, including on overseas advisors, are invited.
 
-* **Global Off-Campus Research Project**　(Please refer to Table 6-2 in [Study Guide](/doc/Guide_SSS.pdf))
+* **Global off-campus research project**　(Please refer to Tables 6-2 in the [Study Guide](/doc/Guide_SSS.pdf))
 
-   Stay at a research organization of an overseas partner organization or consortium participating organization for three months or more, and carry out global joint research related to the students’ research theme. This activity aims to foster global leadership and deepen research contents. A maximum of 800,000 yen per student will be provided as travel expenses.
+   Students intern at a research organization of an overseas partner or consortium-participating organization for three months or more, and conduct global joint research related to the student’s research theme. This activity fosters global leadership and deepens research contents. A maximum of 800,000 yen per student is provided for travel expenses.
 
 * **Overseas mentor system**
 
-  Introduce an overseas mentor system from the doctoral program and provide students with an opportunity to under- stand their strengths and weaknesses through interviews with overseas advisors and to build a career path from a global perspective.
+  Students in the doctoral program have an opportunity to understand their strengths and weaknesses through interviews with overseas advisors. This also allows students to build their professional network and determine their career paths from a global perspective.
