@@ -29,6 +29,21 @@ header:
 ---
 ## Tokyo Tech Academy for Super Smart Society Opening Ceremony
 
+**Measures against the Novel Coronavirus at this event**
+
+* Depending on the risk of the spread of the Coronavirus infection, we may stop holding the Opening Ceremony for Tokyo Tech Academy for Super Smart Society, or cancel some events.
+Before coming to the event, please be sure to check the event website for availability.
+* Requests to participants
+  * If you have symptoms such as fever, please refrain from attending the event.
+  * Please note that the staff may wear a mask to prevent infection.
+* <span style="color:Red">We will stop holding the reception scheduled at 18:30, due to concerns about the spread of the Coronavirus. We apologize to all those who have registered to participate in the reception. </span><br>
+
+We apologize for any inconvenience that we may cause, and appreciate your kind understanding and cooperation in this matter.
+
+<p align="right" >February 19, 2020</p>
+
+<hr>
+
 **Date : 2020.3.11(Wed)13:30-   (Open from 12:30)**
 
 **Venue : Tokyo Tech Front**
@@ -61,4 +76,4 @@ header:
 * 16:00 Introduction of curriculum of WISE-SSS
   * Prof. Kei Sakaguchi (Dean of Tokyo Tech Academy for Super Smart Society)
 * 16:30 Visit SSS education and research fields
-* 18:30 Reception
+* <s>18:30 Reception</s>
