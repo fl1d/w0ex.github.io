@@ -29,20 +29,20 @@ header:
 ---
 * **2nd Orientation**
 
-  Date: Wednesday, Fe. 5, 2020<br>
-  Location: Lecture Theater W531, Ookayama Campus, TokyoTech<br>
-  Detailed: See [here](/2nd-orientation_en/)
+  Date: February 5, 2020 (Wednesday)<br>
+  Location: Lecture Theater W531, Ookayama Campus, Tokyo Institute of Technology<br>
+  Detailed: Click [here](/2nd-orientation_en/)
 
-* **SSS Matching Workshop**
+* **Super smart society matching workshop**
 
-  Date and time: Friday, November 8, 2019 13: 00-20: 00<br>
-  Place: Tokyo Tech Front, Ookayama Campus, TokyoTech <br>
-  Details: see [here](http://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/)
+  Date and time: November 8, 2019 (Friday) 13:00-20:00<br>
+  Place: TokyoTech Front, Ookayama Campus, Tokyo Institute of Technology<br>
+  Details: Click [here](http://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/)
 
-  The event aims to build interdisciplinary research teams that match the needs of consortium participating institutions with the technical and human resources of faculty and students at Tokyo Tech. For this purpose, faculty members and students from various fields and the participating organizations can conduct direct discussions in an integrated event that hold twice last year as S-Round (Seeds) and N-Round (Needs) respectively. By the merging, it will provide more opportunities for research matching.
+  The event builds interdisciplinary research teams that match the needs of the consortium-participating institutions with the technical and human resources of faculty and students at Tokyo Tech. The semi-annual event allows members and students from various fields and the participating organizations to hold direct discussions to match students’ research achievements (seeds) and social research issues (needs).
 
-* **Orientation of the WISE-SSS education curriculum**
+* **Orientation of the WISE-Super Smart Society education curriculum**
 
-  Date and time: Thursday, October 10, 2019 17: 00-17: 50
-  Venue: West Building 9 Digital Multipurpose Hall
-  Details: See [here](/1st-orientation/)
+  Date and time: October 10, 2019 (Thursday) at 17:00-17:50
+  Venue: West Bldg.9 Digital Multipurpose Hall
+  Details: Click [here](/1st-orientation/)
