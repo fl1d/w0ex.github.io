@@ -29,7 +29,7 @@ header:
 ---
 ## Super Smart Sociery Global Forum
 
-**Date : 2020.3.12(Thu)13:00-**
+**Date : March 12, 2020 (Thursday) at 13:00**
 
 **Venue : Rm.S221-S224, South Bldg.2, TokyoTech**
 
