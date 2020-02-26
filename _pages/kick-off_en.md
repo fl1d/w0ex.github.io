@@ -29,25 +29,21 @@ header:
 ---
 ## Tokyo Tech Academy for Super Smart Society Opening Ceremony
 
-**Measures against the Novel Coronavirus at this event**
+**<span style="color:Red">Important notice: Opening Ceremony postponed due to spread of Novel Coronavirus infection</span>**
 
-* Depending on the risk of the spread of the Coronavirus infection, we may cancel some events of the Opening Ceremony for Tokyo Tech Academy for Super Smart Society. Before coming to the event, please be sure to check the event website for availability.
-* Requests to participants
-  * Due to the breakout of novel corona virus, persons who have returned to Japan from or via China including Hong Kong and Macao for the last two weeks before Mar. 11, or persons who suffer from cough and fever, please refrain from attending the event.
-  * Please note that the staff may wear a mask to prevent infection.
-* <span style="color:Red">We will stop holding the reception scheduled at 18:30, due to concerns about the spread of the Coronavirus. We apologize to all those who have registered to participate in the reception. </span><br>
-
-We apologize for any inconvenience that we may cause, and appreciate your kind understanding and cooperation in this matter.
-
-<p align="right" >February 20, 2020</p>
+<span style="color:Red">
+Regrettably, we have decided to postpone the Opening Ceremony, which was scheduled to be held on March 11, 2020.  Please kindly note that this is an inevitable decision to prevent the infection and spread of Novel Coronavirus (COVID-19).  The new schedule will be announced as soon as it is decided.<br>
+Please accept our apology for the inconvenience.
+</span>
+<p style="color:Red" align="right" >February 25, 2020</p>
 
 <hr>
 
-**Date : 2020.3.11(Wed)13:30-   (Open from 12:30)**
+**~~Date : 2020.3.11(Wed)13:30-   (Open from 12:30)~~**
 
 **Venue : Tokyo Tech Front**
 
-**Please apply at the website by February 26.**
+**~~Please apply at the website by February 26.~~**
 
 * **For students and faculties of TokyoTech**<br>
 [https://form.run/@sss-wise-kickoff-titech](https://form.run/@sss-wise-kickoff-titech)
@@ -75,4 +71,4 @@ We apologize for any inconvenience that we may cause, and appreciate your kind u
 * 16:00 Introduction of curriculum of WISE-SSS
   * Prof. Kei Sakaguchi (Dean of Tokyo Tech Academy for Super Smart Society)
 * 16:30 Visit SSS education and research fields
-* <s>18:30 Reception</s>
+* 18:30 Reception

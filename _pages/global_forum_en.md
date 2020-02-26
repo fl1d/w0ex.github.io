@@ -29,11 +29,21 @@ header:
 ---
 ## Super Smart Sociery Global Forum
 
-**Date : March 12, 2020 (Thursday) at 13:00**
+**<span style="color:Red">Important notice: Global Forum postponed due to spread of Novel Coronavirus infection</span>**
+
+<span style="color:Red">
+Regrettably, we have decided to postpone the Global Forum, which was scheduled to be held on March 12, 2020.  Please kindly note that this is an inevitable decision to prevent the infection and spread of Novel Coronavirus (COVID-19).  The new schedule will be announced as soon as it is decided.<br>
+Please accept our apology for the inconvenience.
+</span>
+<p style="color:Red" align="right" >February 25, 2020</p>
+
+<hr>
+
+**~~Date : March 12, 2020 (Thursday) at 13:00~~**
 
 **Venue : Rm.S221-S224, South Bldg.2, TokyoTech**
 
-**Please apply at the website by February 26.**
+**~~Please apply at the website by February 26.~~**
 
 * **For Students**<br>
 [https://form.run/@sss-wise-workshop-0312-titech](https://form.run/@sss-wise-workshop-0312-titech)
