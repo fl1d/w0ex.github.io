@@ -28,6 +28,23 @@ header:
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
 
+**<span style="color:Red">Important notice: Extension of the registration application period for WISE-SSS program</span>**
+
+The registration application period has been extended until March 12, for the following students:<br>
+\* Those who gave up the application due to the postponement or cancellation of the internship by reason of coronavirus;<br>
+\* Those who could not make an application for reasons other than those mentioned above.
+
+* **Deadline: March 12, 2020, at 12:00**
+* **Place of submission: Room S3-213, Ookayama campus**
+
+*Note 1*. There are no changes to affiliation requirements or required documents.<br>
+*Note2*. Students who could not take part in the internship are required to submit following documents with an application form.
+* Documents showing that the internship was to be carried out by March 31, 2020
+* Documents showing that the internship was canceled or postponed due to the the coronavirus
+
+<hr>
+<br>
+
 Click [here](/doc/Guide_SSS.pdf) for the Study Guide(tentative).
 
 ## Registration Guide
