@@ -28,6 +28,14 @@ header:
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
 
+**<span style="color:Red">Important notice: Mid-term review</span>**
+
+* Date: March 23, 2020, Monday at 13:30-<br>
+* Venue: Room E304, West Bldg. 8<br>
+
+\* Details will be announced directly from the office of Tokyo Tech Academy for Super Smart Society.
+
+<hr>
 **<span style="color:Red">Important notice: Extension of the registration application period for WISE-SSS program</span>**
 
 The registration application period has been extended until March 12, for the following students:<br>
