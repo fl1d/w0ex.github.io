@@ -27,7 +27,7 @@ header:
   - label: "SSS Promotion Consortium"
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
-For the Study Guide, please click [here](/doc/Guide_SSS.pdf).
+For the Study Guide, please click [here](/doc/Guide_SSS_en.pdf).
 
 ## Curriculum
 
@@ -35,11 +35,11 @@ For the Study Guide, please click [here](/doc/Guide_SSS.pdf).
 
 ## Cultivation of Specialized Academic Abilities & Creativities
 
-* **Courses Related to Basic Quantum Science and Artificial Intelligence**  (Please refer to Tables 2-1 and 2-2 in the [Study Guide](/doc/Guide_SSS.pdf))
+* **Courses Related to Basic Quantum Science and Artificial Intelligence**  (Please refer to Tables 2-1 and 2-2 in the [Study Guide](/doc/Guide_SSS_en.pdf))
 
   To acquire the core academic skills necessary for the research and development of advanced technologies in a super smart society, this program carefully selects subjects related to artificial intelligence and quantum science. After demonstrating core academic abilities by passing a mid-term examination, students can enroll in education and research utilizing artificial intelligence and quantum science.
 
-* **Courses related to cyber/physical specialized subjects** 　(Please refer to Tables 4-1 and 4-2 in the [Study Guide](/doc/Guide_SSS.pdf))
+* **Courses related to cyber/physical specialized subjects** 　(Please refer to Tables 4-1 and 4-2 in the [Study Guide](/doc/Guide_SSS_en.pdf))
 
   Students must earn credits in selected subjects related to cyber space and physical space to acquire “specialized academic ability & originality” for a super smart society.
 
@@ -49,11 +49,11 @@ For the Study Guide, please click [here](/doc/Guide_SSS.pdf).
 
 ## Cultivation of broad perspectives through social cooperation comprehensiveness
 
-* **Super smart society creation subjects**　(Please refer to Table 5 in the [Study Guide](/doc/Guide_SSS.pdf))
+* **Super smart society creation subjects**　(Please refer to Table 5 in the [Study Guide](/doc/Guide_SSS_en.pdf))
 
   To cultivate professional skills and a holistic view, the courses are offered such that students can learn about real-world issues and advanced technologies toward a super smart society. The curriculum is developed in cooperation with the Super Smart Society Promotion Consortium’s participating organizations (national research institutes, private companies, municipalities, etc.). Students must earn credits from this group of subjects.
 
-* **Cyber physical off-campus project**　(Please refer to Tables 1 and 6-1 in [Study Guide](/doc/Guide_SSS.pdf))
+* **Cyber physical off-campus project**　(Please refer to Tables 1 and 6-1 in [Study Guide](/doc/Guide_SSS_en.pdf))
 
   Students must complete an internship at a participating organization of the Super Smart Society Promotion Consortium. The purpose is to develop human resources who can lead a super smart society by experiencing off-campus projects in fields different from their specialty.
 
@@ -78,7 +78,7 @@ For the Study Guide, please click [here](/doc/Guide_SSS.pdf).
 
 ## Cultivation of global leadership development
 
-* **Global leadership development courses**　(Please refer to Tables 7-1 and 7-2 in the [Study Guide](/doc/Guide_SSS.pdf))
+* **Global leadership development courses**　(Please refer to Tables 7-1 and 7-2 in the [Study Guide](/doc/Guide_SSS_en.pdf))
 
   To cultivate the power to drive a super smart society, students must complete the University’s leadership education subjects and demonstrate leadership skills as part of a super smart society creation research project and a global off-campus research project.
 
@@ -86,7 +86,7 @@ For the Study Guide, please click [here](/doc/Guide_SSS.pdf).
 
   Students present research results and evaluate and determine research directions via discussions at the Super Smart Society Global Forum. This forum is organized by the Super Smart Society Promotion Consortium, and leading researchers from around the world, including on overseas advisors, are invited.
 
-* **Global off-campus research project**　(Please refer to Tables 6-2 in the [Study Guide](/doc/Guide_SSS.pdf))
+* **Global off-campus research project**　(Please refer to Tables 6-2 in the [Study Guide](/doc/Guide_SSS_en.pdf))
 
    Students intern at a research organization of an overseas partner or consortium-participating organization for three months or more, and conduct global joint research related to the student’s research theme. This activity fosters global leadership and deepens research contents. A maximum of 800,000 yen per student is provided for travel expenses.
 

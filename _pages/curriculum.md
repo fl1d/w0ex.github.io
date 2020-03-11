@@ -29,7 +29,7 @@ header:
 ---
 
 ## カリキュラム
-（学修案内(案)は[こちら](/doc/Guide_SSS.pdf)）
+（学修案内は[こちら](/doc/Guide_SSS.pdf)）
 
 <div style="text-align:center"><img src="/assets/images/curriculum.png" /></div><br>
 
