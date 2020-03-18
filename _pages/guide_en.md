@@ -31,7 +31,7 @@ header:
 **<span style="color:Red">Important notice: Mid-term review</span>**
 
 * Date: March 23, 2020, Monday at 13:30-<br>
-* Venue: Room E304, West Bldg. 8<br>
+* Venue: Room ~~E304~~ 208, West Bldg. 8<br>
 
 \* Details will be announced directly from the office of Tokyo Tech Academy for Super Smart Society.
 
