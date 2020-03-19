@@ -45,11 +45,13 @@ Advantages for students studying at the institute include:
 
 * **Courses related to the creation of a super smart society**
 
-  To cultivate professional skills and a holistic view, courses are developed in cooperation with the Super Smart Society Promotion Consortium’s participating organizations (national research institutes, private companies, municipalities, etc.). Students learn about current real-world issues & advanced technologies. All students must earn credits in this area.
+  We develop courses in cooperation with the Super Smart Society Promotion Consortium’s participating organizations (national research institutes, private companies, municipalities, etc.). Students learn about current real-world issues & advanced technologies.
 
 * **Cyber/physical off-campus project**
 
-  Students complete an internship at a participating organization of the Super Smart Society Promotion Consortium. The intent is to cultivate skills necessary to lead a super smart society through a hands-on off-campus project in a different field from their specialty.
+  We provide opportunities to participate in internships at participating organizations of the Super Smart Society Promotion Consortium.
+  Students learn skills necessary to lead a super smart society through a hands-on off-campus project in a variety of fields beyond their specialty.
+
 
 ### 3. Financial support that allows students to concentrate on their education and research.
 
@@ -63,6 +65,7 @@ Advantages for students studying at the institute include:
 
 * **Global off-campus research project**
 
-  Students intern at a research organization of an overseas partner organization or consortium-participating organization for three months or more, and conduct global joint research related to the student’s research theme. This activity fosters global leadership and deepens research content. A maximum of 800,000 yen per student is provided for travel expenses.
+  We provide opportunities to intern at a research organization of an overseas partner organization or consortium-participating organization for three months or more, and conduct global joint research related to the student’s research theme. A maximum of 800,000 yen per student is provided for travel expenses.
+
 
 ### 5. Career path support to join Super Smart Society Promotion Consortium–participating organizations
