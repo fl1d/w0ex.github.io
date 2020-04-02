@@ -32,7 +32,7 @@ header:
 
 * **Super Smart Society Global Forum**
 
-  Date: March 12, 2020 (Thursday) at 13:00<br>
+  Date: ~~March 12, 2020 (Thursday) at 13:00~~ <span style="color:Red">postponed</span><br>
   Venue: Rm.S221-S224, South Bldg.2, Ookayama Campus, Tokyo Institute of Technology<br>
   Details: Click [here](/global_forum_en/)
 
@@ -40,7 +40,7 @@ header:
 
 * **Opening ceremony of the Tokyo Tech Academy for Super Smart Society**
 
-  Date: March 11, 2020 (Wednesday)<br>
+  Date: ~~March 11, 2020 (Wednesday)~~ <span style="color:Red">postponed</span><br>
   Location: Kuramae Hall, TokyoTech Front<br>
   Detailed: Click [here](/kick-off_en/)
 
