@@ -86,7 +86,7 @@ Click [here](/doc/Guide_SSS_en.pdf) for the Study Guide.
 
 ## Four Gates for Completion of the Course
 
-<div style="text-align:center"><img src="/assets/images/curr-en.jpg" /></div><br>
+<div style="text-align:center"><img src="/assets/images/curriculum (002).jpg" /></div><br>
 
 ### １．Enrollment Examination
 
