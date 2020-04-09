@@ -31,7 +31,7 @@ For the Study Guide, please click [here](/doc/Guide_SSS_en.pdf).
 
 ## Curriculum
 
-<div style="text-align:center"><img src="/assets/images/curr-en.jpg" /></div><br>
+<div style="text-align:center"><img src="/assets/images/curriculum_eng.jpg" /></div><br>
 
 ## Cultivation of Specialized Academic Abilities & Creativities
 
