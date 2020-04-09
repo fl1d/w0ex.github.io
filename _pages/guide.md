@@ -86,7 +86,7 @@ header:
 
 ## 受け入れから修了までの４つのゲート
 
-<div style="text-align:center"><img src="/assets/images/curriculum.png" /></div><br>
+<div style="text-align:center"><img src="/assets/images/curriculum_jp.jpg" /></div><br>
 
 ### １．所属選抜
 
