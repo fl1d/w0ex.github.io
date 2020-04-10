@@ -34,7 +34,7 @@ feature_row:
   - image_path: /assets/images/lecturetheater.png
     title: "Briefing session for the enrollment in WISE-SSS program/3rd Orientation"
     alt: "Briefing session for the enrollment in WISE-SSS program/3rd Orientation"
-    excerpt: "<B>Date：May 13, 2020 at 17:15-18:30<br>Venue: [Lecture Theater](http://www.mono.titech.ac.jp/~kokusai/TLT.html) W531, Ookayama Campus</B><br>We will hold a briefing session for the autumn enrollment in WISE-SSS program. If you are interested in this program, please join us!"
+    excerpt: "<B>Date：May 13, 2020 at 17:15-18:30<br>Venue: [Lecture Theater](http://www.mono.titech.ac.jp/~kokusai/TLT.html) (W531), Ookayama Campus</B><br>We will hold a briefing session for the autumn enrollment in WISE-SSS program. If you are interested in this program, please join us!"
     url: "/3rd-orientation_en/"
     btn_label: "Click for Details"
     btn_class: "btn--primary"
