@@ -30,6 +30,15 @@ header:
 
 ## Upcoming Events
 
+* **Briefing session for the enrollment in WISE-SSS program/3rd orientation**
+
+  Date: May 13, 2020, Wednesday at 17:15-18:30<br>
+  Venue: Lecture Theatre(W531), Ookayama Campus<br>
+  Details: Click [here](/3rd-orientation_en/)<br>
+  Note: It may be held online. We will announce the details on this website.
+  
+<hr>
+
 * **Super Smart Society Global Forum**
 
   Date: ~~March 12, 2020 (Thursday) at 13:00~~ <span style="color:Red">postponed</span><br>
