@@ -81,10 +81,8 @@ Jeffrey Scott Cross |Professor|Transdisciplinary Science and Engineering
 Jun-ichi Takada | Professor|Transdisciplinary Science and Engineering
 Yukihiko Yamashita |Associate Professor|Transdisciplinary Science and Engineering
 Naoyuki Hayashi | Professor|Social and Human Sciences
-Koichiro Kokubun |Professor|Social and Human Sciences
 Kazuhiro Kezuka |Associate Professor(Lecturer)|Social and Human Sciences
 Yoshimi Takuwa|Associate Professor(Lecturer)|Social and Human Sciences
-Satoshi Yamada|Professor|Laboratory for Future Interdisciplinary <br>Research of Science and Technology
 Yasuko Yanagid|Professor|Laboratory for Future Interdisciplinary <br>Research of Science and Technology
 Takamichi Nakamoto|Professor|Laboratory for Future Interdisciplinary <br>Research of Science and Technology
 Hidetoshi Nishimori|Professor|Quantum Computing Unit
