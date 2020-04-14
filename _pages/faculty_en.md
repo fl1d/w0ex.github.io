@@ -101,6 +101,27 @@ Kenji Suzuki|Specially Appointed Professor|World Research Hub Initiative
 |Hironori Hibino|Tokyo University of Science
 
 <br><br>
+**International Advisor**
+
+M. Egerstedt|Georgia Institute of Technology
+J.-S. Leu|NTUST
+W.G. van der Wiel|University of Twente
+M. Ceccarelli|University of Rome Tor Vergata
+C.-H. Menq|The Ohio State University
+T. Chaisomphob|Thammasat University
+I. Watson|University of Glasgow
+S. Hirche|Technical University of Munich
+T. Haustein|Fraunhofer Heinrich-Hertz-Institute
+B. Vucetic|University of Sydney
+S. S. Varvayanis|Cornell University
+M. Bacchiani|Google Japan
+A. Sadri|Intel Corp.
+E. C. Strinati|CEA Leti
+S. Sun|Infocomm Research
+M. Maeda|Asurion LLC
+S. L. Kim|Yonsei University
+
+<br><br>
 
 **Private Companies/Public Research Institutes/Local Governments**
 
