@@ -40,7 +40,7 @@ This program cultivates five essential skills to realize a future Super Smart So
 * Critical-thinking skills to solve multidisciplinary social issues
 * Leadership in each sector of industry, government, and academia
 
-<div style="text-align:center"><img src="/assets/images/5o-en.png" /></div>
+<div style="text-align:center"><img src="/assets/images/5o-v3-en.png" /></div>
 
 <br>
 
