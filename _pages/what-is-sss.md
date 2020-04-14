@@ -38,7 +38,7 @@ header:
 * 異分野が融合した社会課題の解決能力
 * 産官学の各セクターを牽引できるリーダーシップ力
 
-<div style="text-align:center"><img src="/assets/images/5o.png" /></div>
+<div style="text-align:center"><img src="/assets/images/5o-v3.png" /></div>
 
 <br>
 
