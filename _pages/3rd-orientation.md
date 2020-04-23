@@ -5,8 +5,7 @@ permalink: /3rd-orientation/
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/mv-2.jpg
+  overlay_image: /assets/images/header.png
   actions:
   - label: "超スマート社会卓越教育課程とは"
     url: "/what-is-sss/"
@@ -34,11 +33,9 @@ header:
 2020年4月、超スマート社会卓越教育課程がスタートしました。<br>
 2020年10月登録の登録申請受付は、8月下旬に行う予定です。それに先立ち、オリエンテーション（学生募集説明会）を開催いたします。本プログラムにご興味のある方は奮ってご参加ください。
 
-**日時**：2020年5月13日（水） 17:15-18:30<br>
-**場所**：大岡山キャンパス 西講義棟１（W531） レクチャーシアター<br>
-注）オンライン開催となる可能性があります。詳細が決まり次第、お知らせいたします。<br>
+**日時**：2020年5月13日（水） 17:15-18:30　オンライン開催<br>
 **対象**：東工大学生<br>
-**申込**：不要<br>
+**申込**：申込みフォームより申込みください。申込みフォームは[こちら](https://forms.office.com/Pages/ResponsePage.aspx?id=utSRkUfrIUGEO1T8Z-Aq9meBcZEXB0tHsKWA-0u69_FUQUNMODg5VVhGSDdTN0I1Q0dNQUlYQllDVS4u)です。後日、参加URLを配布いたします。<br>
 **問合せ先**：超スマート社会卓越教育院事務室　E-mail: wise-sss@jim.titech.ac.jp<br>
 
 
@@ -50,3 +47,5 @@ header:
 * 異分野融合マッチングワークショップについて
 * 異分野融合研究企画集中演習について
 * グローバルフォーラムについて
+
+（ポスターは[こちら](/doc/3rd_orientation.pdf)）
