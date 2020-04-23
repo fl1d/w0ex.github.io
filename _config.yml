@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ja-JP"
-title                    : "超スマート社会卓越教育院"
+title                    : "<font size='1'>文部科学省 卓越大学院プログラム</font><br><font size='3'>東京工業大学 超スマート社会卓越教育院</font>"
 title_separator          : "-"
 subtitle                 : Tokyo Tech Academy for Super Smart Society # site tagline that appears below site title in masthead
-name                     : "超スマート社会卓越教育院 Tokyo Tech Academy for Super Smart Society"
+name                     : "東京工業大学 超スマート社会卓越教育院 Tokyo Tech Academy for Super Smart Society"
 description              : #
 url                      : w0ex.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
