@@ -1,12 +1,13 @@
 ---
-title: "<font size='3'>文部科学省 卓越大学院プログラム </font><br>超スマート社会卓越教育院"
 layout: splash
+title: "超スマート社会卓越教育院"
 permalink: /
-excerpt: <br><B>社会連携教育（オープンエデュケーション）<br>と異分野融合研究（オープンイノベーション）<br>の融合によって、来たる超スマート社会を牽引する<br>スーパードクターを養成します</B><br><br>
+excerpt: <B>社会連携教育（オープンエデュケーション）と異分野融合研究（オープンイノベーション）の融合によって、<br>来たる超スマート社会を牽引する人材を育成します</B>
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/mv-2.jpg
+  overlay_image: /assets/images/header.png
+  overlay_image-size: cover;
+
   actions:
   - label: "超スマート社会卓越教育課程とは"
     url: "/what-is-sss/"
@@ -27,12 +28,14 @@ header:
   - label: "SSS推進コンソーシアム"
     url: "https://www.sss.e.titech.ac.jp/"
 
+content: "超スマート社会卓越教育院"
+
 feature_row:
 
-  - image_path: /assets/images/lecturetheater.png
+  - image_path: /assets/images/3rd_orientation.png
     title: "学生募集説明会（第３回オリエンテーション）"
     alt: "学生募集説明会（第３回オリエンテーション）"
-    excerpt: "<B>日時：2020年5月13日（水） 17:15-18:30<br>場所：大岡山キャンパス西講義棟１（W531）<br>[レクチャーシアター](http://www.mono.titech.ac.jp/~kokusai/TLT.html)</B><br>2020年10月登録の学生募集説明会を開催いたします。本プログラムにご興味のある方は奮ってご参加ください。<br>注）オンライン開催となる可能性があります。詳細が決まり次第、お知らせいたします。"
+    excerpt: "<B>日時：2020年5月13日（水） 17:15-18:30　オンライン開催</B><br>2020年10月登録の学生募集説明会を開催いたします。本プログラムにご興味のある方は奮ってご参加ください。"
     url: "/3rd-orientation/"
     btn_label: "詳細はこちら"
     btn_class: "btn--primary"
