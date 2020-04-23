@@ -5,8 +5,7 @@ permalink: /3rd-orientation_en/
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/mv-2_en.jpg
+  overlay_image: /assets/images/header.png
   actions:
   - label: "About the WISE-SSS Program"
     url: "/what-is-sss_en/"
@@ -33,7 +32,7 @@ header:
 **Venue**：Lecture Theatre(W531), Ookayama Campus<br>
 &emsp; * It may be held online. We will announce the details on this website.<br>
 **Subjected audience**: Tokyo Tech Students<br>
-**Application**: No application required.<br>
+**Application**: Please apply from the application form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=utSRkUfrIUGEO1T8Z-Aq9meBcZEXB0tHsKWA-0u69_FUQUNMODg5VVhGSDdTN0I1Q0dNQUlYQllDVS4u). We will distribute the URL.<br>
 **Contact**: Office of Tokyo Tech Academy for Super Smart Society/ E-mail: wise-sss@jim.titech.ac.jp<br>
 
 
@@ -44,3 +43,5 @@ header:
 * Interdisciplinary Matching Workshop
 * Intensive practice for interdisciplinary research planning
 * Global forum
+
+（event poster [here](/doc/3rd_orientation.pdf)）
