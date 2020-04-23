@@ -5,8 +5,7 @@ permalink: /event_en/
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/mv-2_en.jpg
+  overlay_image: /assets/images/header.png
   actions:
   - label: "About the WISE-SSS Program"
     url: "/what-is-sss_en/"
@@ -32,11 +31,9 @@ header:
 
 * **Briefing session for the enrollment in WISE-SSS program/3rd orientation**
 
-  Date: May 13, 2020, Wednesday at 17:15-18:30<br>
-  Venue: Lecture Theatre(W531), Ookayama Campus<br>
+  Date: May 13, 2020, Wednesday at 17:15-18:30　Online event<br>
   Details: Click [here](/3rd-orientation_en/)<br>
-  Note: It may be held online. We will announce the details on this website.
-  
+
 <hr>
 
 * **Super Smart Society Global Forum**
