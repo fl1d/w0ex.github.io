@@ -5,8 +5,7 @@ permalink: /event/
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/mv-2.jpg
+  overlay_image: /assets/images/header.png
   actions:
   - label: "超スマート社会卓越教育課程とは"
     url: "/what-is-sss/"
@@ -32,10 +31,8 @@ header:
 
 * **学生募集説明会（第3回オリエンテーション）**
 
-  日時：2020年5月13日（水）17:15-18:30<br>
-  会場：大岡山キャンパス 西講義棟1（W531）レクチャーシアター<br>
+  日時：2020年5月13日（水）17:15-18:30 オンライン開催<br>
   対象：東工大学生<br>
-  注）オンライン開催となる可能性があります。詳細が決まり次第、お知らせいたします。<br>
   詳細は[こちら](/3rd-orientation)を参照ください。　
 
 <hr>
