@@ -5,8 +5,7 @@ permalink: /activity-report_en/
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/mv-2_en.jpg
+  overlay_image: /assets/images/header.png
   actions:
   - label: "About the WISE-SSS Program"
     url: "/what-is-sss_en/"
