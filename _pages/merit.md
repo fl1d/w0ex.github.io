@@ -5,8 +5,7 @@ permalink: /merit/
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/mv-2.jpg
+  overlay_image: /assets/images/header.png
   actions:
   - label: "超スマート社会卓越教育課程とは"
     url: "/what-is-sss/"
