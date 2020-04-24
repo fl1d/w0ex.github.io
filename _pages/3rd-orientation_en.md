@@ -29,10 +29,8 @@ header:
 
 
 **Date**：May 13, 2020, Wednesday at 17:15-18:30<br>
-**Venue**：Lecture Theatre(W531), Ookayama Campus<br>
-&emsp; * It may be held online. We will announce the details on this website.<br>
 **Subjected audience**: Tokyo Tech Students<br>
-**Application**: Please apply from the application form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=utSRkUfrIUGEO1T8Z-Aq9meBcZEXB0tHsKWA-0u69_FUQUNMODg5VVhGSDdTN0I1Q0dNQUlYQllDVS4u). We will distribute the URL.<br>
+**Registration**: Please register from the form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=utSRkUfrIUGEO1T8Z-Aq9meBcZEXB0tHsKWA-0u69_FUQUNMODg5VVhGSDdTN0I1Q0dNQUlYQllDVS4u). We will distribute the URL.<br>
 **Contact**: Office of Tokyo Tech Academy for Super Smart Society/ E-mail: wise-sss@jim.titech.ac.jp<br>
 
 
