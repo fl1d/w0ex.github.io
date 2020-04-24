@@ -28,8 +28,6 @@ header:
   - label: "SSS推進コンソーシアム"
     url: "https://www.sss.e.titech.ac.jp/"
 
-content: "超スマート社会卓越教育院"
-
 feature_row:
 
   - image_path: /assets/images/3rd_orientation.png
