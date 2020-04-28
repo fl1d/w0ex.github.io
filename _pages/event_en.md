@@ -28,7 +28,7 @@ header:
 ---
 
 ## Upcoming Events
-<hr>
+
 * **Briefing session for the enrollment in WISE-SSS program/3rd orientation**
 
   Date: May 13, 2020, Wednesday at 17:15-18:30　Online event<br>
