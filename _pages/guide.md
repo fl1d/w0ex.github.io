@@ -27,7 +27,7 @@ header:
     url: "https://www.sss.e.titech.ac.jp/"
 ---
 ## 登録案内
-<hr>
+
 **<span style="color:#0062b2">登録案内 (2020年10月登録)</span>**
 
 * **学生募集説明会(第3回オリエンテーション)**<br>
@@ -68,7 +68,7 @@ header:
 　
 
 ## 受け入れから修了までの４つのゲート
-<hr>
+
 <div style="text-align:center"><img src="/assets/images/curriculum_jp.jpg" /></div><br>
 
 **１．所属選抜**
