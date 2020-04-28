@@ -28,7 +28,7 @@ header:
 ---
 
 ## Upcoming Events
-
+<hr>
 * **Briefing session for the enrollment in WISE-SSS program/3rd orientation**
 
   Date: May 13, 2020, Wednesday at 17:15-18:30　Online event<br>
@@ -52,20 +52,16 @@ header:
 
 <hr>
 
-* **First enrollment examination (Scheduled to be held from February to March 2020)**
+* **First enrollment examination (Scheduled to be held from February to March 2020)**    <span style="color:Red">-This even has ended.-</span>
 
-  **Applicable students**
-
+  **Applicable students**<br>
   Master course students enrolled at the University (limited to those who are continue to enroll into the master courses at the start of curriculum), or those who have been approved by the Tokyo Tech Academy for Super Smart Society through predetermined procedures.
 
-  **Affiliation requirements**
-
+  **Affiliation requirements**<br>
   Students who wish to register for the program beginning in the next semester should complete a part of this curriculum before registering.
   - Participated in the super smart society matching workshop held on November 8.
-  - Conducted a cyber/physical off-campus project (internship).<br>
+  - Conducted a cyber/physical off-campus project (internship).<br><br>
 
-  **Enrollment Examination**
-
+  **Enrollment Examination**<br>
   Beginning in FY2020, students who fulfill the above affiliation requirements must also pass the selection test (enrollment examination), which will be available February to March 2020, and obtain consent from their academic supervisor.
-
   If students wish to sign up for this program in FY2020, they must have participated in the super smart society matching workshop held on November 8. 2019. For more information and advice, please attend the orientation scheduled on February 5, 2020.
