@@ -26,12 +26,15 @@ header:
   - label: "SSS Promotion Consortium"
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
+
+<hr>
 * **2nd Orientation**
 
   Date: February 5, 2020 (Wednesday)<br>
   Location: Lecture Theater W531, Ookayama Campus, Tokyo Institute of Technology<br>
   Detailed: Click [here](/2nd-orientation_en/)
 
+<hr>
 * **Super smart society matching workshop**
 
   Date and time: November 8, 2019 (Friday) 13:00-20:00<br>
@@ -40,6 +43,7 @@ header:
 
   The event builds interdisciplinary research teams that match the needs of the consortium-participating institutions with the technical and human resources of faculty and students at Tokyo Tech. The semi-annual event allows members and students from various fields and the participating organizations to hold direct discussions to match students’ research achievements (seeds) and social research issues (needs).
 
+<hr>
 * **Orientation of the WISE-Super Smart Society education curriculum**
 
   Date and time: October 10, 2019 (Thursday) at 17:00-17:50
