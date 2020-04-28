@@ -27,10 +27,8 @@ header:
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
 
-Advantages for students studying at the institute include:
 
-
-### 1. Opportunities to participate in research projects to create a super smart society in collaboration with consortium partners
+## 1. Opportunities to participate in research projects to create a super smart society in collaboration with consortium partners
 
 * **Research projects related to fundamental technologies for a super smart society**
 
@@ -40,7 +38,7 @@ Advantages for students studying at the institute include:
 
   Research projects to create a super smart society aim to create research groups to solve interdisciplinary social issues. If such an interdisciplinary research team is established, a research fund of up to two million yen per year will be allocated for social implementation.
 
-### 2. Unique educational programs in cooperation with society through the Super Smart Society Promotion Consortium
+## 2. Unique educational programs in cooperation with society through the Super Smart Society Promotion Consortium
 
 * **Courses related to the creation of a super smart society**
 
@@ -52,7 +50,7 @@ Advantages for students studying at the institute include:
   Students learn skills necessary to lead a super smart society through a hands-on off-campus project in a variety of fields beyond their specialty.
 
 
-### 3. Financial support that allows students to concentrate on their education and research.
+## 3. Financial support that allows students to concentrate on their education and research.
 
   The following financial support systems are available:
   * Super Smart Society Leadership Grant
@@ -60,11 +58,11 @@ Advantages for students studying at the institute include:
 
   See [Enrolled Students’ Support](/student-support_en/) for more information.
 
-### 4. Opportunities for joint research with overseas partner organizations and support for travel expenses
+## 4. Opportunities for joint research with overseas partner organizations and support for travel expenses
 
 * **Global off-campus research project**
 
   We provide opportunities to intern at a research organization of an overseas partner organization or consortium-participating organization for three months or more, and conduct global joint research related to the student’s research theme. A maximum of 800,000 yen per student is provided for travel expenses.
 
 
-### 5. Career path support to join Super Smart Society Promotion Consortium–participating organizations
+## 5. Career path support to join Super Smart Society Promotion Consortium–participating organizations
