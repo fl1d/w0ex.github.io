@@ -29,7 +29,7 @@ header:
 
 
 ## Registration Guide
-<hr>
+
 **<span style="color:#0062b2">Registration Guide (for the enrollment in October 2020)</span>**
 
 * **Briefing session for the enrollment in WISE-SSS program/3rd Orientation**
@@ -72,7 +72,7 @@ header:
 
 
 ## Four Gates for Completion of the Course
-<hr>
+
 <div style="text-align:center"><img src="/assets/images/curriculum_eng.jpg" /></div><br>
 
 **１．Enrollment Examination**
