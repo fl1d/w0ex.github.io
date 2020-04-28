@@ -31,8 +31,8 @@ header:
 feature_row:
 
   - image_path: /assets/images/3rd_orientation.png
-    title: "第３回オリエンテーション（学生募集説明会）"
-    alt: "第３回オリエンテーション（学生募集説明会）"
+    title: "第３回オリエンテーション(学生募集説明会)"
+    alt: "第３回オリエンテーション(学生募集説明会)"
     excerpt: "<B>日時：2020年5月13日（水） 17:15-18:30　オンライン開催</B><br>2020年10月登録の学生募集説明会を開催いたします。本プログラムにご興味のある方は奮ってご参加ください。"
     url: "/3rd-orientation/"
     btn_label: "詳細はこちら"
