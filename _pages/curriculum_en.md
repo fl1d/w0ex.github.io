@@ -26,9 +26,11 @@ header:
   - label: "SSS Promotion Consortium"
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
-For the Study Guide, please click [here](/doc/Guide_SSS_en.pdf).
 
 ## Curriculum
+
+[Please click here to see the Study Guide.](/doc/Guide_SSS_en.pdf)
+
 
 <div style="text-align:center"><img src="/assets/images/curriculum_eng.jpg" /></div><br>
 
