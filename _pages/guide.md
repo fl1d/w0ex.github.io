@@ -5,7 +5,7 @@ permalink: /guide/
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/header.png
+  overlay_image: /assets/images/header_blue.png
   actions:
   - label: "超スマート社会卓越教育課程とは"
     url: "/what-is-sss/"
@@ -28,7 +28,7 @@ header:
 ---
 ## 登録案内
 
-**<span style="color:#0062b2">登録案内 (2020年10月登録)</span>**
+**<span style="color:#ff32ad">登録案内 (2020年10月登録)</span>**
 
 * **学生募集説明会(第3回オリエンテーション)**<br>
 
@@ -118,7 +118,7 @@ header:
   すべての修了認定項目を満たした場合は、本学学生に対しては本教育課程の修了を付記した学位記を授与する。授与する学位は選択しているコースの学位に準ずる。<br><br><br>
 
 <hr>
-**<span style="color:#0062b2">[2020年4月登録生対象]中間審査のお知らせ</span>**
+**<span style="color:#ff32ad">[2020年4月登録生対象]中間審査のお知らせ</span>**
 
 * 日時：2020年3月23日（月）13：30〜<br>
 * 場所：西8号館~~E304 号室~~ 208号室<br>
@@ -127,7 +127,7 @@ header:
 
 <hr>
 
-**<span style="color:#0062b2">超スマート社会卓越教育課程登録申請期間延長のお知らせ</span>**
+**<span style="color:#ff32ad">超スマート社会卓越教育課程登録申請期間延長のお知らせ</span>**
 
 今般のコロナウィルスの影響により、インターンシップの実施が延期または中止となったことにより、所属要件を満たすことができず、申請を諦めた方、または、その他の事情により申請できなかった方のために、登録申請期間を延長いたしました。申請書の新たな提出〆切、提出場所は下記のとおりです。
 
@@ -141,7 +141,7 @@ header:
 
 <hr>
 
-**<span style="color:#0062b2">登録案内 (2020年4月登録)</span>**
+**<span style="color:#ff32ad">登録案内 (2020年4月登録)</span>**
 
 * **Step 1: オリエンテーションに参加する**
 
