@@ -5,7 +5,7 @@ permalink: /3rd-orientation_en/
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/header.png
+  overlay_image: /assets/images/header_blue.png
   actions:
   - label: "About the WISE-SSS Program"
     url: "/what-is-sss_en/"
