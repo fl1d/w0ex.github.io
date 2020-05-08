@@ -39,7 +39,6 @@ header:
 * Curriculum
 * SSS Scholarship
 * Interdisciplinary Matching Workshop
-* Intensive practice for interdisciplinary research planning
-* Global forum
+* Internship
 
 （event poster [here](/doc/3rd_orientation.pdf)）
