@@ -6,14 +6,14 @@
   @include clearfix;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: 4em;
+  padding-right: 4em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   max-width: 100%;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
 
   @include breakpoint($x-large) {
     max-width: $max-width;
@@ -187,8 +187,8 @@ body {
     }
 
     .wrapper {
-      padding-left: 1em;
-      padding-right: 1em;
+      padding-left: 2em;
+      padding-right: 2em;
       margin-bottom: 10em;
 
 
@@ -197,7 +197,7 @@ body {
       }
     }
 
-    .page__title, 
+    .page__title,
     .page__meta,
     .page__lead,
     .page__content,
