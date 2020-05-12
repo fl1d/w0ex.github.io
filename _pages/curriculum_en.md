@@ -36,27 +36,49 @@ header:
 
 ## Cultivation of Specialized Academic Abilities & Creativities
 
-* **Courses related to basic quantum science and artificial intelligence**  (Please refer to Tables 2-1 and 2-2 in the [Study Guide](/doc/Guide_SSS_en.pdf))
+* **Courses related to basic artificial intelligence and quantum science**  (Please refer to Tables 2-1 and 2-2 in the [Study Guide](/doc/Guide_SSS_en.pdf))
 
   To acquire the core academic skills necessary for the research and development of advanced technologies in a super smart society, this program carefully selects subjects related to artificial intelligence and quantum science. After demonstrating core academic abilities by passing a mid-term examination, students can enroll in education and research utilizing artificial intelligence and quantum science.
+  * Courses related to basic artificial intelligence (examples)<br>
+    - CSC.T272  Artificial Intelligence [Japanese]​<br>
+    - XCO.T489  Fundamentals of artificial intelligence [planned to be cahnged to an English course]​<br>
+    - ART.T454  Advanced Topics in Artificial Intelligence S [English]​＊<br>
+    - SCE.I501  Image recognition [English]​＊<br>
+  * Courses related to basic quantum science (examples)<br>
+    - EEE.D201  Quantum Mechanics [Japanese]​<br>
+    - SSS.B401  Introduction to Quantum Science and Technology [English]​<br>
+<div style="margin-left:4em;">
+Note: Courses with "＊" are not described in the study guide.
+</div><br>
 
 * **Specialized courses related to cyber/physical specialized space** 　(Please refer to Tables 4-1 and 4-2 in the [Study Guide](/doc/Guide_SSS_en.pdf))
 
   Students must earn credits in selected subjects related to cyber space and physical space to acquire “specialized academic ability & originality” for a super smart society.
+  * Specialized courses related to cyberspace (examples)<br>
+    - SCE.C453  Network Control Systems​ [English]​<br>
+    - ART.T548  Advanced Artificial Intelligence​ [English]​<br>
+    - ESD.C401  Design Theories​ [English]＊​<br>
+  * Specialized courses related to physical space (examples)<br>
+    - MEC.G531  Precision Manufacturing Processes [English]​<br>
+    - EEE.S451  Wireless Communication Engineering [English]​<br>
+    - LST.A501  Biomolecular Analysis [English]​<br>
+<div style="margin-left:4em;">
+Note: Courses with "＊" are not described in the study guide.
+</div><br>
 
 * **Cyber/physical cross mentor system**
 
-  To objectively assess the significance from different viewpoints and to develop multi-faceted problem-solving skills, each student is assigned mentors who specializes in different fields. In addition, by providing consistent guidance in an integrated manner from master to doctoral course, students have improved outcomes that cannot be obtained with short-term experiences such as a lab rotation.
+  To objectively assess the significance from different viewpoints and to develop multi-faceted problem-solving skills, each student is assigned mentors who specializes in different fields. In addition, by providing consistent guidance in an integrated manner from master to doctoral course, students have improved outcomes that cannot be obtained with short-term experiences such as a lab rotation.<br><br>
 
 ## Cultivation of broad perspectives through social cooperation comprehensiveness
 
 * **Courses on Super Smart Society creation**　(Please refer to Table 5 in the [Study Guide](/doc/Guide_SSS_en.pdf))
 
-  To cultivate professional skills and a holistic view, the courses are offered such that students can learn about real-world issues and advanced technologies toward a super smart society. The curriculum is developed in cooperation with the Super Smart Society Promotion Consortium’s participating organizations (national research institutes, private companies, municipalities, etc.). Students must earn credits from this group of subjects.
+  To cultivate professional skills and a holistic view, the courses are offered such that students can learn about real-world issues and advanced technologies toward a super smart society. The curriculum is developed in cooperation with the Super Smart Society Promotion Consortium’s participating organizations (national research institutes, private companies, municipalities, etc.). Students must earn credits from this group of subjects.<br><br>
 
 * **Cyber-physical off-campus project**　(Please refer to Tables 1 and 6-1 in [Study Guide](/doc/Guide_SSS_en.pdf))
 
-  Students must complete an internship at a participating organization of the Super Smart Society Promotion Consortium. The purpose is to develop human resources who can lead a super smart society by experiencing off-campus projects in fields different from their specialty.
+  Students must complete an internship at a participating organization of the Super Smart Society Promotion Consortium. The purpose is to develop human resources who can lead a super smart society by experiencing off-campus projects in fields different from their specialty.<br><br>
 
 
 ## Cultivation of problem-solving ability for interdisciplinary issues
@@ -75,7 +97,7 @@ header:
 
 * **Super smart society creation research project**
 
-  For matched student/mentor research themes, students solve interdisciplinary social challenges by jointly conducting social implementation research projects toward creating a super smart society with partner organizations. If an interdisciplinary research team is established, a research fund of up to two million yen per year will be allocated.
+  For matched student/mentor research themes, students solve interdisciplinary social challenges by jointly conducting social implementation research projects toward creating a super smart society with partner organizations. If an interdisciplinary research team is established, a research fund of up to two million yen per year will be allocated.<br><br>
 
 ## Cultivation of global leadership development
 
