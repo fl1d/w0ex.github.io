@@ -50,7 +50,7 @@ header:
   Please participate in the interdisciplinary matching workshop at least once.
   The upcoming Interdisciplinary matching workshops are as follows.<br>
 
-  Date：June 17 and July 1  2020,  Online event. Please participate on both days.
+  Date：June 17 and July 1  2020,  Online event. Please participate on both days.<br>
   ＊We will announce the details on this website.<br>
   ＊You can find the information of the previous matching workshop from [here](http://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/).
 
