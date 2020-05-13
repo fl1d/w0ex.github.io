@@ -50,9 +50,8 @@ header:
   Please participate in the interdisciplinary matching workshop at least once.
   The upcoming Interdisciplinary matching workshops are as follows.<br>
 
-  Date：June 4, 2020,  November 11, 2020<br>
-  Venue：Tokyo Tech Front, Ookayama Campus<br>
-  ＊It may be held online. We will announce the details on this website.<br>
+  Date：June 17 and July 1  2020,  Online event. Please participate on both days.
+  ＊We will announce the details on this website.<br>
   ＊You can find the information of the previous matching workshop from [here](http://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/).
 
   **2. Enroll in the cyber/physical off-campus project course**<br>
