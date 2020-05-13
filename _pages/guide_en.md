@@ -51,7 +51,7 @@ header:
   The upcoming Interdisciplinary matching workshops are as follows.<br>
 
   Date：June 17 and July 1  2020,  Online event. Please participate on both days.<br>
-  ＊We will announce the details on this website.<br>
+  Details：Click [here](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20200617/).<br>
   ＊You can find the information of the previous matching workshop from [here](http://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/).
 
   **2. Enroll in the cyber/physical off-campus project course**<br>
