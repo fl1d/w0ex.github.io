@@ -41,7 +41,7 @@ feature_row:
   - image_path: /assets/images/matchingWS_2.jpg
     alt: "Interdisciplinary matching workshop"
     title: "Interdisciplinary matching workshop"
-    excerpt: "<B>Date：June 17, 2020  Online event</B><br>We aim to build interdisciplinary reseach teams by matching the needs of SSS consortium partners and the seeds of technical and human resources of Tokyo Tech."
+    excerpt: "<B>Date：June 17 + July 1, 2020  Online event</B><br>We aim to build interdisciplinary reseach teams by matching the needs of SSS consortium partners and the seeds of technical and human resources of Tokyo Tech."
 
   - image_path: /assets/images/poster.jpg
     alt: "SSS Global Forum"
