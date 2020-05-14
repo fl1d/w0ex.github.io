@@ -70,7 +70,7 @@ header:
 
 <div style="text-align:center"><img src="/assets/images/curriculum_jp.jpg" /></div><br>
 
-**１．所属選抜**
+**１．登録選抜**
 
 * **選抜対象学生**
 
