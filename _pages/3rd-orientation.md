@@ -41,6 +41,7 @@ header:
 
 **説明内容**
 
+* [アジェンダ](/doc_limited/orientation agenda_20200513.pdf)
 * 教育プログラムの概要
 * カリキュラムについて
 * 奨励金制度について
