@@ -30,15 +30,7 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/3rd_orientation.png
-    title: "第３回オリエンテーション(学生募集説明会)"
-    alt: "第３回オリエンテーション(学生募集説明会)"
-    excerpt: "<B>日時：2020年5月13日（水） 17:15-18:30　オンライン開催</B><br>2020年10月登録の学生募集説明会を開催いたします。本プログラムにご興味のある方は奮ってご参加ください。"
-    url: "/3rd-orientation/"
-    btn_label: "詳細はこちら"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/matchingWS_2.jpg
+  - image_path: /assets/images/matchingWS_20200519.png
     alt: "異分野融合マッチングワークショップ"
     title: "異分野融合マッチングワークショップ"
     excerpt: "<B>日時：2020年6月17日(水)+7月1日(水)  オンライン開催</B><br>超スマート社会推進コンソーシアムの参加機関のニーズと、東工大の教員・学生の技術的・人材的シーズをマッチングし、分野を超えた分野融合研究チームの構築を目指します。"
@@ -60,6 +52,14 @@ feature_row:
     title: "超スマート社会卓越教育院キックオフ記念式典 "
     excerpt: "<B>日時：2020年~~3月11日（水）~~ 9月開催予定<br>場所：東京工業大学 大岡山キャンパス <br>東工大蔵前会館</B><br>超スマート社会を牽引する博士人材を育成する超スマート社会卓越教育院の発足を記念して、キックオフ記念式典を開催いたします。"
     url: "/kick-off/"
+    btn_label: "詳細はこちら"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/3rd_orientation.png
+    title: "第３回オリエンテーション(学生募集説明会)"
+    alt: "第３回オリエンテーション(学生募集説明会)"
+    excerpt: "<B>日時：2020年5月13日（水） 17:15-18:30　オンライン開催</B><br>2020年10月登録の学生募集説明会を開催いたします。本プログラムにご興味のある方は奮ってご参加ください。<br>ーこのイベントは終了いたしましたー<br>"
+    url: "/3rd-orientation/"
     btn_label: "詳細はこちら"
     btn_class: "btn--primary"
 
