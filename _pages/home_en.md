@@ -30,15 +30,8 @@ header:
 #   - title: "Tokyo Tech Academy for Super Smart Society cultivate super doctor leading future society, based on the fusion of society-collaborated education (open education) and interdisciplinary collaboration reseach (open innovation)"
 
 feature_row:
-  - image_path: /assets/images/3rd_orientation.png
-    title: "3rd Orientation for WISE-SSS program/Briefing session for the enrollment"
-    alt: "3rd Orientation for WISE-SSS program/Briefing session for the enrollment"
-    excerpt: "<B>Date：May 13, 2020 at 17:15-18:30　Online event</B><br>We will hold a briefing session for the autumn enrollment in WISE-SSS program. If you are interested in this program, please join us!"
-    url: "/3rd-orientation_en/"
-    btn_label: "Click for Details"
-    btn_class: "btn--primary"
 
-  - image_path: /assets/images/matchingWS_2.jpg
+  - image_path: /assets/images/matchingWS_20200519.png
     alt: "Interdisciplinary matching workshop"
     title: "Interdisciplinary matching workshop"
     excerpt: "<B>Date：June 17 + July 1, 2020  Online event</B><br>We aim to build interdisciplinary reseach teams by matching the needs of SSS consortium partners and the seeds of technical and human resources of Tokyo Tech."
@@ -59,6 +52,14 @@ feature_row:
     title: "WISE-SSS Opening Ceremony"
     excerpt: "<B>~~March 11, 2020~~ scheduled in September 2020<br>Venue: TokyoTech Front, Ookayama Campus, Tokyo Institute of Technology</B><br>We hold an opening ceremony to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
     url: "/kick-off_en/"
+    btn_label: "Click for Details"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/3rd_orientation.png
+    title: "3rd Orientation for WISE-SSS program/Briefing session for the enrollment"
+    alt: "3rd Orientation for WISE-SSS program/Briefing session for the enrollment"
+    excerpt: "<B>Date：May 13, 2020 at 17:15-18:30　Online event</B><br>We will hold a briefing session for the autumn enrollment in WISE-SSS program. If you are interested in this program, please join us!<br>-This event has ended.-"
+    url: "/3rd-orientation_en/"
     btn_label: "Click for Details"
     btn_class: "btn--primary"
 ---
