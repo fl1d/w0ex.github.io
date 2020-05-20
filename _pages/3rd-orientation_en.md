@@ -41,4 +41,4 @@ header:
 * Interdisciplinary Matching Workshop
 * Internship
 
-（event poster [here](/doc/3rd_orientation.pdf)）
+  <div style="text-align:left"><a href="/doc/3rd_orientation.pdf"><img src="/assets/images/3rd_orientation.png" width="20%" height="20%" /></a></div><br>
