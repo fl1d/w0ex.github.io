@@ -55,13 +55,6 @@ feature_row:
     btn_label: "Click for Details"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/3rd_orientation.png
-    title: "3rd Orientation for WISE-SSS program/Briefing session for the enrollment"
-    alt: "3rd Orientation for WISE-SSS program/Briefing session for the enrollment"
-    excerpt: "<B>Date：May 13, 2020 at 17:15-18:30　Online event</B><br>We will hold a briefing session for the autumn enrollment in WISE-SSS program. If you are interested in this program, please join us!<br>-This event has ended.-"
-    url: "/3rd-orientation_en/"
-    btn_label: "Click for Details"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
