@@ -29,11 +29,18 @@ header:
 
 ## Upcoming Events
 
-* **Briefing session for the enrollment in WISE-SSS program/3rd orientation**
+* **Interdisciplinary matching workshop**
+
+  Date: June 17 + July 1, 2020  Online event<br>
+  Details: Click [here](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20200617/)<br>
+
+<hr>
+
+* **Briefing session for the enrollment in WISE-SSS program/3rd orientation**　<span style="color:Red">-This even has ended.-</span>
 
   Date: May 13, 2020, Wednesday at 17:15-18:30　Online event<br>
   Details: Click [here](/3rd-orientation_en/)<br>
-
+  <div style="text-align:left"><a href="/doc/3rd_orientation.pdf"><img src="/assets/images/3rd_orientation.png" width="20%" height="20%" /></a></div><br>
 <hr>
 
 * **Super Smart Society Global Forum**
