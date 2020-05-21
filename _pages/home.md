@@ -31,8 +31,8 @@ header:
 feature_row:
 
   - image_path: /assets/images/matchingWS_20200519.png
-    alt: "異分野融合マッチングワークショップ"
-    title: "異分野融合マッチングワークショップ"
+    alt: "SSS異分野融合マッチングワークショップ"
+    title: "SSS異分野融合マッチングワークショップ"
     excerpt: "<B>日時：2020年6月17日(水)+7月1日(水)  オンライン開催</B><br>超スマート社会推進コンソーシアムの参加機関のニーズと、東工大の教員・学生の技術的・人材的シーズをマッチングし、分野を超えた分野融合研究チームの構築を目指します。"
     url: "https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20200617/"
     btn_label: "詳細はこちら"
