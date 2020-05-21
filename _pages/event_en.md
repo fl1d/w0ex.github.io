@@ -29,7 +29,7 @@ header:
 
 ## Upcoming Events
 
-* **Interdisciplinary matching workshop**
+* **SSS Interdisciplinary matching workshop**
 
   Date: June 17 + July 1, 2020  Online event<br>
   Details: Click [here](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20200617/)<br>
