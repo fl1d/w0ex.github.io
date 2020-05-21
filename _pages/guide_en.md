@@ -46,9 +46,9 @@ header:
 
   In order to enroll in WISE-SSS program, it is necessary to meet the following two requirements.
 
-  **1. Participation in the interdisciplinary matching workshop**<br>
-  Please participate in the interdisciplinary matching workshop at least once.
-  The upcoming Interdisciplinary matching workshops are as follows.<br>
+  **1. Participation in the SSS interdisciplinary matching workshop**<br>
+  Please participate in the SSS interdisciplinary matching workshop at least once.
+  The upcoming SSS interdisciplinary matching workshops are as follows.<br>
 
   Date：June 17 and July 1  2020,  Online event. Please participate on both days.<br>
   Details：Click [here](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20200617/).<br>
