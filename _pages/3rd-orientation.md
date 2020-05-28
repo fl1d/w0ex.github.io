@@ -39,13 +39,13 @@ header:
 **問合せ先**：超スマート社会卓越教育院事務室　E-mail: wise-sss@jim.titech.ac.jp<br>
 
 
-**説明内容**
+**オリエンテーション資料**（学内からのみアクセス可能）
 
-* [アジェンダ](/doc_limited/orientation agenda_20200513.pdf)
-* 教育プログラムの概要
-* カリキュラムについて
-* 奨励金制度について
-* 異分野融合マッチングワークショップについて
-* インターンシップについて
+* [アジェンダ](/https://www.sss.e.titech.ac.jp/event-wise-orientation-20200513/materials/pdf/agenda.pdf)
+* [教育プログラムの概要](/https://www.sss.e.titech.ac.jp/event-wise-orientation-20200513/materials/pdf/01.pdf)
+* [カリキュラムについて](/https://www.sss.e.titech.ac.jp/event-wise-orientation-20200513/materials/pdf/02.pdf)
+* [奨励金制度について](/https://www.sss.e.titech.ac.jp/event-wise-orientation-20200513/materials/pdf/03.pdf)
+* [異分野融合マッチングワークショップについて](/https://www.sss.e.titech.ac.jp/event-wise-orientation-20200513/materials/pdf/04.pdf)
+* [インターンシップについて](/https://www.sss.e.titech.ac.jp/event-wise-orientation-20200513/materials/pdf/05.pdf)
 
   <div style="text-align:left"><a href="/doc/3rd_orientation.pdf"><img src="/assets/images/3rd_orientation.png" width="20%" height="20%" /></a></div><br>
