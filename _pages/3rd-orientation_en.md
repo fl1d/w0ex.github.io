@@ -34,11 +34,13 @@ header:
 **Contact**: Office of Tokyo Tech Academy for Super Smart Society/ E-mail: wise-sss@jim.titech.ac.jp<br>
 
 
-**WISE-SSS Professors will explain the following:**
-* The guideline of WISE-SSS program
-* Curriculum
-* SSS Scholarship
-* Interdisciplinary Matching Workshop
-* Internship
+**Orientation materials**(Only accessible from campus network)
+
+* [Agenda](/https://www.sss.e.titech.ac.jp/event-wise-orientation-20200513/materials/pdf/agenda.pdf)
+* [The guideline of WISE-SSS program](/https://www.sss.e.titech.ac.jp/event-wise-orientation-20200513/materials/pdf/01.pdf)
+* [Curriculum](/https://www.sss.e.titech.ac.jp/event-wise-orientation-20200513/materials/pdf/02.pdf)
+* [SSS Scholarship](/https://www.sss.e.titech.ac.jp/event-wise-orientation-20200513/materials/pdf/03.pdf)
+* [Interdisciplinary Matching Workshop](/https://www.sss.e.titech.ac.jp/event-wise-orientation-20200513/materials/pdf/04.pdf)
+* [Internship](/https://www.sss.e.titech.ac.jp/event-wise-orientation-20200513/materials/pdf/05.pdf)
 
   <div style="text-align:left"><a href="/doc/3rd_orientation.pdf"><img src="/assets/images/3rd_orientation.png" width="20%" height="20%" /></a></div><br>
