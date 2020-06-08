@@ -41,7 +41,8 @@ Masayuki Fujita | Professor|Systems and Control Engineering
 Mitsuji Sampei | Professor|Systems and Control Engineering
 Jun-ichi Imura | Professor|Systems and Control Engineering
 Hiroya Nakao | Professor|Systems and Control Engineering
-Takeshi Hatanaka | Visiting Associate Professor|Systems and Control Engineering
+Motomu Nakashima| Professor|Systems and Control Engineering
+Takeshi Hatanaka | Associate Professor|Systems and Control Engineering
 Kei Sakaguchi | Professor|Electrical and Electronic Engineering
 Jiro Hirokawa | Professor|Electrical and Electronic Engineering
 Mutsuko Hatano | Professor |Electrical and Electronic Engineering
@@ -57,7 +58,8 @@ Yoshihiro Watanabe| Associate Professor|Information and Communications Engineeri
 Takahiro Shinozaki |Associate Professor|Information and Communications Engineering
 Kotaro Inoue | Professor|Industrial Engineering and Economics
 Dai Senoo |Professor|Industrial Engineering and Economics
-Akiyoshi Shioura |Associate Professor|Industrial Engineering and Economics
+Akiyoshi Shioura |Professor|Industrial Engineering and Economics
+Kazuhide Nakata |Associate Professor|Industrial Engineering and Economics
 Toshimasa Fujisawa |Professor|Physics
 Mikio Kozuma |Professor|Physics
 Susumu Saito| Professor|Physics
@@ -91,7 +93,6 @@ Takuya Oda|Specially Appointed Professor|International Research Center of Advanc
 Takao Kashiwagi|Institute Professor<br>Emeritus Professor|International Research Center of Advanced <br>Energy System for Sustainability
 Kenji Suzuki|Specially Appointed Professor|World Research Hub Initiative
 Hiroyuki Ito | Associate Professor|Laboratory for Future Interdisciplinary <br>Research of Science and Technology
-Motomu Nakashima| Professor|Systems and Control Engineering
 Akinori Nishihara |Specially Appointed Professor|Tokyo Tech Academy for Super Smart Society
 Toru Nagahama |Specially Appointed Associate Professor|Tokyo Tech Academy for Super Smart Society
 Shoichi Kishiki |Associate Professor|Laboratory for Future Interdisciplinary <br>Research of Science and Technology
