@@ -83,7 +83,6 @@ header:
 山下 幸彦 |グローバル教育委員会<br>副委員長|環境・社会理工学院<br>融合理工学系<br>准教授|パターン認識, 機械学習, 画像処理・符号化, <br>国際開発のための情報システム
 八木 透 |グローバル教育委員会<br>副委員長|工学院<br>機械系<br>准教授|医用生体工学，神経工学，ヒューマンインタフェース
 波多野 睦子 |グローバル教育委員会<br>委員|工学院<br>電気電子系<br>教授|固体量子センサ, パワーデバイス(SiC, ダイヤモンド), 人工光合成
-中原 啓貴 |グローバル教育委員会<br>委員|工学院<br>情報通信系<br>准教授|ディープラーニング,AI,CNN, FPGA
 野原 佳代子 |グローバル教育委員会<br>委員長|環境・社会理工学院<br>融合理工学系<br>教授|言語学、翻訳学、サイエンス＆アート融合
 井村 順一 |オンライン教育委員会<br>委員長|工学院<br>システム制御系<br>教授|制御理論，ネットワーク制御
 Cross Jeffrey Scott |オンライン教育委員会<br>副委員長|社会理工学院<br>融合理工学系<br>教授|Japan Energy Mix Decision Modeling, Biomass processing, <br> Biosensor of VOCs, International Research Exchange Student <br> Learning Outcomes, on-line learning course development with edX
