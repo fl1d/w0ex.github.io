@@ -31,7 +31,8 @@ This curriculum introduces the “Education and Research Expense Support System�
 
 * **Super Smart Society Doctoral Leadership Scholarship**
 
-  Among the program’s enrolled students, students with a high research ability or outstanding potential will be provided a scholarship with an upper limit of two million yen per year. Recipients are selected during the mid-term examination based on evaluations of the students’ participation at an “Interdisciplinary Matching Workshop” and interviews with the program faculty members.
+  Among the program’s enrolled students, students with a high research ability or outstanding potential will be provided a scholarship with an upper limit of two million yen per year. Recipients are selected during the mid-term examination based on evaluations of the students’ participation at an “Interdisciplinary Matching Workshop” and interviews with the program faculty members.<br>
+  Note:　If you are receiving RA salary from a joint research with SSS consortium partners or from national projects, the scholarship will be  provided within a total of 2 million yen or less in principle. The same applies if you have other scholarships.(Tsubame Scholarship is not subject to this payment restriction.)
 
 * **Research assistantship for promoting interdisciplinary collaborative research**
 
