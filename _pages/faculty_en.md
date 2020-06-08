@@ -29,6 +29,7 @@ header:
 
 **Academic Supervisors**
 
+Tomohiko Uematsu | Professor |Information and Communications Engineering
 Nobuyuki Iwatsuki | Professor |Mechanical Engineering
 Koichi Suzumori | Professor|Mechanical Engineering
 Masafumi Okada | Professor|Mechanical Engineering
@@ -89,6 +90,16 @@ Misako Takayasu|Professor|Advanced Data Analysis and Modeling Unit
 Takuya Oda|Specially Appointed Professor|International Research Center of Advanced<br> Energy Systems for Sustainability
 Takao Kashiwagi|Institute Professor<br>Emeritus Professor|International Research Center of Advanced <br>Energy System for Sustainability
 Kenji Suzuki|Specially Appointed Professor|World Research Hub Initiative
+Hiroyuki Ito | Associate Professor|Laboratory for Future Interdisciplinary <br>Research of Science and Technology
+Motomu Nakashima| Professor|Systems and Control Engineering
+Akinori Nishihara |Specially Appointed Professor|Tokyo Tech Academy for Super Smart Society
+Toru Nagahama |Specially Appointed Associate Professor|Tokyo Tech Academy for Super Smart Society
+Shoichi Kishiki |Associate Professor|Laboratory for Future Interdisciplinary <br>Research of Science and Technology
+Kayoko Nohara |Professor|Transdisciplinary Science and Engineering
+Kazuki Maruta |Specially Appointed Associate Professor|Tokyo Tech Academy for Super Smart Society
+Yusuke Shinyama |Specially Appointed Assistant Professor|Tokyo Tech Academy for Super Smart Society
+Yu Ara |Specially Appointed Assistant Professor|Tokyo Tech Academy for Super Smart Society
+
 
 <br><br>
 
