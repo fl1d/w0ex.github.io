@@ -30,7 +30,6 @@ header:
 **Academic Supervisors**
 
 Tomohiko Uematsu | Professor |Information and Communications Engineering
-Nobuyuki Iwatsuki | Professor |Mechanical Engineering
 Koichi Suzumori | Professor|Mechanical Engineering
 Masafumi Okada | Professor|Mechanical Engineering
 Gen Endo | Associate Professor|Mechanical Engineering
@@ -53,7 +52,7 @@ Takayuki Iwasaki| Associate Professor|Electrical and Electronic Engineering
 Yukio Kawano |Associate Professor|Electrical and Electronic Engineering
 Gia Khanh Tran |Associate Professor |Electrical and Electronic Engineering
 Isao Yamada | Professor|Information and Communications Engineering
-Hiroki Nakahara| Associate Professor|Information and Communications Engineering
+Kazuhiko Fukawa| Professor|Information and Communications Engineering
 Yoshihiro Watanabe| Associate Professor|Information and Communications Engineering
 Takahiro Shinozaki |Associate Professor|Information and Communications Engineering
 Kotaro Inoue | Professor|Industrial Engineering and Economics
