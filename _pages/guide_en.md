@@ -62,9 +62,11 @@ header:
 
   You can apply for WISE-SSS program twice a year (April and October). The overview of the application for October 2020 registration is as follows.
 
+  <span style="color:#006aff">ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー</span><br>
   Application deadline: August 28, 2020 at noon(12:00 p.m.)<br>
   Place of submission: Office of Tokyo Tech Academy for Super Smart Society (Room.213, South Bldg. 3, Ookayama campus)<br>
   Application form: Please download from here → [word](/doc/2020_Fall_Application form.docx), [pdf](/doc/2020_Fall_Application form.pdf)<br>
+  <span style="color:#006aff">ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー</span><br>
 
   Please read the [Study Guide](/doc/Guide_SSS_en.pdf) carefully. Doctoral course applicants or existing doctoral students who request for a mid-term review in concurrent with the entrance examination, please complete "4. Request for mid-term review for transforming into the program" in the registration application form. Details about the mid-term review will be provided by the office only to relevant applicants.
 <br><br>
