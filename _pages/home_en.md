@@ -37,7 +37,7 @@ feature_row:
     excerpt: "<B>Date：June 17 + July 1, 2020  Online event</B><br>We aim to build interdisciplinary research teams by matching the needs of SSS consortium partners and the seeds of technical and human resources of Tokyo Tech."
     url: "https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20200617/"
     btn_label: "Click for Details"
-    btn_class: "btn-flat-border"
+    btn_class: "btn--primary"
 
   - image_path: /assets/images/poster.jpg
     alt: "SSS Global Forum"
@@ -45,7 +45,7 @@ feature_row:
     excerpt: "<B>Date：~~March 12, 2020~~ scheduled in September 2020<br>Venue: S221-S224, Ookayama Campus, Tokyo Institute of Technology</B><br>We invite top researchers from all over the world to hold a symposium towards the super smart society."
     url: "/global_forum_en/"
     btn_label: "Click for Details"
-    btn_class: "btn-flat-border"
+    btn_class: "btn--primary"
 
   - image_path: /assets/images/kuramae.jpg
     alt: "WISE-SSS Opening Ceremony"
@@ -53,8 +53,15 @@ feature_row:
     excerpt: "<B>~~March 11, 2020~~ scheduled in September 2020<br>Venue: TokyoTech Front, Ookayama Campus, Tokyo Institute of Technology</B><br>We hold an opening ceremony to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
     url: "/kick-off_en/"
     btn_label: "Click for Details"
-    btn_class: "btn-flat-border"
+    btn_class: "btn--primary"
 
 ---
 
 {% include feature_row %}
+
+<h6>NEWS　</h6>
+15/06/2020　Course information for the 2nd quarter:[SSS.B401 Introduction to Quantum Science and Technology (English)](/doc/SSS_B401_IntroductionToQuantumScienceAndTechnology.pdf)<br>
+
+11/06/2020　The application deadline for the enrollment in October 2020 and the application form have been posted.[⇒](https://www.wise-sss.titech.ac.jp/guide_en/)
+
+29/05/2020　The video of the orientation(briefing session held on May 13) has been posted.[⇒](https://www.wise-sss.titech.ac.jp/3rd-orientation_en/)
