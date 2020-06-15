@@ -39,13 +39,13 @@ header:
 
   超スマート社会における先端技術を研究開発する上で必要となる基幹的学力を修得するため、本プログラムで厳選する人工知能・量子科学に関する科目の取得を中間審査の通過条件とする。基幹的学力を身に付けた上で、人工知能・量子科学を活用した教育研究に取り組む。
   * 人工知能基礎科目群の例<br>
-    - CSC.T272 人工知能 [日本語開講]​<br>
-    - XCO.T489 Fundamentals of artificial intelligence [英語開講に変更予定]​<br>
-    - ART.T454 Advanced Topics in Artificial Intelligence S [英語開講]​＊<br>
-    - SCE.I501 視覚認識 [英語開講]​＊<br>
+    - CSC.T272 人工知能 (日本語開講)<br>
+    - XCO.T489 Fundamentals of artificial intelligence (英語開講に変更予定)<br>
+    - ART.T454 Advanced Topics in Artificial Intelligence S (英語開講)＊<br>
+    - SCE.I501 視覚認識 (英語開講)＊<br>
   * 量子科学基礎科目群の例<br>
-    - EEE.D201 量子力学 [日本語開講]​<br>
-    - SSS.B401 Introduction to Quantum Science and Technology [英語開講]​<br>
+    - EEE.D201 量子力学 (日本語開講)<br>
+    - [SSS.B401 Introduction to Quantum Science and Technology (英語開講)](/doc/SSS_B401_IntroductionToQuantumScienceAndTechnology.pdf)<br>
 <div style="margin-left:4em;">
 注）＊印がついた科目は学修案内に未掲載の科目です。
 </div><br>
@@ -54,13 +54,13 @@ header:
 
   本プログラムで厳選するサイバー空間およびフィジカル空間に係る専門科目の取得を修了要件とする。両空間の知識を修得することで超スマート社会へ向けた「専門学力×独創力」を養う。
   * サイバー分野専門科目群の例<br>
-    - SCE.C453 Network Control Systems​ [英語開講]​<br>
-    - ART.T548 Advanced Artificial Intelligence​ [英語開講]​<br>
-    - ESD.C401 Design Theories​ [英語開講]＊​<br>
+    - SCE.C453 Network Control Systems​ (英語開講)<br>
+    - ART.T548 Advanced Artificial Intelligence​ (英語開講)<br>
+    - ESD.C401 Design Theories​ (英語開講)＊​<br>
   * フィジカル分野専門科目群の例<br>
-    - MEC.G531 Precision Manufacturing Processes [英語開講]​<br>
-    - EEE.S451 Wireless Communication Engineering [英語開講]​<br>
-    - LST.A501 Biomolecular Analysis　[英語開講]​<br>
+    - MEC.G531 Precision Manufacturing Processes (英語開講)<br>
+    - EEE.S451 Wireless Communication Engineering (英語開講)<br>
+    - LST.A501 Biomolecular Analysis　(英語開講)<br>
 <div style="margin-left:4em;">
 注）＊印がついた科目は学修案内に未掲載の科目です。
 </div><br>
