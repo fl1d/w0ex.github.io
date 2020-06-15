@@ -40,13 +40,13 @@ header:
 
   To acquire the core academic skills necessary for the research and development of advanced technologies in a super smart society, this program carefully selects subjects related to artificial intelligence and quantum science. After demonstrating core academic abilities by passing a mid-term examination, students can enroll in education and research utilizing artificial intelligence and quantum science.
   * Courses related to basic artificial intelligence (examples)<br>
-    - CSC.T272  Artificial Intelligence [Japanese]​<br>
+    - CSC.T272  Artificial Intelligence (Japanese)<br>
     - XCO.T489  Fundamentals of artificial intelligence [planned to be cahnged to an English course]​<br>
-    - ART.T454  Advanced Topics in Artificial Intelligence S [English]​＊<br>
-    - SCE.I501  Image recognition [English]​＊<br>
+    - ART.T454  Advanced Topics in Artificial Intelligence S (English)＊<br>
+    - SCE.I501  Image recognition (English)＊<br>
   * Courses related to basic quantum science (examples)<br>
-    - EEE.D201  Quantum Mechanics [Japanese]​<br>
-    - SSS.B401  Introduction to Quantum Science and Technology [English]​<br>
+    - EEE.D201  Quantum Mechanics (Japanese)<br>
+    - [SSS.B401  Introduction to Quantum Science and Technology (English)](/doc/SSS_B401_IntroductionToQuantumScienceAndTechnology.pdf)​<br>
 <div style="margin-left:4em;">
 Note: Courses with "＊" are not described in the study guide.
 </div><br>
@@ -55,13 +55,13 @@ Note: Courses with "＊" are not described in the study guide.
 
   Students must earn credits in selected subjects related to cyber space and physical space to acquire “specialized academic ability & originality” for a super smart society.
   * Specialized courses related to cyberspace (examples)<br>
-    - SCE.C453  Network Control Systems​ [English]​<br>
-    - ART.T548  Advanced Artificial Intelligence​ [English]​<br>
-    - ESD.C401  Design Theories​ [English]＊​<br>
+    - SCE.C453  Network Control Systems​ (English)<br>
+    - ART.T548  Advanced Artificial Intelligence​ (English)<br>
+    - ESD.C401  Design Theories​ (English)＊​<br>
   * Specialized courses related to physical space (examples)<br>
-    - MEC.G531  Precision Manufacturing Processes [English]​<br>
-    - EEE.S451  Wireless Communication Engineering [English]​<br>
-    - LST.A501  Biomolecular Analysis [English]​<br>
+    - MEC.G531  Precision Manufacturing Processes (English)<br>
+    - EEE.S451  Wireless Communication Engineering (English)<br>
+    - LST.A501  Biomolecular Analysis (English)​<br>
 <div style="margin-left:4em;">
 Note: Courses with "＊" are not described in the study guide.
 </div><br>
