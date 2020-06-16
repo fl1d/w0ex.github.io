@@ -5,7 +5,7 @@ permalink: /en
 excerpt: <br><B>Program to cultivate leaders of a future society based on <br>the fusion of society-collaborated education (open education)<br> and interdisciplinary collaboration research (open innovation)</B><br><br>
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/header_blue.png
+  overlay_image: /assets/images/header_lightblue.png
   actions:
   - label: "About the WISE-SSS Program"
     url: "/what-is-sss_en/"
