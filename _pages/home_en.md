@@ -60,9 +60,9 @@ feature_row:
 {% include feature_row %}
 
 <h6>NEWS　</h6>
-15/06/2020　Course information for the 2nd quarter:"SSS.S402 Super Smart Society Innovation A2: IoT/Robotics/Smart city" ⇒[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028550&Nendo=2020&vid=03&lang=EN)<br>
+15/06/2020　Course information for the 2nd quarter: "SSS.S402 Super Smart Society Innovation A2: IoT/Robotics/Smart city" ⇒ [OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028550&Nendo=2020&vid=03&lang=EN)<br>
 
-15/06/2020　Course information for the 2nd quarter:["SSS.B401 Introduction to Quantum Science and Technology"(English)](/doc/SSS_B401_IntroductionToQuantumScienceAndTechnology.pdf) ⇒[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028553&Nendo=2020&vid=03&lang=EN)<br>
+15/06/2020　Course information for the 2nd quarter: ["SSS.B401 Introduction to Quantum Science and Technology"(English)](/doc/SSS_B401_IntroductionToQuantumScienceAndTechnology.pdf) ⇒ [OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028553&Nendo=2020&vid=03&lang=EN)<br>
 
 11/06/2020　The application deadline for the enrollment in October 2020 and the application form have been posted.[⇒](https://www.wise-sss.titech.ac.jp/guide_en/)
 
