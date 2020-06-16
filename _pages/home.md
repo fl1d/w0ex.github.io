@@ -62,7 +62,7 @@ feature_row:
 <h6>NEWS　</h6>
 2020.06.15　第2Q科目「SSS.S402 超スマート社会創造A2：IoT／ロボティクス／スマートシティ」の講義情報が[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028550&Nendo=2020&vid=03)に公開されました。<br>
 
-2020.06.15　第2Q科目[SSS.B401 Introduction to Quantum Science and Technology (英語開講)](/doc/SSS_B401_IntroductionToQuantumScienceAndTechnology.pdf)の講義情報を掲載しました。[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028553&Nendo=2020&vid=03)にも公開中です。<br>
+2020.06.15　第2Q科目[「SSS.B401 Introduction to Quantum Science and Technology」(英語開講)](/doc/SSS_B401_IntroductionToQuantumScienceAndTechnology.pdf)の講義情報を掲載しました。[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028553&Nendo=2020&vid=03)にも公開中です。<br>
 
 2020.06.11　2020年10月登録申請〆切、登録申請書を掲載しました。[⇒](https://www.wise-sss.titech.ac.jp/guide/)
 
