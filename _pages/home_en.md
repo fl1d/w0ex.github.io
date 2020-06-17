@@ -42,7 +42,7 @@ feature_row:
   - image_path: /assets/images/poster.jpg
     alt: "SSS Global Forum"
     title: "SSS Global Forum"
-    excerpt: "<B>Date：~~March 12, 2020~~ scheduled in September 2020<br>Venue: S221-S224, Ookayama Campus, Tokyo Institute of Technology</B><br>We invite top researchers from all over the world to hold a symposium towards the super smart society."
+    excerpt: "<B>Date: Scheduled in September 2020<br>Online event</B><br>We invite top researchers from all over the world to hold a symposium towards the super smart society."
     url: "/global_forum_en/"
     btn_label: "Click for Details"
     btn_class: "btn--primary"
@@ -50,7 +50,7 @@ feature_row:
   - image_path: /assets/images/kuramae.jpg
     alt: "WISE-SSS Opening Ceremony"
     title: "WISE-SSS Opening Ceremony"
-    excerpt: "<B>~~March 11, 2020~~ scheduled in September 2020<br>Venue: TokyoTech Front, Ookayama Campus, Tokyo Institute of Technology</B><br>We hold an opening ceremony to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
+    excerpt: "<B>Date: Scheduled in September 2020</B><br>We hold an opening ceremony to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
     url: "/kick-off_en/"
     btn_label: "Click for Details"
     btn_class: "btn--primary"
