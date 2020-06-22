@@ -64,6 +64,6 @@ feature_row:
 
 <B>2020.06.15</B>　第2Q科目[「SSS.B401 Introduction to Quantum Science and Technology」(英語開講)](/doc/SSS_B401_IntroductionToQuantumScienceAndTechnology.pdf)の講義情報を掲載しました。[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028553&Nendo=2020&vid=03)にも公開中です。<br>
 
-<B>2020.06.11</B>　2020年10月登録申請〆切、登録申請書を掲載しました。[⇒](https://www.wise-sss.titech.ac.jp/guide/)
+<B>2020.06.11</B>　[2020年10月登録申請〆切、登録申請書を掲載しました。](https://www.wise-sss.titech.ac.jp/guide/)
 
-<B>2020.05.29</B>　オリエンテーション（学生募集説明会：5月13日開催）の動画を掲載しました。[⇒](https://www.wise-sss.titech.ac.jp/3rd-orientation/)
+<B>2020.05.29</B>　[オリエンテーション（学生募集説明会：5月13日開催）の動画を掲載しました。](https://www.wise-sss.titech.ac.jp/3rd-orientation/)
