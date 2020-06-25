@@ -30,7 +30,7 @@ header:
 
 ## Registration Guide
 
-**<span style="color:#ff32ad">Registration Guide (for the enrollment in October 2020)</span>**
+**<span style="color:#ff2680">Registration Guide (for the enrollment in October 2020)</span>**
 
 * **Briefing session for the enrollment in WISE-SSS program/3rd Orientation**
 
@@ -122,7 +122,7 @@ header:
   Doctoral dissertations are subject to the guidelines of the original academic department in a professional perspective manner. If all the above requirements are met, students are granted a degree diploma with the completion certification of the program. The type of degree complies with the students’ original course selection.
 
 <hr>
-**<span style="color:#ff32ad">Important notice: Mid-term review</span>**
+**<span style="color:#ff2680">Important notice: Mid-term review</span>**
 
 * Date: March 23, 2020, Monday at 13:30-<br>
 * Venue: Room ~~E304~~ 208, West Bldg. 8<br>
@@ -130,7 +130,7 @@ header:
 \* Details will be announced directly from the office of Tokyo Tech Academy for Super Smart Society.
 
 <hr>
-**<span style="color:#ff32ad">Important notice: Extension of the registration application period for WISE-SSS program</span>**
+**<span style="color:#ff2680">Important notice: Extension of the registration application period for WISE-SSS program</span>**
 
 The registration application period has been extended until March 12, for the following students:<br>
 \* Those who gave up the application due to the postponement or cancellation of the internship by reason of coronavirus;<br>
@@ -146,7 +146,7 @@ The registration application period has been extended until March 12, for the fo
 
 <hr>
 
-**<span style="color:#ff32ad">Registration guide (for the enrollment in April 2020)</span>**
+**<span style="color:#ff2680">Registration guide (for the enrollment in April 2020)</span>**
 
 * **Step 1: Participate in the orientation**
 
