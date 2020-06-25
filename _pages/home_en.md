@@ -39,6 +39,14 @@ feature_row:
     btn_label: "Click for Details"
     btn_class: "btn--primary"
 
+  - image_path: /assets/images/kuramae.jpg
+    alt: "WISE-SSS Opening Ceremony"
+    title: "WISE-SSS Opening Ceremony"
+    excerpt: "<B>Date: September 8, 2020</B><br>We hold an opening ceremony to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
+    url: "/kick-off_en/"
+    btn_label: "Click for Details"
+    btn_class: "btn--primary"
+
   - image_path: /assets/images/poster.jpg
     alt: "SSS Global Forum"
     title: "SSS Global Forum"
@@ -47,13 +55,6 @@ feature_row:
     btn_label: "Click for Details"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/kuramae.jpg
-    alt: "WISE-SSS Opening Ceremony"
-    title: "WISE-SSS Opening Ceremony"
-    excerpt: "<B>Date: Scheduled in September 2020</B><br>We hold an opening ceremony to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
-    url: "/kick-off_en/"
-    btn_label: "Click for Details"
-    btn_class: "btn--primary"
 
 ---
 
