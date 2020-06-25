@@ -38,27 +38,25 @@ header:
   <br>
 <hr>
 
+* **Opening ceremony of the Tokyo Tech Academy for Super Smart Society**
+
+  Date: September 8, 2020 (Tuesday)<br>
+
+<hr>
+
+* **Super Smart Society Global Forum**
+
+  Date: September 2020<br>
+  Online event<br>
+
+<hr>
+
+
 * **Briefing session for the enrollment in WISE-SSS program/3rd orientation**　<span style="color:Red">-This even has ended.-</span>
 
   Date: May 13, 2020, Wednesday at 17:15-18:30　Online event<br>
   Details: Click [here](/3rd-orientation_en/)<br>
   <div style="text-align:left"><a href="/doc/3rd_orientation.pdf"><img src="/assets/images/3rd_orientation.png" width="20%" height="20%" /></a></div><br>
-<hr>
-
-* **Super Smart Society Global Forum**
-
-  Date: ~~March 12, 2020 (Thursday) at 13:00~~ <span style="color:Red">postponed</span><br>
-  Venue: Rm.S221-S224, South Bldg.2, Ookayama Campus, Tokyo Institute of Technology<br>
-  Details: Click [here](/global_forum_en/)
-
-<hr>
-
-* **Opening ceremony of the Tokyo Tech Academy for Super Smart Society**
-
-  Date: ~~March 11, 2020 (Wednesday)~~ <span style="color:Red">postponed</span><br>
-  Location: Kuramae Hall, TokyoTech Front<br>
-  Detailed: Click [here](/kick-off_en/)
-
 <hr>
 
 * **First enrollment examination (Scheduled to be held from February to March 2020)**    <span style="color:Red">-This even has ended.-</span>
