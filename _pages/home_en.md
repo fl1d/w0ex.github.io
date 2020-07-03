@@ -31,11 +31,19 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/matchingWS_20200519.png
+  - image_path: /assets/images/matchingWS_20200703.png
     alt: "SSS interdisciplinary matching workshop"
     title: "SSS interdisciplinary matching workshop"
     excerpt: "<B>Date：June 17 + July 1, 2020  Online event</B><br>We aim to build interdisciplinary research teams by matching the needs of SSS consortium partners and the seeds of technical and human resources of Tokyo Tech."
     url: "https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20200617/"
+    btn_label: "Click for Details"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/kuramae.jpg
+    alt: "WISE-SSS Opening Ceremony"
+    title: "WISE-SSS Opening Ceremony"
+    excerpt: "<B>Date: Scheduled in September 2020</B><br>We hold an opening ceremony to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
+    url: "/kick-off_en/"
     btn_label: "Click for Details"
     btn_class: "btn--primary"
 
@@ -47,13 +55,6 @@ feature_row:
     btn_label: "Click for Details"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/kuramae.jpg
-    alt: "WISE-SSS Opening Ceremony"
-    title: "WISE-SSS Opening Ceremony"
-    excerpt: "<B>Date: Scheduled in September 2020</B><br>We hold an opening ceremony to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
-    url: "/kick-off_en/"
-    btn_label: "Click for Details"
-    btn_class: "btn--primary"
 
 ---
 
