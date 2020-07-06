@@ -29,15 +29,6 @@ header:
 
 ## 開催予定のイベント
 
-* **SSS異分野融合マッチングワークショップ**
-
-  日時：2020年6月17日(水)+7月1日(水) オンライン開催<br>
-  対象：東工大学生、超スマート社会推進コンソーシアム参加機関、東工大教職員<br>
-  詳細は[こちら](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20200617/)を参照ください。　
-  <div style="text-align:left"><img src="/assets/images/matchingWS_20200519.png" width="20%" height="20%" />
-  </div>
-
-<hr>
 * **超スマート社会卓越教育院キックオフ記念式典**
 
     日時：2020年9月8日（火）<br>
@@ -51,6 +42,17 @@ header:
   対象：学生及び超スマート社会卓越教育院関係者<br>
 
 <hr>
+* **SSS異分野融合マッチングワークショップ**<span style="color:Red">ー終了しましたー</span>
+
+  日時：2020年6月17日(水)+7月1日(水) オンライン開催<br>
+  対象：東工大学生、超スマート社会推進コンソーシアム参加機関、東工大教職員<br>
+  詳細は[こちら](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20200617/)を参照ください。　
+  <div style="text-align:left"><img src="/assets/images/matchingWS_20200519.png" width="20%" height="20%" />
+  </div>
+
+<hr>
+
+
 * **学生募集説明会（第3回オリエンテーション）**　<span style="color:Red">ー終了しましたー</span>
 
   日時：2020年5月13日（水）17:15-18:30 オンライン開催<br>
