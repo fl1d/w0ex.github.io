@@ -29,7 +29,19 @@ header:
 
 ## Upcoming Events
 
-* **SSS Interdisciplinary matching workshop**
+
+* **Opening ceremony of the Tokyo Tech Academy for Super Smart Society**
+
+  Date: September 8, 2020 (Tuesday)<br>
+<hr>
+
+* **Super Smart Society Global Forum**
+
+  Date: September 2020<br>
+  Online event<br>
+<hr>
+
+* **SSS Interdisciplinary matching workshop**<span style="color:Red">-This even has ended.-</span>
 
   Date: June 17 + July 1, 2020  Online event<br>
   Details: Click [here](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20200617/)<br>
@@ -37,20 +49,6 @@ header:
   </div>
   <br>
 <hr>
-
-* **Opening ceremony of the Tokyo Tech Academy for Super Smart Society**
-
-  Date: September 8, 2020 (Tuesday)<br>
-
-<hr>
-
-* **Super Smart Society Global Forum**
-
-  Date: September 2020<br>
-  Online event<br>
-
-<hr>
-
 
 * **Briefing session for the enrollment in WISE-SSS program/3rd orientation**　<span style="color:Red">-This even has ended.-</span>
 
