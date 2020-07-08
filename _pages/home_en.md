@@ -36,7 +36,7 @@ feature_row:
     title: "WISE-SSS Kick-off event"
     excerpt: "<B>Date: September 8, 2020</B><br>We hold a Kick-off event to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
     url: "/en"
-    btn_label: "coming soon"
+    btn_label: "Coming soon"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/poster.jpg
@@ -44,7 +44,7 @@ feature_row:
     title: "SSS Global Forum"
     excerpt: "<B>Date: Scheduled in September 2020<br>Online event</B><br>We invite top researchers from all over the world to hold a symposium towards the super smart society."
     url: "/en"
-    btn_label: "coming soon"
+    btn_label: "Coming soon"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/PV.png
@@ -53,7 +53,7 @@ feature_row:
     excerpt: "<B>Introduction to SSS Research & Education Fields</B><br>
     You can see SSS Research & Education Fields: Quantum computer, Quantum sensor, Smart robotics(Sky, Aqua, Land, Manufacturing), Smart mobility in the Video.<br>"
     url: "/en"
-    btn_label: "coming soon"
+    btn_label: "Coming soon"
     btn_class: "btn--primary"
 
 
