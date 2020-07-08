@@ -31,28 +31,29 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/matchingWS_20200703.png
-    alt: "SSS interdisciplinary matching workshop"
-    title: "SSS interdisciplinary matching workshop"
-    excerpt: "<B>Date：June 17 + July 1, 2020  Online event</B><br>We aim to build interdisciplinary research teams by matching the needs of SSS consortium partners and the seeds of technical and human resources of Tokyo Tech."
-    url: "https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20200617/"
-    btn_label: "Click for Details"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/kuramae.jpg
+  - image_path: /assets/images/kickoff_20200706.png
     alt: "WISE-SSS Kick-off event"
     title: "WISE-SSS Kick-off event"
     excerpt: "<B>Date: September 8, 2020</B><br>We hold a Kick-off event to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
-    url: "/kick-off_en/"
-    btn_label: "Click for Details"
+    url: "/en"
+    btn_label: "coming soon"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/poster.jpg
     alt: "SSS Global Forum"
     title: "SSS Global Forum"
     excerpt: "<B>Date: Scheduled in September 2020<br>Online event</B><br>We invite top researchers from all over the world to hold a symposium towards the super smart society."
-    url: "/global_forum_en/"
-    btn_label: "Click for Details"
+    url: "/en"
+    btn_label: "coming soon"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/PV.png
+    alt: "SSS Research & Education Fields"
+    title: "SSS Research & Education Fields"
+    excerpt: "<B>Introduction to SSS Research & Education Fields</B><br>
+    You can see SSS Research & Education Fields: Quantum computer, Quantum sensor, Smart robotics(Sky, Aqua, Land, Manufacturing), Smart mobility in the Video.<br>"
+    url: "/en"
+    btn_label: "coming soon"
     btn_class: "btn--primary"
 
 
