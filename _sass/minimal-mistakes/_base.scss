@@ -57,7 +57,11 @@ h4 {
 }
 
 h5 {
-  font-size: $type-size-6;
+  font-size: $type-size-5;
+  padding: 0.25em 0.5em;/*上下 左右の余白*/
+  color: #051039;/*文字色*/
+  background: transparent;/*背景透明に*/
+  border-left: solid 5px #5ea2f7;/*左線*/
 }
 
 h6 {
