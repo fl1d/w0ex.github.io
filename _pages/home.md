@@ -35,7 +35,7 @@ feature_row:
     title: "超スマート社会卓越教育院キックオフ記念式典 "
     excerpt: "<B>日時：2020年9月8日（火）</B><br>超スマート社会を牽引する博士人材を育成する超スマート社会卓越教育院の発足を記念して、キックオフ記念式典を開催いたします。"
     url: "/"
-    btn_label: "coming soon"
+    btn_label: "Coming soon"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/poster.jpg
@@ -43,7 +43,7 @@ feature_row:
     title: "超スマート社会グローバルフォーラム"
     excerpt: "<B>日時：2020年9月開催(オンライン開催)</B><br>世界各地から一流の研究者を招聘し、超スマート社会に向けたシンポジウムを開催いたします。"
     url: "/"
-    btn_label: "coming soon"
+    btn_label: "Coming soon"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/PV.png
@@ -52,7 +52,7 @@ feature_row:
     excerpt: "<B>SSS教育研究フィールドを動画で紹介します</B><br>
     SSSの教育研究フィールド（量子コンピューティング、量子センサ、スマートロボティクス（スカイ、アクア、ランド、マニュファクチャリング）、スマートモビリティ）を動画でご覧いただけます。<br>"
     url: "/"
-    btn_label: "coming soon"
+    btn_label: "Coming soon"
     btn_class: "btn--primary"
 
 
