@@ -45,7 +45,7 @@ header:
 
   Date: June 17 + July 1, 2020  Online event<br>
   Details: Click [here](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20200617/)<br>
-  <div style="text-align:left"><img src="/assets/images/matchingWS_20200519.png" width="20%" height="20%" />
+  <div style="text-align:left"><img src="/assets/images/matchingWS_20200703.png" width="20%" height="20%" />
   </div>
   <br>
 <hr>
