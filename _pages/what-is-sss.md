@@ -25,6 +25,8 @@ header:
     url: "/event/"
   - label: "活動報告"
     url: "/activity-report/"
+  - label: "SSS教育研究フィールド"
+    url: "RE_fields/"
   - label: "SSS推進コンソーシアム"
     url: "https://www.sss.e.titech.ac.jp/"
 ---
