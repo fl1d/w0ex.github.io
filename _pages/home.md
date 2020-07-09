@@ -51,8 +51,8 @@ feature_row:
     title: "SSS教育研究フィールド"
     excerpt: "<B>SSS教育研究フィールドを動画で紹介します</B><br>
     SSSの教育研究フィールド（量子コンピューティング、量子センサ、スマートロボティクス（スカイ、アクア、ランド、マニュファクチャリング）、スマートモビリティ）を動画でご覧いただけます。<br>"
-    url: "/"
-    btn_label: "Coming soon"
+    url: "/RE_fields/"
+    btn_label: "See more"
     btn_class: "btn--primary"
 
 
