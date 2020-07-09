@@ -50,10 +50,10 @@ feature_row:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/PV.png
-    alt: "SSS Research & Education Fields"
-    title: "SSS Research & Education Fields"
-    excerpt: "<B>Introduction to SSS Research & Education Fields</B><br>
-    You can see SSS Research & Education Fields: Quantum computing, Quantum sensor, Smart robotics(Sky, Aqua, Land, Manufacturing), Smart mobility in the Video.<br>"
+    alt: "SSS Research & Education fields"
+    title: "SSS Research & Education fields"
+    excerpt: "<B>Introduction to SSS Research & Education fields</B><br>
+    You can see SSS Research & Education fields: Quantum computing, Quantum sensor, Smart robotics(Sky, Aqua, Land, Manufacturing), Smart mobility in the Video.<br>"
     url: "/RE_fields_en"
     btn_label: "See more"
     btn_class: "btn--primary"
