@@ -32,9 +32,8 @@ header:
 ## SSS教育研究フィールド  <img src="/assets/images/logo_R&E.png" width="30%" height="30%" align="right"/>
 
 <table style="border:none;" width="100%">
-    <td style="border:none;" width="50%" align="center">
+    <td style="border:none;" width="50%">
 
-<td style="border:none;" width="50%" >
 <h5>量子コンピューティング教育研究フィールド</h5>
 <video width="80%" src="/video/quantum_computer.m4v"  controls></video>
 
@@ -45,10 +44,8 @@ header:
 <video width="80%" src="/video/robotics_l_m.m4v" controls></video>
 
 </td>
-</td>
-<td style="border:none;" width="50%" align="center">
+<td style="border:none;" width="50%">
 
-<td style="border:none;" width="50%" >
 <h5>量子センサ教育研究フィールド</h5>
 <video width="80%" src="/video/quantum_sensor.m4v" controls></video>
 
@@ -58,6 +55,5 @@ header:
 <h5>スマートモビリティ教育研究フィールド</h5>
 <video width="80%" src="/video/mobility.m4v" controls></video>
 
-</td>
 </td>
 </table>
