@@ -23,6 +23,8 @@ header:
     url: "/event_en/"
   - label: "Activity Report"
     url: "/activity-report_en/"
+  - label: "SSS R&E fields"
+    url: "RE_fields_en/"
   - label: "SSS Promotion Consortium"
     url: "https://www.sss.e.titech.ac.jp/en"
 
