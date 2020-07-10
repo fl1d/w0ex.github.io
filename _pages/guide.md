@@ -59,9 +59,9 @@ header:
   2020年10月登録の申請手続きは、以下のとおりです。<br>
 
   <span style="color:#006aff">ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー</span><br>
-  登録申請書提出〆切：2020年8月28日（金）12:00(正午)<br>
+  <B>登録申請書提出〆切：2020年8月28日（金）12:00(正午)<br>
   登録申請書提出場所： 超スマート社会卓越教育院事務室（南3号館2階213号室）<br>
-  登録申請書：こちらからダウンロードして下さい→[word](/doc/2020_Fall_Application form.docx), [pdf](/doc/2020_Fall_Application form.pdf)<br>
+  登録申請書：こちらからダウンロードして下さい→[word](/doc/2020_Fall_Application form.docx), [pdf](/doc/2020_Fall_Application form.pdf)</B><br>
   <span style="color:#006aff">ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー</span><br>
 
   [学修案内](/doc/Guide_SSS.pdf)を熟読の上、登録申請書をご記入下さい。<br>
