@@ -23,6 +23,8 @@ header:
     url: "/event_en/"
   - label: "Activity Report"
     url: "/activity-report_en/"
+  - label: "SSS R&E fields"
+    url: "RE_fields_en/"
   - label: "SSS Promotion Consortium"
     url: "https://www.sss.e.titech.ac.jp/en"
 ---
@@ -30,28 +32,28 @@ header:
 ## SSS Research & Education fields  <img src="/assets/images/logo_R&E.png" width="30%" height="30%" align="right"/>
 
 <table style="border:none;" width="100%">
-    <td style="border:none;" width="50%" align="center">
+    <td style="border:none;" width="50%">
 
 <h5>Quantum computing R&E field</h5>
-<video width="500px" height="250px" src="/video/quantum_computer.m4v" controls></video>
+<video width="80%" src="/video/quantum_computer.m4v" controls></video>
 
 <h5>Smart robotics R&E field</h5>
-<video width="500px" height="250px" src="/video/robotics.m4v" controls></video>
+<video width="80%" src="/video/robotics.m4v" controls></video>
 
 <h5>Smart robotics(Robot Land, Smart Manufacturing) R&E field</h5>
-<video width="500px" height="250px" src="/video/robotics_l_m.m4v" controls></video>
+<video width="80%" src="/video/robotics_l_m.m4v" controls></video>
 
 </td>
-<td style="border:none;" width="50%" align="center">
+<td style="border:none;" width="50%">
 
 <h5>Quantum sensor R&E field</h5>
-<video width="500px" height="250px" src="/video/quantum_sensor.m4v" controls></video>
+<video width="80%" src="/video/quantum_sensor.m4v" controls></video>
 
 <h5>Smart robotics(Robot Zoo Aqua, Robot Zoo Sky) R&E field</h5>
-<video width="500px" height="250px" src="/video/robotics_a_s.m4v" controls></video>
+<video width="80%" src="/video/robotics_a_s.m4v" controls></video>
 
 <h5>Smart mobility R&E field</h5>
-<video width="500px" height="250px" src="/video/mobility.m4v" controls></video>
+<video width="80%" src="/video/mobility.m4v" controls></video>
 
 </td>
 </table>
