@@ -35,25 +35,25 @@ header:
     <td style="border:none;" width="50%">
 
 <h5>Quantum computing R&E field</h5>
-<video width="80%" src="/video/quantum_computer.m4v" controls></video>
+<video width="90%" src="/video/quantum_computer.m4v" controls></video>
 
 <h5>Smart robotics R&E field</h5>
-<video width="80%" src="/video/robotics.m4v" controls></video>
+<video width="90%" src="/video/robotics.m4v" controls></video>
 
 <h5>Smart robotics(Robot Land, Smart Manufacturing) R&E field</h5>
-<video width="80%" src="/video/robotics_l_m.m4v" controls></video>
+<video width="90%" src="/video/robotics_l_m.m4v" controls></video>
 
 </td>
 <td style="border:none;" width="50%">
 
 <h5>Quantum sensor R&E field</h5>
-<video width="80%" src="/video/quantum_sensor.m4v" controls></video>
+<video width="90%" src="/video/quantum_sensor.m4v" controls></video>
 
 <h5>Smart robotics(Robot Zoo Aqua, Robot Zoo Sky) R&E field</h5>
-<video width="80%" src="/video/robotics_a_s.m4v" controls></video>
+<video width="90%" src="/video/robotics_a_s.m4v" controls></video>
 
 <h5>Smart mobility R&E field</h5>
-<video width="80%" src="/video/mobility.m4v" controls></video>
+<video width="90%" src="/video/mobility.m4v" controls></video>
 
 </td>
 </table>
