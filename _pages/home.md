@@ -69,4 +69,4 @@ feature_row:
 
 <B>2020.06.11</B>　[2020年10月登録申請〆切、登録申請書を掲載しました。](https://www.wise-sss.titech.ac.jp/guide/)
 
-<B>2020.05.29</B>　[オリエンテーション（学生募集説明会：5月13日開催）の動画を掲載しました。](https://www.wise-sss.titech.ac.jp/3rd-orientation/)
+<B>2020.05.29</B>　[オリエンテーション（学生募集説明会：5月13日開催）の動画を掲載しました。(学内限定公開)](https://www.wise-sss.titech.ac.jp/3rd-orientation/)
