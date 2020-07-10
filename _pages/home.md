@@ -23,6 +23,8 @@ header:
     url: "/event/"
   - label: "活動報告"
     url: "/activity-report/"
+  - label: "SSS教育研究フィールド"
+    url: "RE_fields/"
   - label: "SSS推進コンソーシアム"
     url: "https://www.sss.e.titech.ac.jp/"
 
@@ -59,6 +61,8 @@ feature_row:
 {% include feature_row %}
 
 <h6>NEWS　</h6>
+<B>2020.07.09</B>　[SSS教育研究フィールドを紹介する動画を掲載しました。](https://www.wise-sss.titech.ac.jp/RE_fields/)
+
 <B>2020.06.15</B>　第2Q科目「SSS.S402 超スマート社会創造A2：IoT／ロボティクス／スマートシティ」の講義情報が[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028550&Nendo=2020&vid=03)に公開されました。<br>
 
 <B>2020.06.15</B>　第2Q科目[「SSS.B401 Introduction to Quantum Science and Technology」(英語開講)](/doc/SSS_B401_IntroductionToQuantumScienceAndTechnology.pdf)の講義情報を掲載しました。[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028553&Nendo=2020&vid=03)にも公開中です。<br>
