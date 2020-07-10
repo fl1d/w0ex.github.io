@@ -72,4 +72,4 @@ feature_row:
 
 <B>11/06/2020</B>　[The application deadline for the enrollment in October 2020 and the application form have been posted.](https://www.wise-sss.titech.ac.jp/guide_en/)
 
-<B>29/05/2020</B>　[The video of the orientation(briefing session held on May 13) has been posted.](https://www.wise-sss.titech.ac.jp/3rd-orientation_en/)
+<B>29/05/2020</B>　[The video of the orientation(briefing session held on May 13) has been posted.(Only accessible from campus network.)](https://www.wise-sss.titech.ac.jp/3rd-orientation_en/)
