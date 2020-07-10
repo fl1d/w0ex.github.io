@@ -43,7 +43,7 @@ header:
   Online event<br>
 <hr>
 
-* **SSS Interdisciplinary matching workshop**<span style="color:Red">-This even has ended.-</span>
+* **SSS Interdisciplinary matching workshop**<span style="color:Red">　-This even has ended.-</span>
 
   Date: June 17 + July 1, 2020  Online event<br>
   Details: Click [here](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20200617/)<br>
@@ -52,14 +52,14 @@ header:
   <br>
 <hr>
 
-* **Briefing session for the enrollment in WISE-SSS program/3rd orientation**　<span style="color:Red">-This even has ended.-</span>
+* **Briefing session for the enrollment in WISE-SSS program/3rd orientation**<span style="color:Red">　-This even has ended.-</span>
 
   Date: May 13, 2020, Wednesday at 17:15-18:30　Online event<br>
   Details: Click [here](/3rd-orientation_en/)<br>
   <div style="text-align:left"><a href="/doc/3rd_orientation.pdf"><img src="/assets/images/3rd_orientation.png" width="20%" height="20%" /></a></div><br>
 <hr>
 
-* **First enrollment examination (Scheduled to be held from February to March 2020)**    <span style="color:Red">-This even has ended.-</span>
+* **First enrollment examination (Scheduled to be held from February to March 2020)**<span style="color:Red">　-This even has ended.-</span>
 
   **Applicable students**<br>
   Master course students enrolled at the University (limited to those who are continue to enroll into the master courses at the start of curriculum), or those who have been approved by the Tokyo Tech Academy for Super Smart Society through predetermined procedures.
