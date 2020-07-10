@@ -6,8 +6,6 @@ excerpt: <B>社会連携教育（オープンエデュケーション）と異�
 header:
   overlay_color: "#000"
   overlay_image: /assets/images/header_lightblue.png
-  overlay_image-size: cover;
-
   actions:
   - label: "超スマート社会卓越教育課程とは"
     url: "/what-is-sss/"
