@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Benefits for Students
+title: SSS Research & Education fields
 permalink: /RE_fields_en/
 author_profile: false
 header:
