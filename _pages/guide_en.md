@@ -105,10 +105,7 @@ header:
 
 **２．Mid-term examination**
 
-  To participate in the doctoral course of the program, it is necessary to pass the mid-term examination. Details and dates of the examination will be announced when available
-
-  The mid-term examination is based on the student’s master thesis, summary/achievement list, a doctoral program research plan, and an essay on the contributions to a super smart society. To pass the mid-term examination, the following requirements must be satisfied:
-
+* To participate in the doctoral course of the program, it is necessary to pass the mid-term examination. Details and dates of the examination will be announced when available.The mid-term examination is based on the student’s master thesis, summary/achievement list, a doctoral program research plan, and an essay on the contributions to a super smart society. To pass the mid-term examination, the following requirements must be satisfied:
   1. Complete the master's program or pass the completion exam.
   2. Earn at least one credit from the artificial intelligence basic subjects group assigned by the program (Table 2-1 in the [Study Guide](/doc/Guide_SSS_en.pdf)). The basic course of artificial intelligence designated by this program is a class to learn basic concepts of artificial intelligence (data analysis, machine learning, etc.) or an advanced class based on elementary artificial intelligence knowledge. Acquisition of core academic ability for artificial intelligence may be obtained by acquiring credits from lectures other than those listed in this table.
   3. Earn at least one credit from the basic quantum science subjects group assigned by the program (Table 2-2 in the [Study Guide](/doc/Guide_SSS_en.pdf)). The basic course of quantum mechanics designated by this program is a class to learn basic concepts of quantum mechanics (wave function, uncertainty, etc.), or an advanced class based on elementary quantum mechanics knowledge. Core academic ability for quantum science may be obtained by earning credits from lectures other than those listed in this table.
@@ -116,15 +113,14 @@ header:
 
 **３．Completion examination**
 
-  To qualify for completion of this curriculum, students must complete their original doctoral course as well as satisfy the following qualification items:
-
+* To qualify for completion of this curriculum, students must complete their original doctoral course as well as satisfy the following qualification items:
   1. Acquire at least 10 credits from the subjects offered or designated by the program shown [here](/doc/Guide_SSS_en.pdf). In this curriculum, it is only necessary to obtain the specified number of credits from the prescribed subjects (400, 500 and 600) by the time of completion. Even if the students who study at the doctoral course earn (400 and 500) credits, they can be included in the credit requirements for completing the curriculum.
   2. Participate in the various events held by the program (Table 3-2 in the [Study Guide](/doc/Guide_SSS_en.pdf)).
   3. Pass the completion examination conducted by the program, which includes an oral presentation on the outline of the doctoral dissertation and activities in the WISE program. The committee will judge if the student possesses the ability to be a knowledgeable professional with fundamental academic abilities, creativity, holistic view, problem-solving skills, and leadership skills. Details and dates of completion examination will be announced when available. Please shown refer to Table 3-1 in the [Study Guide](/doc/Guide_SSS_en.pdf).
 
 **４． Doctoral Degree Examination**
 
-  Doctoral dissertations are subject to the guidelines of the original academic department in a professional perspective manner. If all the above requirements are met, students are granted a degree diploma with the completion certification of the program. The type of degree complies with the students’ original course selection.
+* Doctoral dissertations are subject to the guidelines of the original academic department in a professional perspective manner. If all the above requirements are met, students are granted a degree diploma with the completion certification of the program. The type of degree complies with the students’ original course selection.
 
 <hr>
 **<span style="color:#ff2680">Important notice: Mid-term review</span>**
