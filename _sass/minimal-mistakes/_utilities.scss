@@ -560,3 +560,9 @@ a.reversefootnote {
     position: static;
   }
 }
+
+.doubleline {/*二重取り消し線*/
+background-image:url(/assets/images/doubleline.png/);
+background-repeat:repeat-x;
+background-position: center;
+}
