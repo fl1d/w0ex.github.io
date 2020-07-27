@@ -78,7 +78,12 @@ header:
       ● 登録申請書提出場所： 超スマート社会卓越教育院事務室（南3号館2階213号室）<br>
       ※新型コロナウィルスの影響等により来学できない場合は、申請書および必要書類（PDFファイル）を以下のメールアドレス宛てにお送り下さい。<br>
     　　　　　　　　　　　　　　　e-mail: wise-sss@jim.titech.ac.jp<br>
-      ● 登録申請書：こちらからダウンロードして下さい→<a href="/doc/2020_Fall_Application form.docx">word</a>,<a href="/doc/2020_Fall_Application form.pdf">pdf</a></B><br><br>
+      ● 登録申請書：こちらからダウンロードして下さい→<a href="/doc/2020_Fall_Application form.docx">word</a>,<a href="/doc/2020_Fall_Application form.pdf">pdf</a><br>
+
+      ● 登録審査（書類審査）：2020年9月初旬
+      </B><br>
+
+      <br>
 
   <a href="/doc/Guide_SSS.pdf">学修案内</a>を熟読の上、登録申請書をご記入下さい。博士後期課程から履修を開始する学生で、所属選抜と同時に<B>中間審査</B>の実施を希望する場合は、登録申請書の「4.中間審査の希望」欄を必ずご記入下さい。<br>
   <B>中間審査は、2020年9月17日（木）に実施します。</B></p></div>
