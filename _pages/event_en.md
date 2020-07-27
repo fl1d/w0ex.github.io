@@ -5,7 +5,7 @@ permalink: /event_en/
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/header_lightblue.png
+  overlay_image: /assets/images/header_summer.png
   actions:
   - label: "About the WISE-SSS Program"
     url: "/what-is-sss_en/"
