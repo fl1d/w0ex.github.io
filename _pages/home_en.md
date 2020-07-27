@@ -1,6 +1,6 @@
 ---
-title: "<font size='3'>Doctoral Program for World-leading Innovative & Smart Education by MEXT </font><br>Tokyo Tech Academy for Super Smart Society"
 layout: splash
+title: "<font size='3'>Doctoral Program for World-leading Innovative & Smart Education by MEXT </font><br>Tokyo Tech Academy for Super Smart Society"
 permalink: /en
 excerpt: <br><B>Program to cultivate leaders of a future society based on <br>the fusion of society-collaborated education (open education)<br> and interdisciplinary collaboration research (open innovation)</B><br><br>
 header:
@@ -33,6 +33,24 @@ header:
 
 feature_row:
 
+  - image_path: /assets/images/application.png
+    alt: "WISE-SSS Application for enrollment in fall 2020"
+    title: "WISE-SSS Application for enrollment in fall 2020"
+    excerpt: "<B>Application：until August 28,2020,Friday at noon</B><br>The       
+    program's objective is to train knowledge professionals with technical and professional knowledge capable of leading multiple sectors of a future super smart society. We are accepting applications for those who wish to enroll in this program in October 2020."
+    url: "/guide_en/"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/PV.png
+    alt: "SSS Research & Education fields"
+    title: "SSS Research & Education fields"
+    excerpt: "<B>Introduction to SSS Research & Education fields</B><br>
+    You can see SSS Research & Education fields: Quantum computing, Quantum sensor, Smart robotics(Sky, Aqua, Land, Manufacturing), Smart mobility in the Video.<br>"
+    url: "/RE_fields_en"
+    btn_label: "See more"
+    btn_class: "btn--primary"
+
   - image_path: /assets/images/kickoff_20200706.png
     alt: "WISE-SSS Kick-off event"
     title: "WISE-SSS Kick-off event"
@@ -48,16 +66,6 @@ feature_row:
     url: "/en"
     btn_label: "Coming soon"
     btn_class: "btn--primary"
-
-  - image_path: /assets/images/PV.png
-    alt: "SSS Research & Education fields"
-    title: "SSS Research & Education fields"
-    excerpt: "<B>Introduction to SSS Research & Education fields</B><br>
-    You can see SSS Research & Education fields: Quantum computing, Quantum sensor, Smart robotics(Sky, Aqua, Land, Manufacturing), Smart mobility in the Video.<br>"
-    url: "/RE_fields_en"
-    btn_label: "See more"
-    btn_class: "btn--primary"
-
 
 ---
 
