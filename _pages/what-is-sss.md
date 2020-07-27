@@ -5,7 +5,7 @@ permalink: /what-is-sss/
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/header_lightblue.png
+  overlay_image: /assets/images/header_summer.png
   overlay_image-size: cover;
 
   actions:
