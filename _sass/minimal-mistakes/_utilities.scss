@@ -566,3 +566,39 @@ background-image:url(/assets/images/doubleline.png/);
 background-repeat:repeat-x;
 background-position: center;
 }
+
+.box2 {
+    padding: 2em 2em;
+    margin: 1em 6em 2em 0;
+    background: #FFF;
+    border: solid 3px #1e65ef;/*線*/
+    border-radius: 10px;/*角の丸み*/
+}
+.box2 p {
+    margin: 0;
+    padding: 0;
+}
+
+.box26 {
+    position: relative;
+    margin: 2em 6em 2em 0;
+    padding: 2em 2em;
+    border: solid 1px #1e65ef;
+    border-radius: 8px;
+}
+.box26 .box-title {
+    position: absolute;
+    display: inline-block;
+    top: -13px;
+    left: 10px;
+    padding: 0 9px;
+    line-height: 1;
+    font-size: 19px;
+    background: #FFF;
+    color: #1e65ef;
+    font-weight: bold;
+}
+.box26 p {
+    margin: 0;
+    padding: 0;
+}
