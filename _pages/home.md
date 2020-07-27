@@ -5,7 +5,7 @@ permalink: /
 excerpt: <B>社会連携教育（オープンエデュケーション）と異分野融合研究（オープンイノベーション）の融合によって、<br>来たる超スマート社会を牽引する人材を育成します</B>
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/header_lightblue.png
+  overlay_image: /assets/images/header_summer.png
   actions:
   - label: "超スマート社会卓越教育課程とは"
     url: "/what-is-sss/"
