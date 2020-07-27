@@ -32,6 +32,7 @@ header:
 **Academic Supervisors**
 
 Tomohiko Uematsu | Professor |Information and Communications Engineering
+Nobuyuki Iwatsuki | Professor|Electrical and Electronic Engineering
 Koichi Suzumori | Professor|Mechanical Engineering
 Masafumi Okada | Professor|Mechanical Engineering
 Gen Endo | Associate Professor|Mechanical Engineering
