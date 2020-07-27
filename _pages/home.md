@@ -30,6 +30,23 @@ header:
 
 feature_row:
 
+  - image_path: /assets/images/application.png
+    alt: "超スマート社会卓越教育院 秋期登録申請"
+    title: "超スマート社会卓越教育院 秋期登録申請"
+    excerpt: "<B>申請書提出〆切：2020年8月28日（金）正午</B><br>本教育院では超スマート社会を牽引する人材を育成します。2020年10月から本教育院に登録を希望する方の申請を受付中です。"
+    url: "/guide/"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/PV.png
+    alt: "SSS教育研究フィールド"
+    title: "SSS教育研究フィールド"
+    excerpt: "<B>SSS教育研究フィールドを動画で紹介します</B><br>
+    SSSの教育研究フィールド（量子コンピューティング、量子センサ、スマートロボティクス（スカイ、アクア、ランド、マニュファクチャリング）、スマートモビリティ）を動画でご覧いただけます。<br>"
+    url: "/RE_fields/"
+    btn_label: "See more"
+    btn_class: "btn--primary"    
+
   - image_path: /assets/images/kickoff_20200706.png
     alt: "超スマート社会卓越教育院キックオフ記念式典 "
     title: "超スマート社会卓越教育院キックオフ記念式典 "
@@ -45,16 +62,6 @@ feature_row:
     url: "/"
     btn_label: "Coming soon"
     btn_class: "btn--primary"
-
-  - image_path: /assets/images/PV.png
-    alt: "SSS教育研究フィールド"
-    title: "SSS教育研究フィールド"
-    excerpt: "<B>SSS教育研究フィールドを動画で紹介します</B><br>
-    SSSの教育研究フィールド（量子コンピューティング、量子センサ、スマートロボティクス（スカイ、アクア、ランド、マニュファクチャリング）、スマートモビリティ）を動画でご覧いただけます。<br>"
-    url: "/RE_fields/"
-    btn_label: "See more"
-    btn_class: "btn--primary"
-
 
 ---
 
