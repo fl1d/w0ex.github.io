@@ -86,7 +86,10 @@ header:
   ※If you are unable to come to school due to the effects of the COVID-19, please send the application form and required documents (PDF file) to the email address below.<br>
 　　　　　　　　　　　　　　　e-mail: wise-sss@jim.titech.ac.jp<br>
 
-  ● Application form: Please download from here → <a href="/doc/2020_Fall_Application form.docx">word</a>,<a href="/doc/2020_Fall_Application form.pdf">pdf</a></B><br><br>
+  ● Application form: Please download from here → <a href="/doc/2020_Fall_Application form.docx">word</a>,<a href="/doc/2020_Fall_Application form.pdf">pdf</a><br>
+
+  ● Registration examination (document screening)：Early September 2020
+  </B><br><br>
 
   Please read the <a href="/doc/Guide_SSS.pdf">Study guide</a> carefully. Doctoral course applicants or existing doctoral students who request for a <B>mid-term review</B> in concurrent with the entrance examination, please complete "4. Request for mid-term review for transforming into the program" in the registration application form. <br>
   <B>Mid-term review: Thursday, September 17, 2020</B>
