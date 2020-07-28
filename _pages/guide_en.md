@@ -82,7 +82,7 @@ header:
   <div class="box2">
     <p>
   <B>● Application deadline: August 28, 2020 at noon(12:00 p.m.)<br>
-  ● Place of submission: ~~Office of Tokyo Tech Academy for Super Smart Society (Room.213, South Bldg. 3, Ookayama campus)~~<br>
+  ● Place of submission: <strike>Office of Tokyo Tech Academy for Super Smart Society (Room.213, South Bldg. 3, Ookayama campus)</strike><br>
     <span style="color:#ff2680">※To prevent infection of COVID-19, we would like to receive documents via e-mail. Please send the application form and required documents (PDF file) to the email address below.</span><br>
 　　　　　　　　　　　　　　　e-mail: wise-sss@jim.titech.ac.jp<br>
 
