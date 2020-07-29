@@ -32,11 +32,11 @@ header:
 
 ## Registration Guide
 
-**<span style="color:#ff2680">Registration Guide (for the enrollment in October 2020)</span>**
+**<span style="color:#ff2680">Registration Guide (for the enrollment in fall 2020)</span>**
 
 * **Briefing session for the enrollment in WISE-SSS program/3rd Orientation**
 
-  The registration application period for the enrollment in October 2020 is scheduled in late August 2020. Prior to that, we will hold an orientation (briefing session for the enrollment).
+  The registration application period for the enrollment in fall 2020 is scheduled in late August 2020. Prior to that, we will hold an orientation (briefing session for the enrollment).
 
   Date：May 13, 2020 at 17:15-18:45　Online event<br>
   Subjected audience: Tokyo Tech Students<br>
@@ -75,16 +75,16 @@ header:
     　(2)Documents showing that you applied for an internship<br>
   </p></div>
 
-* **Registration application(for the enrollment in October 2020)**
+* **Registration application(for enrollment in fall 2020)**
 
-  You can apply for WISE-SSS program twice a year (April and October). The overview of the application for October 2020 registration is as follows.
+  You can apply for WISE-SSS program twice a year (Spring and Fall). The overview of the application for enrollment in fall is as follows.
 
   <div class="box2">
     <p>
   <B>● Application deadline: August 28, 2020 at noon(12:00 p.m.)<br>
-  ● Place of submission: <del>Office of Tokyo Tech Academy for Super Smart Society (Room.213, South Bldg. 3, Ookayama campus)</del><br>
+  ● Place of submission: <del>Office of Tokyo Tech Academy for Super Smart Society (Room.213, South Bldg. 3, Ookayama campus)</del></B><br>
     <span style="color:#ff2680">※To prevent infection of COVID-19, we would like to receive documents via e-mail. Please send the application form and required documents (PDF file) to the email address below.</span><br>
-　　　　　　　　　　　　　　　e-mail: wise-sss@jim.titech.ac.jp<br>
+　　　　　　　　　　　<B>　　　　e-mail: wise-sss@jim.titech.ac.jp<br>
 
   ● Application form: Please download from here → <a href="/doc/2020_Fall_Application form.docx">word</a>,<a href="/doc/2020_Fall_Application form.pdf">pdf</a><br>
 
@@ -111,7 +111,7 @@ header:
   1. A master student enrolled in the University who intends to continue the master course at the start of official study in this program.
   2. A master student or a doctoral student enrolled in the University who will start/continue the program at the doctoral course (limited).
 
-  To take this curriculum, students must register and pass the enrollment examination. This exam is organized in March for April enrollment and in September for October enrollment. In addition, the student’s academic supervisor must provide written consent to apply.
+  To take this curriculum, students must register and pass the enrollment examination. This exam is organized in March for Spring enrollment and in September for Fall enrollment. In addition, the student’s academic supervisor must provide written consent to apply.
 
   Students must complete the prerequisites before enrolling in this program. They must have completed at least six months of their master or doctoral programs and are required to take some courses of this program before enrolling. If students enroll during their doctoral program, the enrollment examination and mid-term examination can be conducted around the same time.
 
