@@ -70,7 +70,7 @@ feature_row:
   - image_path: /assets/images/poster_wise-sss.png
     alt: "For international students who wants to study at Tokyo Tech"
     title: "For international students who wants to study at Tokyo Tech"
-    excerpt: "<B>What is WISE-SSS?</B><br>If you want to study at Tokyo Tech and are interested in WISE-SSS, please click here.."
+    excerpt: "<B>What is WISE-SSS?</B><br>If you want to study at Tokyo Tech and are interested in WISE-SSS, please click here."
     url: "/doc/poster_wise-sss.pdf"
     btn_label: "See more"
     btn_class: "btn--primary"
