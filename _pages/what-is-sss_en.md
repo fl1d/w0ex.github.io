@@ -35,11 +35,11 @@ This educational curriculum aims to realize a super smart society based on quant
 
 This program cultivates five essential skills to realize a future Super Smart Society based on quantum science, in addition to teaching specialized courses where the students enroll.
 
-* Fundamental knowledge of quantum science and artificial intelligence
-* Science and technology in specialized fields related to both cyber space and physical space technologies
-* High-level understanding of both quantum science and a super-smart society
-* Critical-thinking skills to solve multidisciplinary social issues
-* Leadership in each sector of industry, government, and academia
+* Core academic skills in quantum science and artificial intelligence
+* The ability to create original science and/or technology in specialized fields that span cyberspace and physical space
+* The ability to broadly perceive the path from quantum science to super smart society
+* The skills to solve interdisciplinary social issues
+* Leadership skills in academia, government or industry
 
 <div style="text-align:center"><img src="/assets/images/5o-v3-en.png" /></div>
 
