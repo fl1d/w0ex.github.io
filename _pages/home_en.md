@@ -51,12 +51,12 @@ feature_row:
     btn_label: "See more"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/kickoff_20200706.png
-    alt: "WISE-SSS Kick-off event"
-    title: "WISE-SSS Kick-off event"
-    excerpt: "<B>Date: September 8, 2020</B><br>We hold a Kick-off event to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
-    url: "/en"
-    btn_label: "Coming soon"
+  - image_path: /assets/images/kickoff_20200807.png
+    alt: "WISE-SSS opening ceremony"
+    title: "WISE-SSS opening ceremony"
+    excerpt: "<B>Date: September 8, 2020</B><br>We will hold the opening ceremony to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
+    url: "/kick-off_en"
+    btn_label: "See more"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/poster.jpg
