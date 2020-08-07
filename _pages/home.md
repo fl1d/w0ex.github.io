@@ -68,7 +68,7 @@ feature_row:
 {% include feature_row %}
 
 <h6>NEWS　</h6>
-<B>2020.08.07</B>　[公募情報：特任准教授（量子科学教育研究フィールド）](/doc/koubo_20200807.pdf/)
+<B>2020.08.07</B>　[公募情報：特任准教授（量子科学教育研究フィールド）](/doc/koubo_quantum.pdf/)
 
 <B>2020.08.07</B>　[超スマート社会卓越教育院キックオフ記念式典の申込受付を開始しました。](https://www.wise-sss.titech.ac.jp/kick-off/)
 
