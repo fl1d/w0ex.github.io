@@ -68,6 +68,9 @@ feature_row:
 {% include feature_row %}
 
 <h6>NEWS　</h6>
+
+<B>2020.08.07</B>　[超スマート社会卓越教育院キックオフ記念式典の申込受付を開始しました。](https://www.wise-sss.titech.ac.jp/kick-off/)
+
 <B>2020.07.09</B>　[SSS教育研究フィールドを紹介する動画を掲載しました。](https://www.wise-sss.titech.ac.jp/RE_fields/)
 
 <B>2020.06.15</B>　第2Q科目「SSS.S402 超スマート社会創造A2：IoT／ロボティクス／スマートシティ」の講義情報が[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028550&Nendo=2020&vid=03)に公開されました。<br>
