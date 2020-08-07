@@ -47,12 +47,12 @@ feature_row:
     btn_label: "See more"
     btn_class: "btn--primary"    
 
-  - image_path: /assets/images/kickoff_20200706.png
+  - image_path: /assets/images/kickoff_20200807.png
     alt: "超スマート社会卓越教育院キックオフ記念式典 "
     title: "超スマート社会卓越教育院キックオフ記念式典 "
     excerpt: "<B>日時：2020年9月8日（火）</B><br>超スマート社会を牽引する博士人材を育成する超スマート社会卓越教育院の発足を記念して、キックオフ記念式典を開催いたします。"
-    url: "/"
-    btn_label: "Coming soon"
+    url: "/kick-off/"
+    btn_label: "See more"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/poster.jpg
