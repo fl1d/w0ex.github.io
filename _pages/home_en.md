@@ -80,7 +80,7 @@ feature_row:
 {% include feature_row %}
 
 <h6>NEWS　</h6>
-<B>2020.08.07</B>　[Job advertisement：Specially Appointed Associate Professor（Quantum science R&E field）](/doc/koubo_quantum_202008.pdf)
+<B>2020.08.07</B>　[Faculty recruitment：Specially Appointed Associate Professor for Quantum science R&E field, Tokyo Tech Academy for Super Smart Society (Closing date for application: 7th September 2020)）](/doc/koubo_quantum_202008.pdf)
 
 <B>2020.08.07</B>　[We are now accepting applications for the opening ceremony of Tokyo Tech Academy for Super Smart Society.](https://www.wise-sss.titech.ac.jp/kick-off_en/)
 
