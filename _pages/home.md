@@ -69,6 +69,8 @@ feature_row:
 
 <h6>NEWS　</h6>
 
+<B>2020.08.07</B>　[公募情報：特任准教授（量子科学教育研究フィールド）](/doc/koubo_202008-3.pdf/)
+
 <B>2020.08.07</B>　[超スマート社会卓越教育院キックオフ記念式典の申込受付を開始しました。](https://www.wise-sss.titech.ac.jp/kick-off/)
 
 <B>2020.07.09</B>　[SSS教育研究フィールドを紹介する動画を掲載しました。](https://www.wise-sss.titech.ac.jp/RE_fields/)
