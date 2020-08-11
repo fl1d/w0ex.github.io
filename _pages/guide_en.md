@@ -34,8 +34,7 @@ header:
 
 **<span style="color:#ff2680">Registration Guide (for the enrollment in fall 2020)</span>**
 
-* **Briefing session for the enrollment in WISE-SSS program/3rd Orientation**
-
+* <B><font size="4">Briefing session for the enrollment in WISE-SSS program/3rd Orientation</font></B><br>
   The registration application period for the enrollment in fall 2020 is scheduled in late August 2020. Prior to that, we will hold an orientation (briefing session for the enrollment).
 
   Date：May 13, 2020 at 17:15-18:45　Online event<br>
@@ -44,8 +43,7 @@ header:
   ＊Participation in the orientation is optional. It is not a requirement to register for WISE-SSS program
 <br><br>
 
-* **Requirements for enrollment**
-
+* <B><font size="4">Requirements for enrollment</font></B><br>
   In order to enroll in WISE-SSS program, it is necessary to meet the following two requirements.
 
   **1. Participation in the SSS interdisciplinary matching workshop**<br>
@@ -75,8 +73,7 @@ header:
     　(2)Documents showing that you applied for an internship<br>
   </p></div>
 
-* **Registration application(for enrollment in fall 2020)**
-
+* <B><font size="4">Registration application(for enrollment in fall 2020)</font></B><br>
   You can apply for WISE-SSS program twice a year (Spring and Fall). The overview of the application for enrollment in fall is as follows.
 
   <div class="box2">
@@ -92,11 +89,27 @@ header:
   </B><br><br>
 
   Please read the <a href="/doc/Guide_SSS.pdf">Study guide</a> carefully. Doctoral course applicants or existing doctoral students who request for a <B>mid-term review</B> in concurrent with the entrance examination, please complete "4. Request for mid-term review for transforming into the program" in the registration application form. <br>
-  <B>Mid-term review: Thursday, September 17, 2020</B>
   </p></div>
 
-<br>
+* <B><font size="4">Mid-term review (fall 2020)</font></B><br>
+  The mid-term review in fall 2020 will be held as follows.<br>
 
+  <div class="box2">
+    <p><B>● Date：Thursday, September 17, 2020<br>
+     ● Time：pending<br>
+     ● Review method：Online<br>
+     ● An oral presentation(10 minutes) and an interview (10 minutes) will be conducted for the following:<br>
+    　 　　　１．Master's thesis overview (Doctoral students should include current research.)<br>
+    　　 　　２．Future research plans (including contribution to super smart society)<br>
+    　　　 　３．List of research achievements<br></B><br>
+
+     ※ A peer review will be conducted by students who have already passed the mid-term review.<br>
+    　 ・Reviewer will attend the examination and review the presentations.<br>
+    　 ・Student's review is for reference and will not affect the result of the examination.<br><br>
+     ※ Details will be announced directly from the office of Tokyo Tech Academy for Super Smart Society<br>
+    </p></div>
+
+<br>
 
 ## Four Gates for Completion of the Course
 
