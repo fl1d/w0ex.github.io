@@ -38,6 +38,23 @@ feature_row:
     btn_label: "Read more"
     btn_class: "btn--primary"
 
+  - image_path: /assets/images/kickoff_20200807.png
+    alt: "超スマート社会卓越教育院キックオフ記念式典 "
+    title: "超スマート社会卓越教育院キックオフ記念式典 "
+    excerpt: "<B>日時：2020年9月8日（火）13:00-16:30</B><br>超スマート社会を牽引する博士人材を育成する超スマート社会卓越教育院の発足を記念して、キックオフ記念式典を開催いたします。"
+    url: "/kick-off/"
+    btn_label: "See more"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/global-forum.png
+    alt: "超スマート社会グローバルフォーラム"
+    title: "超スマート社会グローバルフォーラム"
+    excerpt: "<B>日時：2020年9月12日（土）(オンライン開催)<br>
+    第１部：9:00-10:30、第2部：16:00-17:30</B><br>世界各地から一流の研究者を招聘し、超スマート社会に向けたシンポジウムを開催いたします。"
+    url: "/global-forum_en/"
+    btn_label: "See more"
+    btn_class: "btn--primary"
+
   - image_path: /assets/images/PV.png
     alt: "SSS教育研究フィールド"
     title: "SSS教育研究フィールド"
@@ -46,22 +63,6 @@ feature_row:
     url: "/RE_fields/"
     btn_label: "See more"
     btn_class: "btn--primary"    
-
-  - image_path: /assets/images/kickoff_20200807.png
-    alt: "超スマート社会卓越教育院キックオフ記念式典 "
-    title: "超スマート社会卓越教育院キックオフ記念式典 "
-    excerpt: "<B>日時：2020年9月8日（火）</B><br>超スマート社会を牽引する博士人材を育成する超スマート社会卓越教育院の発足を記念して、キックオフ記念式典を開催いたします。"
-    url: "/kick-off/"
-    btn_label: "See more"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/poster.jpg
-    alt: "超スマート社会グローバルフォーラム"
-    title: "超スマート社会グローバルフォーラム"
-    excerpt: "<B>日時：2020年9月開催(オンライン開催)</B><br>世界各地から一流の研究者を招聘し、超スマート社会に向けたシンポジウムを開催いたします。"
-    url: "/"
-    btn_label: "Coming soon"
-    btn_class: "btn--primary"
 
 ---
 
