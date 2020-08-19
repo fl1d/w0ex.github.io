@@ -9,10 +9,10 @@ header:
   actions:
 ---
 
-<h4><font size="4">Application: Please apply at the following website by September 9.</font></h4>
+<h4><font size="4">Registration: Please register on the following website by September 9.</font></h4>
 　　　[https://form.run/@sss-global-forum](https://form.run/@sss-global-forum)
 
-<h4><font size="4">Holding method: Online</font></h4>
+<h4><font size="4">Venue: Online</font></h4>
 　　For details on how to participate, we will inform the applicants later.　　
 
 <h4><font size="4">Program</font></h4>
@@ -24,7 +24,7 @@ header:
 <table style="border:none;" width="100%">
 <tr>
 <td style="border:none;" width="20%">
-　<B>9:00-9:30</B></td><td style="border:none;">Invited talk by Dr. Ali Sadri (Vice President of Engineering, mmWave Solutions, SOLiD Gear, Inc.)</td>
+　<B>9:00-9:30</B></td><td style="border:none;">Invited talk by Dr. Ali Sadri (Vice President of SOLiD Gear, Inc.)</td>
 </tr>
 <tr>
 <td style="border:none;">
@@ -39,7 +39,7 @@ header:
 <table width="100%">
 <tr>
 <td style="border:none;" width="15%">
-　<B>16:00-16:30</B></td><td style="border:none;">Invited talk by Dr. Sumei SUN (Lead Principal Investigator of the Industrial Internet of Things Research Program at the Institute for Infocomm Research (I2R), Agency for Science, Technology, and Research (A*STAR), and an adjunct full professor with the National University of Singapore.)</td>
+　<B>16:00-16:30</B></td><td style="border:none;">Invited talk by Dr. Sumei SUN (Lead Principal Investigator of the Institute for Infocomm Research (I2R), Agency for Science, Technology, and Research (A*STAR)</td>
 </tr>
 <tr>
 <td style="border:none;">
