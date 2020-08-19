@@ -39,7 +39,7 @@ header:
 <table width="100%">
 <tr>
 <td style="border:none;" width="15%">
-　<B>16:00-16:30</B></td><td style="border:none;">Invited talk by Dr. Sumei SUN (Lead Principal Investigator of the Institute for Infocomm Research (I2R), Agency for Science, Technology, and Research (A*STAR)</td>
+　<B>16:00-16:30</B></td><td style="border:none;">Invited talk by Dr. Sumei SUN (Lead Principal Investigator of the Institute for Infocomm Research (I2R), Agency for Science, Technology, and Research (A*STAR))</td>
 </tr>
 <tr>
 <td style="border:none;">
