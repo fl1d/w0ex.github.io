@@ -42,6 +42,23 @@ feature_row:
     btn_label: "Read more"
     btn_class: "btn--primary"
 
+  - image_path: /assets/images/kickoff_20200807.png
+    alt: "WISE-SSS opening ceremony"
+    title: "WISE-SSS opening ceremony"
+    excerpt: "<B>Date & Time: September 8, 2020 at 13:00-16:30</B><br>We will hold the opening ceremony to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
+    url: "/kick-off_en"
+    btn_label: "See more"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/global-forum.png
+    alt: "SSS Global Forum"
+    title: "SSS Global Forum"
+    excerpt: "<B>Date: September 12, 2020 (Online event)<br>
+    Session 1: 9:30-10:00, Session 2: 16:00-17:30</B><br>We invite top researchers from all over the world to hold a symposium towards the super smart society."
+    url: "/global-forum_en/"
+    btn_label: "See more"
+    btn_class: "btn--primary"
+
   - image_path: /assets/images/PV.png
     alt: "SSS Research & Education fields"
     title: "SSS Research & Education fields"
@@ -49,22 +66,6 @@ feature_row:
     You can see SSS Research & Education fields: Quantum computing, Quantum sensor, Smart robotics(Sky, Aqua, Land, Manufacturing), Smart mobility in the Video.<br>"
     url: "/RE_fields_en"
     btn_label: "See more"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/kickoff_20200807.png
-    alt: "WISE-SSS opening ceremony"
-    title: "WISE-SSS opening ceremony"
-    excerpt: "<B>Date: September 8, 2020</B><br>We will hold the opening ceremony to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
-    url: "/kick-off_en"
-    btn_label: "See more"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/poster.jpg
-    alt: "SSS Global Forum"
-    title: "SSS Global Forum"
-    excerpt: "<B>Date: Scheduled in September 2020<br>Online event</B><br>We invite top researchers from all over the world to hold a symposium towards the super smart society."
-    url: "/en"
-    btn_label: "Coming soon"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/poster_wise-sss.png
