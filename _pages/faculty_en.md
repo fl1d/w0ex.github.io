@@ -91,8 +91,8 @@ Yasuko Yanagid|Professor|Laboratory for Future Interdisciplinary <br>Research of
 Takamichi Nakamoto|Professor|Laboratory for Future Interdisciplinary <br>Research of Science and Technology
 Hidetoshi Nishimori|Professor|Quantum Computing Unit
 Misako Takayasu|Professor|Advanced Data Analysis and Modeling Unit
-Takuya Oda|Specially Appointed Professor|International Research Center of Advanced<br> Energy Systems for Sustainability
-Takao Kashiwagi|Institute Professor<br>Emeritus Professor|International Research Center of Advanced <br>Energy System for Sustainability
+Takuya Oda|Specially Appointed Professor|Solution Research Center for Advanced Energy Systems
+Takao Kashiwagi|Institute Professor<br>Professor Emeritus|Solution Research Center for Advanced Energy Systems
 Kenji Suzuki|Specially Appointed Professor|World Research Hub Initiative
 Hiroyuki Ito | Associate Professor|Laboratory for Future Interdisciplinary <br>Research of Science and Technology
 Akinori Nishihara |Specially Appointed Professor|Tokyo Tech Academy for Super Smart Society
