@@ -54,7 +54,7 @@ feature_row:
     alt: "SSS Global Forum"
     title: "SSS Global Forum"
     excerpt: "<B>Date: September 12, 2020 (Online event)<br>
-    Session 1: 9:00-10:30, Session 2: 16:00-17:30</B><br>We invite top researchers from all over the world to hold a symposium towards the super smart society."
+    Session 1: 9:00-10:30, Session 2: 16:00-17:30</B><br>We invite top researchers from all over the world to hold a forum towards the super smart society."
     url: "/global-forum_en/"
     btn_label: "See more"
     btn_class: "btn--primary"
