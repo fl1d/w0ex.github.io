@@ -39,7 +39,7 @@ Talk title: Role of mmWave Inteligent Repeaters in enhancing 5G coverage</td>
 
 <table width="100%">
 <tr>
-<td style="border:none;" width="15%">
+<td style="border:none;" width="12%">
 　<B>16:00-16:30</B></td><td style="border:none;">Invited talk by Dr. Sumei SUN (Lead Principal Investigator of the Institute for Infocomm Research (I2R), Agency for Science, Technology, and Research (A*STAR))<br>
 Talk title: From 5G to 6G: What would be the key driving applications and enabling technologies?</td>
 </tr>
