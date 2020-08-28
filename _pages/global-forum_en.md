@@ -24,7 +24,8 @@ header:
 <table style="border:none;" width="100%">
 <tr>
 <td style="border:none;" width="20%">
-　<B>9:00-9:30</B></td><td style="border:none;">Invited talk by Dr. Ali Sadri (Vice President of SOLiD Gear, Inc.)</td>
+　<B>9:00-9:30</B></td><td style="border:none;">Invited talk by Dr. Ali Sadri (Vice President of SOLiD Gear, Inc.)<br>
+Talk title: Role of mmWave Inteligent Repeaters in enhancing 5G coverage</td>
 </tr>
 <tr>
 <td style="border:none;">
@@ -39,7 +40,8 @@ header:
 <table width="100%">
 <tr>
 <td style="border:none;" width="15%">
-　<B>16:00-16:30</B></td><td style="border:none;">Invited talk by Dr. Sumei SUN (Lead Principal Investigator of the Institute for Infocomm Research (I2R), Agency for Science, Technology, and Research (A*STAR))</td>
+　<B>16:00-16:30</B></td><td style="border:none;">Invited talk by Dr. Sumei SUN (Lead Principal Investigator of the Institute for Infocomm Research (I2R), Agency for Science, Technology, and Research (A*STAR))<br>
+Talk title: From 5G to 6G: What would be the key driving applications and enabling technologies?</td>
 </tr>
 <tr>
 <td style="border:none;">
