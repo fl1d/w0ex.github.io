@@ -30,14 +30,6 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/application.png
-    alt: "超スマート社会卓越教育院 秋期登録申請"
-    title: "超スマート社会卓越教育院 秋期登録申請"
-    excerpt: "<B>申請書提出〆切：2020年8月28日（金）正午</B><br>本教育院では超スマート社会を牽引する人材を育成します。2020年秋期から本教育院に登録を希望する方の申請を受付中です。"
-    url: "/guide/"
-    btn_label: "Read more"
-    btn_class: "btn--primary"
-
   - image_path: /assets/images/kickoff_20200807.png
     alt: "超スマート社会卓越教育院キックオフ記念式典 "
     title: "超スマート社会卓越教育院キックオフ記念式典 "
