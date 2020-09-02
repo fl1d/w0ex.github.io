@@ -54,7 +54,7 @@ Talk title: From 5G to 6G: What would be the key driving applications and enabli
 <br>
 
 <table>
-<td width="25%"><img src="/assets/images/portrait_Ali_Sadri.bmp" width=" 70%" height="70%" /></td>
+<td width="25%"><img src="/assets/images/portrait_Ali_Sadri.jpg" width=" 70%" height="70%" /></td>
 <td><b>Dr. Ali Sadri</b><br>
  Dr. Ali Sadri is Vice President of the engineering for mmWave solutions at SOLiD Inc overseeing all mmWave related product development for 5G and beyond. Previously he was the General Manager of mmWave Standards and Advanced Technology at Intel Corporation. Ali has more than 30 years of scientific and engineering background starting at IBM, Duke University, and at Intel since 2002. Dr. Sadri has demonstrated successful track record of building breakthrough technologies such as WiGig 60 GHz standards, mmWave mesh Backhaul, and disruptive mmWave Distributed Relay. Dr. Sadri has over 150 patents all in wired line and wireless communications system. Ali serves as an international advisor to Tokyo Institute of Technology on the WISE (World-leading Innovative & Smart Education) program for Super Smart Society. </td>
 
