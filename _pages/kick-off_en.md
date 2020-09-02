@@ -21,8 +21,8 @@ The opening ceremony will be held to commemorate the launch of Tokyo Tech Academ
 <h4><font size="4">Program</font></h4>
 <table>
 <tr><td>13:00</td><td>Opening remarks by Dr. Kazuya Masu, President of Tokyo Institute of Technology</td></tr>
-<tr><td>13:10</td><td>Guest greetings by Ministry of Education, Culture, Sports, Science and Technology</td></tr>
-<tr><td>　　　</td><td>Guest greetings by Ministry of Economy, Trade and Industry</td></tr>
+<tr><td>13:10</td><td>Guest greetings by Mr. Akinori Mori, Ministry of Education, Culture, Sports, Science and Technology</td></tr>
+<tr><td>　　　</td><td>Guest greetings by Mr. Takahiro Hagiwara, Ministry of Economy, Trade and Industry</td></tr>
 <tr><td>13:20</td><td>About Super Smart Society Promotion Project (SSS Consortium＋WISE-SSS)</td></tr>
 <tr><td>　　　</td><td>Prof. Nobuyuki Iwatsuki, Director of SSS Consortium, Tokyo Institute of Technology</td></tr>
 <tr><td>　　　</td><td>Prof. Tomohiko Uematsu, Dean of School of Engineering, Tokyo Institute of Technology (WISE-SSS Program manager)</td></tr>
