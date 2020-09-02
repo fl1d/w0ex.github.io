@@ -33,15 +33,6 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/application.png
-    alt: "WISE-SSS Application for enrollment in fall 2020"
-    title: "WISE-SSS Application for enrollment in fall 2020"
-    excerpt: "<B>Application：until August 28,2020,Friday at noon</B><br>The       
-    program's objective is to train knowledge professionals with technical and professional knowledge capable of leading multiple sectors of a future super smart society. We are accepting applications for those who wish to enroll in this program in fall 2020."
-    url: "/guide_en/"
-    btn_label: "Read more"
-    btn_class: "btn--primary"
-
   - image_path: /assets/images/kickoff_20200807.png
     alt: "WISE-SSS opening ceremony"
     title: "WISE-SSS opening ceremony"
