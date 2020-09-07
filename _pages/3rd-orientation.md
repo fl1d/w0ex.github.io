@@ -37,7 +37,6 @@ header:
 
 **日時**：2020年5月13日（水） 17:15-18:30　オンライン開催<br>
 **対象**：東工大学生<br>
-**申込**：[申込みフォーム](https://forms.office.com/Pages/ResponsePage.aspx?id=utSRkUfrIUGEO1T8Z-Aq9meBcZEXB0tHsKWA-0u69_FUQUNMODg5VVhGSDdTN0I1Q0dNQUlYQllDVS4u)よりお申込みください。後日、参加URLを配布いたします。<br>
 **問合せ先**：超スマート社会卓越教育院事務室　E-mail: wise-sss@jim.titech.ac.jp<br>
 
 
