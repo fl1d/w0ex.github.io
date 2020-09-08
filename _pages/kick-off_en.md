@@ -34,7 +34,8 @@ The opening ceremony will be held to commemorate the launch of Tokyo Tech Academ
 <tr><td>　　　</td><td>Dr. Fumihide Kojima, National Institute of Information and Communications Technology(Representative of research advisor)</td></tr>
 <tr><td>　　　</td><td>Dr. Nobuaki Kawahara, DENSO Corporation (Representative of company advisors)</td></tr>
 <tr><td>　　　</td><td>Dr. Thomas Haustein, Fraunhofer HHI (Representative of international advisors) </td></tr>
-<tr><td>14:45</td><td>Online photo session</td></tr>
+<tr><td>14:45</td><td>Online photo session, Introduction of international advisors (pre-recorded video)
+</td></tr>
 <tr><td>15:00</td><td>Introduction to WISE-SSS program</td></tr>
 <tr><td>　　　</td><td>Prof. Kei Sakaguchi (Dean of Tokyo Tech Academy for Super Smart Society)<br><a href="/doc/dean_materials.pdf">⇒ Presentation materials</a></td></tr>
 <tr><td>　　　</td><td>Introduction to SSS Research and Education fields (Live distribution)</td></tr>
