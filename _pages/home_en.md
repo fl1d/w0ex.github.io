@@ -67,6 +67,14 @@ feature_row:
     btn_label: "Coming soon"
     btn_class: "btn--primary"
 
+  - image_path: /assets/images/poster_wise-ss.png
+    alt: "Poster for internatinal students"
+    title: "Poster for internatinal students"
+    excerpt: "If you are thinking of studying at Tokyo Tech and would like to participate in WISE-SSS program, please refer to this poster."
+    url: "/"
+    btn_label: "See more"
+    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row %}
