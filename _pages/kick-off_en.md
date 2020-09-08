@@ -43,7 +43,7 @@ The opening ceremony will be held to commemorate the launch of Tokyo Tech Academ
 <tr><td>16:30</td><td>Closing remarks by Dr. Tetsuya Mizumoto, Executive Vice President for Education,Tokyo Institute of Technology</td></tr>
 </table>
 Moderator : Prof. Akinori Nishihara (Tokyo Tech Academy for Super Smart society, Tokyo Institute of Technology)<br>
-　　　　　 Prof. Kayoko Nohara (School of Environment and Society, Tokyo Institute of Technology)
+　　　　　　 Prof. Kayoko Nohara (School of Environment and Society, Tokyo Institute of Technology)
 
 <br>
 
