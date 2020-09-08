@@ -42,7 +42,7 @@ The opening ceremony will be held to commemorate the launch of Tokyo Tech Academ
 <tr><td>　　　</td><td>Quantum computing, Quantum sensor, Smart robotics, Smart mobility, TSUBAME+AI</td></tr>
 <tr><td>16:30</td><td>Closing remarks by Dr. Tetsuya Mizumoto, Executive Vice President for Education,Tokyo Institute of Technology</td></tr>
 </table>
-Moderator: Prof. Akinori Nishihara (Tokyo Tech Academy for Super Smart society, Tokyo Institute of Technology)
+Moderator: Prof. Akinori Nishihara (Tokyo Tech Academy for Super Smart society, Tokyo Institute of Technology)<br>
 　　　　　　Prof. Kayoko Nohara (School of Environment and Society, Tokyo Institute of Technology)
 
 <br>
