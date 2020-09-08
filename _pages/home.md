@@ -30,12 +30,21 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/application.png
-    alt: "超スマート社会卓越教育院 秋期登録申請"
-    title: "超スマート社会卓越教育院 秋期登録申請"
-    excerpt: "<B>申請書提出〆切：2020年8月28日（金）正午</B><br>本教育院では超スマート社会を牽引する人材を育成します。2020年秋期から本教育院に登録を希望する方の申請を受付中です。"
-    url: "/guide/"
-    btn_label: "Read more"
+  - image_path: /assets/images/kickoff_20200807.png
+    alt: "超スマート社会卓越教育院キックオフ記念式典 "
+    title: "超スマート社会卓越教育院キックオフ記念式典 "
+    excerpt: "<B>日時：2020年9月8日（火）13:00-16:30</B><br>超スマート社会を牽引する博士人材を育成する超スマート社会卓越教育院の発足を記念して、キックオフ記念式典を開催いたします。"
+    url: "/kick-off/"
+    btn_label: "See more"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/global-forum.png
+    alt: "超スマート社会グローバルフォーラム"
+    title: "超スマート社会グローバルフォーラム"
+    excerpt: "<B>日時：2020年9月12日（土）(オンライン開催)<br>
+    第１部：9:00-10:30、第2部：16:00-17:30</B><br>世界各地から一流の研究者を招聘し、超スマート社会に向けたフォーラムを開催いたします。"
+    url: "/global-forum_en/"
+    btn_label: "See more"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/PV.png
@@ -47,27 +56,15 @@ feature_row:
     btn_label: "See more"
     btn_class: "btn--primary"    
 
-  - image_path: /assets/images/kickoff_20200706.png
-    alt: "超スマート社会卓越教育院キックオフ記念式典 "
-    title: "超スマート社会卓越教育院キックオフ記念式典 "
-    excerpt: "<B>日時：2020年9月8日（火）</B><br>超スマート社会を牽引する博士人材を育成する超スマート社会卓越教育院の発足を記念して、キックオフ記念式典を開催いたします。"
-    url: "/"
-    btn_label: "Coming soon"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/poster.jpg
-    alt: "超スマート社会グローバルフォーラム"
-    title: "超スマート社会グローバルフォーラム"
-    excerpt: "<B>日時：2020年9月開催(オンライン開催)</B><br>世界各地から一流の研究者を招聘し、超スマート社会に向けたシンポジウムを開催いたします。"
-    url: "/"
-    btn_label: "Coming soon"
-    btn_class: "btn--primary"
-
 ---
 
 {% include feature_row %}
 
 <h6>NEWS　</h6>
+<B>2020.08.07</B>　[教員公募：超スマート社会卓越教育院・量子科学教育研究フィールド 特任准教授（申込〆切：2020年9月7日）](/doc/koubo_quantum_202008.pdf)
+
+<B>2020.08.07</B>　[超スマート社会卓越教育院キックオフ記念式典の申込受付を開始しました。](https://www.wise-sss.titech.ac.jp/kick-off/)
+
 <B>2020.07.09</B>　[SSS教育研究フィールドを紹介する動画を掲載しました。](https://www.wise-sss.titech.ac.jp/RE_fields/)
 
 <B>2020.06.15</B>　第2Q科目「SSS.S402 超スマート社会創造A2：IoT／ロボティクス／スマートシティ」の講義情報が[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028550&Nendo=2020&vid=03)に公開されました。<br>

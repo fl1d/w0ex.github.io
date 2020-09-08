@@ -31,24 +31,30 @@ header:
 
 ## 開催予定のイベント
 
-* **超スマート社会卓越教育院キックオフ記念式典**
-
-    日時：2020年9月8日（火）<br>
-
-<hr>
-
 * **超スマート社会グローバルフォーラム**
 
-  日時：2020年9月<br>
-  開催方法：オンライン<br>
-  対象：学生及び超スマート社会卓越教育院関係者<br>
+  日時：2020年9月12日(土)<br>
+  [詳細はこちらを参照ください。](https://www.wise-sss.titech.ac.jp/global-forum_en/)　
+  <div style="text-align:left"><img src="/assets/images/global-forum.png" width="20%" height="20%" />
+  </div>
+
 
 <hr>
+
+* **超スマート社会卓越教育院キックオフ記念式典**
+
+  日時：2020年9月8日(火)<br>
+  [詳細はこちらを参照ください。](https://www.wise-sss.titech.ac.jp/kick-off/)　
+  <div style="text-align:left"><img src="/assets/images/kickoff_20200807.png" width="20%" height="20%" />
+  </div>
+
+<hr>
+
 * **SSS異分野融合マッチングワークショップ**<span style="color:Red"> ー終了しましたー</span>
 
   日時：2020年6月17日(水)+7月1日(水) オンライン開催<br>
   対象：東工大学生、超スマート社会推進コンソーシアム参加機関、東工大教職員<br>
-  詳細は[こちら](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20200617/)を参照ください。　
+  [詳細はこちらを参照ください。](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20200617/)　
   <div style="text-align:left"><img src="/assets/images/matchingWS_20200703.png" width="20%" height="20%" />
   </div>
 

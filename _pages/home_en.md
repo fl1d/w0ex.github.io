@@ -33,13 +33,21 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/application.png
-    alt: "WISE-SSS Application for enrollment in fall 2020"
-    title: "WISE-SSS Application for enrollment in fall 2020"
-    excerpt: "<B>Application：until August 28,2020,Friday at noon</B><br>The       
-    program's objective is to train knowledge professionals with technical and professional knowledge capable of leading multiple sectors of a future super smart society. We are accepting applications for those who wish to enroll in this program in fall 2020."
-    url: "/guide_en/"
-    btn_label: "Read more"
+  - image_path: /assets/images/kickoff_20200807.png
+    alt: "WISE-SSS opening ceremony"
+    title: "WISE-SSS opening ceremony"
+    excerpt: "<B>Date & Time: September 8, 2020 at 13:00-16:30</B><br>We will hold the opening ceremony to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
+    url: "/kick-off_en"
+    btn_label: "See more"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/global-forum.png
+    alt: "SSS Global Forum"
+    title: "SSS Global Forum"
+    excerpt: "<B>Date: September 12, 2020 (Online event)<br>
+    Session 1: 9:00-10:30, Session 2: 16:00-17:30</B><br>We invite top researchers from all over the world to hold a forum towards the super smart society."
+    url: "/global-forum_en/"
+    btn_label: "See more"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/PV.png
@@ -51,20 +59,12 @@ feature_row:
     btn_label: "See more"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/kickoff_20200706.png
-    alt: "WISE-SSS Kick-off event"
-    title: "WISE-SSS Kick-off event"
-    excerpt: "<B>Date: September 8, 2020</B><br>We hold a Kick-off event to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
-    url: "/en"
-    btn_label: "Coming soon"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/poster.jpg
-    alt: "SSS Global Forum"
-    title: "SSS Global Forum"
-    excerpt: "<B>Date: Scheduled in September 2020<br>Online event</B><br>We invite top researchers from all over the world to hold a symposium towards the super smart society."
-    url: "/en"
-    btn_label: "Coming soon"
+  - image_path: /assets/images/poster_wise-sss.png
+    alt: "For international students who want to study at Tokyo Tech"
+    title: "For international students who want to study at Tokyo Tech"
+    excerpt: "<B>What is WISE-SSS?</B><br>If you want to study at Tokyo Tech and are interested in WISE-SSS, please click here."
+    url: "/doc/poster_wise-sss.pdf"
+    btn_label: "See more"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/poster_wise-ss.png
@@ -80,6 +80,10 @@ feature_row:
 {% include feature_row %}
 
 <h6>NEWS　</h6>
+<B>2020.08.07</B>　[Faculty recruitment：Specially Appointed Associate Professor for Quantum science R&E field,Tokyo Tech Academy for Super Smart Society<br>　　　　　　　 (Closing date for application: 7th September 2020）](/doc/koubo_quantum_202008.pdf)
+
+<B>2020.08.07</B>　[We are now accepting applications for the opening ceremony of Tokyo Tech Academy for Super Smart Society.](https://www.wise-sss.titech.ac.jp/kick-off_en/)
+
 <B>2020.07.09</B>　[Videos introducing SSS Research & Education field have been posted.](https://www.wise-sss.titech.ac.jp/RE_fields_e/)
 
 <B>15/06/2020</B>　Course information for the 2nd quarter: "SSS.S402 Super Smart Society Innovation A2: IoT/Robotics/Smart city" ⇒ [OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028550&Nendo=2020&vid=03&lang=EN)<br>

@@ -31,16 +31,22 @@ header:
 
 ## Upcoming Events
 
+* **SSS Global Forum**
+
+  Date: Saturday, September 12, 2020<br>
+  Details: Click [here](https://www.wise-sss.titech.ac.jp/global-forum_en/)　
+  <div style="text-align:left"><img src="/assets/images/global-forum.png" width="20%" height="20%" />
+  </div>
+
+<hr>
 
 * **Opening ceremony of the Tokyo Tech Academy for Super Smart Society**
 
-  Date: September 8, 2020 (Tuesday)<br>
-<hr>
+  Date: Tuesday, September 8, 2020<br>
+  Details: Click [here](https://www.wise-sss.titech.ac.jp/kick-off_en/)　
+  <div style="text-align:left"><img src="/assets/images/kickoff_20200807.png" width="20%" height="20%" />
+  </div>
 
-* **Super Smart Society Global Forum**
-
-  Date: September 2020<br>
-  Online event<br>
 <hr>
 
 * **SSS Interdisciplinary matching workshop**<span style="color:Red">　-This even has ended.-</span>
