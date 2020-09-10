@@ -60,7 +60,7 @@ Talk title: From 5G to 6G: What would be the key driving applications and enabli
   <br>
 
   <h4><font size="4">Registration: Please register on the following website by September 9.</font></h4>
-  　　　[https://form.run/@sss-global-forum](https://form.run/@sss-global-forum)
+  　 [https://form.run/@sss-global-forum](https://form.run/@sss-global-forum)
 
   <h4><font size="4">Venue: Online</font></h4>
   　　For details on how to participate, we will inform the applicants later.　　
