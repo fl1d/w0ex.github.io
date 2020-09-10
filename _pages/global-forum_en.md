@@ -9,12 +9,6 @@ header:
   actions:
 ---
 
-<h4><font size="4">Registration: Please register on the following website by September 9.</font></h4>
-　　　[https://form.run/@sss-global-forum](https://form.run/@sss-global-forum)
-
-<h4><font size="4">Venue: Online</font></h4>
-　　For details on how to participate, we will inform the applicants later.　　
-
 <h4><font size="4">Program</font></h4>
 
 <b>Main Topic: 5G & Beyond to realize super smart society</b>
@@ -62,3 +56,9 @@ Talk title: From 5G to 6G: What would be the key driving applications and enabli
  <td width="25%"><img src="/assets/images/portrait_Sumei_SUN.jpg" width=" 70%" height="70%" /></td>
  <td><b>Dr. Sumei SUN</b><br>
   Dr. Sumei SUN is Head of the Communications and Networks Dept at the Institute for Infocomm Research (I2R), Agency for Science, Technology, and Research (A*STAR), Singapore. She is also holding a joint appointment with the Singapore Institute of Technology, and an adjunct appointment with the National University of Singapore, both as a full professor. Her current research interests are in next-generation wireless communications, industrial internet of things, and integrated secure sensing-communications-computing design. She is a Fellow of the IEEE, Editor-in-Chief of IEEE Open Journal of Vehicular Technology, member of the IEEE Transactions on Wireless Communications Steering Committee, and a Distinguished Speaker of the IEEE Vehicular Technology Society 2018-2021. She’s also Director of IEEE Communications Society Asia Pacific Board, Chapter Coordinator of Asia Pacific Region in the IEEE Vehicular Technologies Society, and member of the IEEE Communications Society Globecom/ICC Management and Strategy Standing Committee.  </td>
+
+  <h4><font size="4">Registration: Please register on the following website by September 9.</font></h4>
+  　　　[https://form.run/@sss-global-forum](https://form.run/@sss-global-forum)
+
+  <h4><font size="4">Venue: Online</font></h4>
+  　　For details on how to participate, we will inform the applicants later.　　
