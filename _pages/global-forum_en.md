@@ -57,6 +57,7 @@ Talk title: From 5G to 6G: What would be the key driving applications and enabli
 <td width="25%"><img src="/assets/images/portrait_Ali_Sadri.jpg" width=" 70%" height="70%" /></td>
 <td><b>Dr. Ali Sadri</b><br>
  Dr. Ali Sadri is Vice President of the engineering for mmWave solutions at SOLiD Inc overseeing all mmWave related product development for 5G and beyond. Previously he was the General Manager of mmWave Standards and Advanced Technology at Intel Corporation. Ali has more than 30 years of scientific and engineering background starting at IBM, Duke University, and at Intel since 2002. Dr. Sadri has demonstrated successful track record of building breakthrough technologies such as WiGig 60 GHz standards, mmWave mesh Backhaul, and disruptive mmWave Distributed Relay. Dr. Sadri has over 150 patents all in wired line and wireless communications system. Ali serves as an international advisor to Tokyo Institute of Technology on the WISE (World-leading Innovative & Smart Education) program for Super Smart Society. </td>
+ </table>
 
  <table>
  <td width="25%"><img src="/assets/images/portrait_Sumei_SUN.jpg" width=" 70%" height="70%" /></td>
@@ -66,6 +67,7 @@ Talk title: From 5G to 6G: What would be the key driving applications and enabli
   <br>
 
   <h4><font size="4">International Advisors for WISE-SSS program</font></h4>
+  [★★★ Please click here to see the short messages from advisors. ★★★ ](/video/messages_advisors.mp4)
 
   <table border="1">
   <tr><td>Magnus Egerstedt</td><td>Chair and Professor, Steve W. Chaddick School,<br>Georgia Institute of Technology</td><td>Session 1, Group 1
@@ -85,5 +87,4 @@ Talk title: From 5G to 6G: What would be the key driving applications and enabli
   <tr><td>Sumei Sun</td><td>Head of the Communications and Networks Department, Institute for Infocomm Research (I2R),<br>Agency for Science, Technology, and Research (A*STAR), Singapore</td><td>Session 2, Group 3
   <tr><td>Masaaki Maeda</td><td>Strategic Advisor, Asurion LLC</td><td>Session 1, Group 4
   <tr><td>Seong-Lyun Kim</td><td>Professor, Head of School of Electrical & Electronic Engineering<br>Yonsei University</td><td>Session 1&2, Group 5
-
-  
+  </table>
