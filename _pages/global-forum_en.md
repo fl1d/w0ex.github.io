@@ -85,3 +85,5 @@ Talk title: From 5G to 6G: What would be the key driving applications and enabli
   <tr><td>Sumei Sun</td><td>Head of the Communications and Networks Department, Institute for Infocomm Research (I2R),<br>Agency for Science, Technology, and Research (A*STAR), Singapore</td><td>Session 2, Group 3
   <tr><td>Masaaki Maeda</td><td>Strategic Advisor, Asurion LLC</td><td>Session 1, Group 4
   <tr><td>Seong-Lyun Kim</td><td>Professor, Head of School of Electrical & Electronic Engineering<br>Yonsei University</td><td>Session 1&2, Group 5
+
+  
