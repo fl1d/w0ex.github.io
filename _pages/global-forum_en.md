@@ -70,20 +70,55 @@ Talk title: From 5G to 6G: What would be the key driving applications and enabli
   [★★★ Please click here to see the short messages from advisors. ★★★ ](/video/messages_advisors.mp4)
 
   <table border="1">
-  <tr><td>Magnus Egerstedt</td><td>Chair and Professor, Steve W. Chaddick School,<br>Georgia Institute of Technology</td><td>Session 1, Group 1
-  <tr><td>Jenq-Shiou Leu</td><td>Professor, Department of Electronic and Computer Engineering,<br>National Taiwan University of Science and Technology (NTUST)</td><td>Session 1&2, Group 2
-  <tr><td>Wilfred G. van der Wiel</td><td>Professor, Chair of NanoElectronics Group,<br>Director of BRAINS Center for Brain-Inspired Nano System,<br>MESA+ Institute for Nanotechnology, University of Twente</td><td>
-  <tr><td>Marco Ceccarelli</td><td>Professor,Department of Industrial Engineering,<br>University of Rome Tor Vergata</td><td>Session 2, Group 3
-  <tr><td>Chia-Hsiang Menq</td><td>Professor, Department of Mechanical Engineering,<br>The Ohio State University</td><td>
-  <tr><td>Taweep Chaisomphob</td><td>Associate Professor, Sirindhorn International Institute of Technology,<br>Thammasat University Thailand</td><td>
-  <tr><td>Ian Watson</td><td>Professor, Reader, School of Engineering,<br>University of Glasgow</td><td>Session 2, Group 4
-  <tr><td>Sandra Hirche</td><td>Professor, Department of Electrical and Computer Engineering,<br>Technical University of Munich</td><td>
-  <tr><td>Thomas Haustein</td><td>Head of Department Wireless Communications and Networks,<br>Fraunhofer Heinrich-Hertz-Institut</td><td>Session 2, Group 5
-  <tr><td>Branka Vucetic</td><td>ARC Laureate, Director of the Center for IoL and Telecommunications,<br>School of Electrical and Information Engineering, University of Sydney</td><td>
-  <tr><td>Susi S. Varvayanis</td><td>Executive Director, Careers Beyond Academia/BEST,<br>Cornell University</td><td>Session 1, Group 3
-  <tr><td>Michiel Bacchiani</td><td>Senior Staff Research Scientist, Google Japan<td></td>
-  <tr><td>Ali Sadri</td><td>Vice President, SOLiD Gear Inc.</td><td>Session 1, Group 1
-  <tr><td>Emilio Carvanese Strinati</td><td>Director, CEA Leti, Scientific and Innovation</td><td>Session 2, Group 1
-  <tr><td>Sumei Sun</td><td>Head of the Communications and Networks Department, Institute for Infocomm Research (I2R),<br>Agency for Science, Technology, and Research (A*STAR), Singapore</td><td>Session 2, Group 3
-  <tr><td>Masaaki Maeda</td><td>Strategic Advisor, Asurion LLC</td><td>Session 1, Group 4
-  <tr><td>Seong-Lyun Kim</td><td>Professor, Head of School of Electrical & Electronic Engineering<br>Yonsei University</td><td>Session 1&2, Group 5
+   <tr>
+    <td>Magnus Egerstedt</td><td>Chair and Professor, Steve W. Chaddick School,<br>Georgia Institute of Technology</td><td>Session 1, Group 1</td>
+   </tr>
+   <tr>
+    <td>Jenq-Shiou Leu</td><td>Professor, Department of Electronic and Computer Engineering,<br>National Taiwan University of Science and Technology (NTUST)</td><td>Session 1&2, Group 2</td>
+   </tr>
+   <tr>
+    <td>Wilfred G. van der Wiel</td><td>Professor, Chair of NanoElectronics Group,<br>Director of BRAINS Center for Brain-Inspired Nano System,<br>MESA+ Institute for Nanotechnology, University of Twente</td><td></td>
+   </tr>
+   <tr>
+    <td>Marco Ceccarelli</td><td>Professor,Department of Industrial Engineering,<br>University of Rome Tor Vergata</td><td>Session 2, Group 3</td>
+   </tr>
+   <tr>
+    <td>Chia-Hsiang Menq</td><td>Professor, Department of Mechanical Engineering,<br>The Ohio State University</td><td></td>
+   </tr>  
+   <tr>
+    <td>Taweep Chaisomphob</td><td>Associate Professor, Sirindhorn International Institute of Technology,<br>Thammasat University Thailand</td><td></td>
+   </tr>  
+   <tr>
+    <td>Ian Watson</td><td>Professor, Reader, School of Engineering,<br>University of Glasgow</td><td>Session 2, Group 4</td>
+   </tr>  
+   <tr>
+    <td>Sandra Hirche</td><td>Professor, Department of Electrical and Computer Engineering,<br>Technical University of Munich</td><td></td>
+   </tr>  
+   <tr>
+    <td>Thomas Haustein</td><td>Head of Department Wireless Communications and Networks,<br>Fraunhofer Heinrich-Hertz-Institut</td><td>Session 2, Group 5</td>
+   </tr>  
+   <tr>
+    <td>Branka Vucetic</td><td>ARC Laureate, Director of the Center for IoL and Telecommunications,<br>School of Electrical and Information Engineering, University of Sydney</td><td></td>
+   </tr>  
+   <tr>
+    <td>Susi S. Varvayanis</td><td>Executive Director, Careers Beyond Academia/BEST,<br>Cornell University</td><td>Session 1, Group 3</td>
+   </tr>  
+   <tr>
+    <td>Michiel Bacchiani</td><td>Senior Staff Research Scientist, Google Japan</td><td></td>
+   </tr>  
+   <tr>
+    <td>Ali Sadri</td><td>Vice President, SOLiD Gear Inc.</td><td>Session 1, Group 1</td>
+   </tr>
+   <tr>
+    <td>Emilio Carvanese Strinati</td><td>Director, CEA Leti, Scientific and Innovation</td><td>Session 2, Group 1</td>
+   </tr>  
+   <tr>
+    <td>Sumei Sun</td><td>Head of the Communications and Networks Department, Institute for Infocomm Research (I2R),<br>Agency for Science, Technology, and Research (A*STAR), Singapore</td><td>Session 2, Group 3</td>
+   </tr>  
+   <tr>
+    <td>Masaaki Maeda</td><td>Strategic Advisor, Asurion LLC</td><td>Session 1, Group 4</td>
+   </tr>  
+   <tr>
+    <td>Seong-Lyun Kim</td><td>Professor, Head of School of Electrical & Electronic Engineering<br>Yonsei University</td><td>Session 1&2, Group 5</td>
+   </tr>
+  </table>  
