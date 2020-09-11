@@ -70,7 +70,6 @@ Talk title: From 5G to 6G: What would be the key driving applications and enabli
   [★★★ Please click here to see the short messages from advisors. ★★★ ](/video/messages_advisors.mp4)
 
   <table border="1">
-  <tbody>
   <tr><td>Magnus Egerstedt</td><td>Chair and Professor, Steve W. Chaddick School,<br>Georgia Institute of Technology</td><td>Session 1, Group 1
   <tr><td>Jenq-Shiou Leu</td><td>Professor, Department of Electronic and Computer Engineering,<br>National Taiwan University of Science and Technology (NTUST)</td><td>Session 1&2, Group 2
   <tr><td>Wilfred G. van der Wiel</td><td>Professor, Chair of NanoElectronics Group,<br>Director of BRAINS Center for Brain-Inspired Nano System,<br>MESA+ Institute for Nanotechnology, University of Twente</td><td>
@@ -88,5 +87,4 @@ Talk title: From 5G to 6G: What would be the key driving applications and enabli
   <tr><td>Sumei Sun</td><td>Head of the Communications and Networks Department, Institute for Infocomm Research (I2R),<br>Agency for Science, Technology, and Research (A*STAR), Singapore</td><td>Session 2, Group 3
   <tr><td>Masaaki Maeda</td><td>Strategic Advisor, Asurion LLC</td><td>Session 1, Group 4
   <tr><td>Seong-Lyun Kim</td><td>Professor, Head of School of Electrical & Electronic Engineering<br>Yonsei University</td><td>Session 1&2, Group 5
-  </tbody>
   </table>
