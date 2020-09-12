@@ -76,12 +76,12 @@ Talk title: Role of mmWave Inteligent Repeaters in enhancing 5G coverage</td>
    <tr>
       <td>Magnus Egerstedt</td>
       <td>Chair and Professor, Steve W. Chaddick School,<br>Georgia Institute of Technology</td>
-      <td>Session 1, Group 1</td>
+      <td width="10%">Session 1<br>Group 1</td>
    </tr>
    <tr>
       <td>Jenq-Shiou Leu</td>
       <td>Professor, Department of Electronic and Computer Engineering,<br>National Taiwan University of Science and Technology (NTUST)</td>
-      <td>Session 1&2, Group 2</td>
+      <td>Session 1&2<br>Group 2</td>
    </tr>
    <tr>
       <td>Wilfred G. van der Wiel</td>
@@ -91,7 +91,7 @@ Talk title: Role of mmWave Inteligent Repeaters in enhancing 5G coverage</td>
    <tr>
       <td>Marco Ceccarelli</td>
       <td>Professor,Department of Industrial Engineering,<br>University of Rome Tor Vergata</td>
-      <td>Session 2, Group 3</td>
+      <td>Session 2<br>Group 3</td>
    </tr>
    <tr>
      <td>Chia-Hsiang Menq</td>
@@ -106,7 +106,7 @@ Talk title: Role of mmWave Inteligent Repeaters in enhancing 5G coverage</td>
    <tr>
      <td>Ian Watson</td>
      <td>Professor, Reader, School of Engineering,<br>University of Glasgow</td>
-     <td>Session 2, Group 4</td>
+     <td>Session 2<br>Group 4</td>
    </tr>  
    <tr>
      <td>Sandra Hirche</td>
@@ -116,7 +116,7 @@ Talk title: Role of mmWave Inteligent Repeaters in enhancing 5G coverage</td>
    <tr>
      <td>Thomas Haustein</td>
      <td>Head of Department Wireless Communications and Networks,<br>Fraunhofer Heinrich-Hertz-Institut</td>
-     <td>Session 2, Group 5</td>
+     <td>Session 2<br>Group 5</td>
    </tr>  
    <tr>
      <td>Branka Vucetic</td>
@@ -126,7 +126,7 @@ Talk title: Role of mmWave Inteligent Repeaters in enhancing 5G coverage</td>
    <tr>
      <td>Susi S. Varvayanis</td>
      <td>Executive Director, Careers Beyond Academia/BEST,<br>Cornell University</td>
-     <td>Session 1, Group 3</td>
+     <td>Session 1<br>Group 3</td>
    </tr>  
    <tr>
      <td>Michiel Bacchiani</td>
@@ -136,26 +136,26 @@ Talk title: Role of mmWave Inteligent Repeaters in enhancing 5G coverage</td>
    <tr>
      <td>Ali Sadri</td>
      <td>Vice President, SOLiD Gear Inc.</td>
-     <td>Session 1, Group 1</td>
+     <td>Session 1<br>Group 1</td>
    </tr>
    <tr>
      <td>Emilio Carvanese Strinati</td>
      <td>Director, CEA Leti, Scientific and Innovation</td>
-     <td>Session 2, Group 1</td>
+     <td>Session 2<br>Group 1</td>
    </tr>  
    <tr>
      <td>Sumei Sun</td>
      <td>Head of the Communications and Networks Department, Institute for Infocomm Research (I2R),Agency for Science, Technology, and Research (A*STAR), Singapore</td>
-     <td>Session 2, Group 3</td>
+     <td>Session 2<br>Group 3</td>
    </tr>  
    <tr>
      <td>Masaaki Maeda</td>
      <td>Strategic Advisor, Asurion LLC</td>
-     <td>Session 1, Group 4</td>
+     <td>Session 1<br>Group 4</td>
    </tr>  
    <tr>
      <td>Seong-Lyun Kim</td>
      <td>Professor, Head of School of Electrical & Electronic Engineering<br>Yonsei University</td>
-     <td>Session 1&2, Group 5</td>
+     <td>Session 1&2<br>Group 5</td>
    </tr>
 </table>  
