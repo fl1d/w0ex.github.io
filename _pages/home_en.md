@@ -33,14 +33,6 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/kickoff_20200807.png
-    alt: "WISE-SSS opening ceremony"
-    title: "WISE-SSS opening ceremony"
-    excerpt: "<B>Date & Time: September 8, 2020 at 13:00-16:30</B><br>We will hold the opening ceremony to commemorate the establishment of an education program which nurture knowledge professionals who lead the Super Smart Society."
-    url: "/kick-off_en"
-    btn_label: "See more"
-    btn_class: "btn--primary"
-
   - image_path: /assets/images/global-forum.png
     alt: "SSS Global Forum"
     title: "SSS Global Forum"
