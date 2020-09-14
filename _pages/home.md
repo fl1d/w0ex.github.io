@@ -50,7 +50,7 @@ feature_row:
 
   - image_path: /assets/images/poster_wise-sss.png
     alt: "For international students who want to study at Tokyo Tech"
-    title: "東工大に留学したい方へ"
+    title: "東工大に留学し、超スマート社会卓越教育院で学びたい方へ"
     excerpt: "<B>What is WISE-SSS?</B><br>東工大で学びたい方、WISE-SSSに興味のある方は、こちらをご覧ください。"
     url: "/doc/poster_wise-sss.pdf"
     btn_label: "See more"
