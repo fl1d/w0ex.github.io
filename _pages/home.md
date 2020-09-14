@@ -30,14 +30,6 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/kickoff_20200807.png
-    alt: "超スマート社会卓越教育院キックオフ記念式典 "
-    title: "超スマート社会卓越教育院キックオフ記念式典 "
-    excerpt: "<B>日時：2020年9月8日（火）13:00-16:30</B><br>超スマート社会を牽引する博士人材を育成する超スマート社会卓越教育院の発足を記念して、キックオフ記念式典を開催いたします。"
-    url: "/kick-off/"
-    btn_label: "See more"
-    btn_class: "btn--primary"
-
   - image_path: /assets/images/global-forum.png
     alt: "超スマート社会グローバルフォーラム"
     title: "超スマート社会グローバルフォーラム"
@@ -55,6 +47,14 @@ feature_row:
     url: "/RE_fields/"
     btn_label: "See more"
     btn_class: "btn--primary"    
+
+  - image_path: /assets/images/poster_wise-sss.png
+    alt: "For international students who want to study at Tokyo Tech"
+    title: "東工大に留学したい方へ"
+    excerpt: "<B>What is WISE-SSS?</B><br>東工大で学びたい方、WISE-SSSに興味のある方は、こちらをご覧ください。"
+    url: "/doc/poster_wise-sss.pdf"
+    btn_label: "See more"
+    btn_class: "btn--primary"
 
 ---
 
