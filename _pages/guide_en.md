@@ -74,13 +74,15 @@ header:
   </p></div>
 
 * <B><font size="4">Registration application(for enrollment in fall 2020)</font></B><br>
-  You can apply for WISE-SSS program twice a year (Spring and Fall). The overview of the application for enrollment in fall is as follows.
+  You can apply for WISE-SSS program twice a year (Spring and Fall). The overview of the application for enrollment in fall is as follows.<br>
+  <span style="color:#ff2680">※ For FY 2020, there will be multiple registration application periods. Details will be announced on this website.</span>
 
   <div class="box2">
     <p>
-  <B>● Application deadline: August 28, 2020 at noon(12:00 p.m.)<br>
+  <B>● Due date for submission of application form: Friday, August 28, 2020 at noon(12:00 p.m.)<br>
+  <span style="color:#ff2680">● Additional due date for submission of application form: Friday, September 18, 2020 at noon(12:00 p.m.)</span><br>
   ● Place of submission: <del>Office of Tokyo Tech Academy for Super Smart Society (Room.213, South Bldg. 3, Ookayama campus)</del></B><br>
-    <span style="color:#ff2680">※To prevent infection of COVID-19, we would like to receive documents via e-mail. Please send the application form and required documents (PDF file) to the email address below.</span><br>
+    ※To prevent infection of COVID-19, we would like to receive documents via e-mail. Please send the application form and required documents (PDF file) to the email address below.<br>
 　　　　　　　　　　　<B>　　　　e-mail: wise-sss@jim.titech.ac.jp<br>
 
   ● Application form: Please download from here → <a href="/doc/2020_Fall_Application form.docx">word</a>,<a href="/doc/2020_Fall_Application form.pdf">pdf</a><br>
