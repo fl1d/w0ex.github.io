@@ -31,7 +31,7 @@ header:
 
 ## 開催予定のイベント
 
-* **超スマート社会グローバルフォーラム**
+* **超スマート社会グローバルフォーラム**<span style="color:Red"> ー終了しましたー</span>
 
   日時：2020年9月12日(土)<br>
   [詳細はこちらを参照ください。](https://www.wise-sss.titech.ac.jp/global-forum_en/)　
@@ -41,7 +41,7 @@ header:
 
 <hr>
 
-* **超スマート社会卓越教育院キックオフ記念式典**
+* **超スマート社会卓越教育院キックオフ記念式典**<span style="color:Red"> ー終了しましたー</span>
 
   日時：2020年9月8日(火)<br>
   [詳細はこちらを参照ください。](https://www.wise-sss.titech.ac.jp/kick-off/)　
