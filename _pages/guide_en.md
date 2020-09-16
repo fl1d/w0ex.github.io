@@ -31,17 +31,28 @@ header:
 
 
 ## Registration Guide
+You can apply for WISE-SSS program twice a year (Spring and Fall). The overview of the application for enrollment in fall is as follows.<br>
+<span style="color:#ff2680">※ For FY 2020, there will be multiple registration application periods. Details will be announced on this website.</span>
 
-**<span style="color:#ff2680">Registration Guide (for the enrollment in fall 2020)</span>**
+* <B><font size="4">Registration application for enrollment in fall 2020 (Due date for additional application: September 18, 2020 )</font></B><br>
 
-* <B><font size="4">Briefing session for the enrollment in WISE-SSS program/3rd Orientation</font></B><br>
-  The registration application period for the enrollment in fall 2020 is scheduled in late August 2020. Prior to that, we will hold an orientation (briefing session for the enrollment).
+  <div class="box2">
+    <p>
+  <B>● Due date for submission of application form: Friday, August 28, 2020 at noon(12:00 p.m.)<br>
+  <span style="color:#ff2680">● Due date for additional submission of application form: Friday, September 18, 2020 at noon(12:00 p.m.)</span><br>
+  ● Place of submission: <del>Office of Tokyo Tech Academy for Super Smart Society (Room.213, South Bldg. 3, Ookayama campus)</del></B><br>
+    ※To prevent infection of COVID-19, we would like to receive documents via e-mail. Please send the application form and required documents (PDF file) to the email address below.<br>
+　　　　　　　　　　　<B>　　　　e-mail: wise-sss@jim.titech.ac.jp<br>
 
-  Date：May 13, 2020 at 17:15-18:45　Online event<br>
-  Subjected audience: Tokyo Tech Students<br>
-  Details：Click [here](/3rd-orientation_en/).<br>
-  ＊Participation in the orientation is optional. It is not a requirement to register for WISE-SSS program
-<br><br>
+  ● Application form: Please download from here → <a href="/doc/2020_Fall_Application form.docx">word</a>,<a href="/doc/2020_Fall_Application form.pdf">pdf</a><br>
+
+  ● Registration examination (document screening)：Early September 2020
+  </B><br><br>
+
+  Please read the <a href="/doc/Guide_SSS.pdf">Study guide</a> carefully. Doctoral course applicants or existing doctoral students who request for a <B>mid-term review</B> in concurrent with the entrance examination, please complete "4. Request for mid-term review for transforming into the program" in the registration application form. <br>
+  </p></div>
+
+
 
 * <B><font size="4">Requirements for enrollment</font></B><br>
   In order to enroll in WISE-SSS program, it is necessary to meet the following two requirements.
@@ -73,25 +84,6 @@ header:
     　(2)Documents showing that you applied for an internship<br>
   </p></div>
 
-* <B><font size="4">Registration application(for enrollment in fall 2020)</font></B><br>
-  You can apply for WISE-SSS program twice a year (Spring and Fall). The overview of the application for enrollment in fall is as follows.<br>
-  <span style="color:#ff2680">※ For FY 2020, there will be multiple registration application periods. Details will be announced on this website.</span>
-
-  <div class="box2">
-    <p>
-  <B>● Due date for submission of application form: Friday, August 28, 2020 at noon(12:00 p.m.)<br>
-  <span style="color:#ff2680">● Additional due date for submission of application form: Friday, September 18, 2020 at noon(12:00 p.m.)</span><br>
-  ● Place of submission: <del>Office of Tokyo Tech Academy for Super Smart Society (Room.213, South Bldg. 3, Ookayama campus)</del></B><br>
-    ※To prevent infection of COVID-19, we would like to receive documents via e-mail. Please send the application form and required documents (PDF file) to the email address below.<br>
-　　　　　　　　　　　<B>　　　　e-mail: wise-sss@jim.titech.ac.jp<br>
-
-  ● Application form: Please download from here → <a href="/doc/2020_Fall_Application form.docx">word</a>,<a href="/doc/2020_Fall_Application form.pdf">pdf</a><br>
-
-  ● Registration examination (document screening)：Early September 2020
-  </B><br><br>
-
-  Please read the <a href="/doc/Guide_SSS.pdf">Study guide</a> carefully. Doctoral course applicants or existing doctoral students who request for a <B>mid-term review</B> in concurrent with the entrance examination, please complete "4. Request for mid-term review for transforming into the program" in the registration application form. <br>
-  </p></div>
 
 * <B><font size="4">Mid-term review (fall 2020)</font></B><br>
   The mid-term review in fall 2020 will be held as follows.<br>
