@@ -34,7 +34,7 @@ header:
 You can apply for WISE-SSS program twice a year (Spring and Fall). The overview of the application for enrollment in fall is as follows.<br>
 <span style="color:#ff2680">※ For FY 2020, there will be multiple registration application periods. Details will be announced on this website.</span>
 
-* <B><font size="4">Registration application for enrollment in fall 2020 (Due date for additional application: September 18, 2020 )</font></B><br>
+* <B><font size="4">2020 Fall Registration Guide (Due date for additional application: Sept. 18, 2020 )</font></B><br>
 
   <div class="box2">
     <p>
