@@ -31,6 +31,19 @@ header:
 
 ## Registration Guide
 
+**<span style="color:#ff2680">Briefing session for the enrollment in WISE-SSS program/3rd Orientation</span>**
+
+The registration application period for the enrollment in fall 2020 is scheduled in late August 2020. Prior to that, we will hold an orientation (briefing session for the enrollment).
+
+* Date：May 13, 2020 at 17:15-18:45　Online event<br>
+* Subjected audience: Tokyo Tech Students<br>
+* Details：Click [here](/3rd-orientation_en/).<br>
+
+＊Participation in the orientation is optional. It is not a requirement to register for WISE-SSS program.
+<br>
+
+
+
 **<span style="color:#ff2680">Important notice: Mid-term review</span>**
 
 * Date: March 23, 2020, Monday at 13:30-<br>
