@@ -30,15 +30,6 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/global-forum.png
-    alt: "超スマート社会グローバルフォーラム"
-    title: "超スマート社会グローバルフォーラム"
-    excerpt: "<B>日時：2020年9月12日（土）(オンライン開催)<br>
-    第１部：9:00-10:30、第2部：16:00-17:30</B><br>世界各地から一流の研究者を招聘し、超スマート社会に向けたフォーラムを開催いたします。"
-    url: "/global-forum_en/"
-    btn_label: "See more"
-    btn_class: "btn--primary"
-
   - image_path: /assets/images/PV.png
     alt: "SSS教育研究フィールド"
     title: "SSS教育研究フィールド"
