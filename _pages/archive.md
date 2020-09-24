@@ -5,7 +5,7 @@ permalink: /archive/
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/header_summer.png
+  overlay_image: /assets/images/header_fall.png
   actions:
   - label: "過去の登録案内"
     url: "/what-is-sss/"
