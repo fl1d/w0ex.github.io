@@ -33,6 +33,16 @@ header:
 
 feature_row:
 
+  - image_path: /assets/images/info-session-fall2020.png
+    alt: "WISE-SSS Admissions information session"
+    title: "WISE-SSS Admissions information session"
+    excerpt: "<B>Date：Wednesday, October 21, 16:15-17:30<br>Venue：Online or Lecture Theatre (Ookayama campus W531)</B><br>
+    If you are interested in the WISE-SSS program, please join us.<br>
+    ※The venue will be announced on this page as soon as it is confirmed."
+    url: "/info-session-fall2020_en/"
+    btn_label: "See more"
+    btn_class: "btn--primary"    
+
   - image_path: /assets/images/PV.png
     alt: "SSS Research & Education fields"
     title: "SSS Research & Education fields"
