@@ -5,7 +5,7 @@ permalink: /
 excerpt: <B>社会連携教育（オープンエデュケーション）と異分野融合研究（オープンイノベーション）の融合によって、<br>来たる超スマート社会を牽引する人材を育成します</B>
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/header_summer.png
+  overlay_image: /assets/images/header_fall.png
   actions:
   - label: "超スマート社会卓越教育課程とは"
     url: "/what-is-sss/"
@@ -30,10 +30,20 @@ header:
 
 feature_row:
 
+  - image_path: /assets/images/info-session-fall2020.png
+    alt: "超スマート社会卓越教育課程・学生募集説明会"
+    title: "超スマート社会卓越教育課程・学生募集説明会"
+    excerpt: "<B>日時：2020年10月21日(水)16:15〜17:30<br>会場：オンライン開催またはレクチャーシアター(大岡山キャンパス西講義棟W531)</B><br>
+    超スマート社会卓越教育課程学生募集説明会を開催いたします。本プログラムにご興味のある方は奮ってご参加ください。<br>
+    ※会場は決まり次第、本ページ上でお知らせいたします。"
+    url: "/info-session-fall2020/"
+    btn_label: "See more"
+    btn_class: "btn--primary"    
+
   - image_path: /assets/images/PV.png
     alt: "SSS教育研究フィールド"
     title: "SSS教育研究フィールド"
-    excerpt: "<B>SSS教育研究フィールドを動画で紹介します</B><br>
+    excerpt: "<B>SSS教育研究フィールドを動画で紹介します。</B><br>
     SSSの教育研究フィールド（量子コンピューティング、量子センサ、スマートロボティクス（スカイ、アクア、ランド、マニュファクチャリング）、スマートモビリティ）を動画でご覧いただけます。<br>"
     url: "/RE_fields/"
     btn_label: "See more"
