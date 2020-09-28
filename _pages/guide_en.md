@@ -31,7 +31,7 @@ header:
 
 
 ## Registration Guide
-Normally, there are two registration opportunities per year (spring and fall semesters), but for the fall semester of the 2020 academic year, there will be multiple registration application periods.
+Normally, there are two registration opportunities per year (spring and fall semesters), but for the fall semester of the 2020 academic year, there are multiple registration application periods.
 
 <font size="4"><h5>2020 Fall Registration Guide</h5></font>
 
