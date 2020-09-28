@@ -33,6 +33,17 @@ header:
 
 feature_row:
 
+  - image_path: /assets/images/add_application.png
+    alt: "WISE-SSS Additional Registration Application in Fall 2020"
+    title: "WISE-SSS Additional Registration Application in Fall 2020"
+    excerpt: "<B>Due date for submission of application form：
+    <br>● Friday, October 23, 2020 at noon
+    <br>● Friday, December 18, 2020 at noon</B><br>
+    Tokyo Tech Academy for Super Smart Society is accepting additional registration applications."
+    url: "/guide_en/"
+    btn_label: "See more"
+    btn_class: "btn--primary"    
+
   - image_path: /assets/images/info-session-fall2020.png
     alt: "WISE-SSS Admissions information session"
     title: "WISE-SSS Admissions information session"
