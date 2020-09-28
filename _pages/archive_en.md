@@ -31,7 +31,39 @@ header:
 
 ## Registration Guide
 
-**<span style="color:#ff2680">Briefing session for the enrollment in WISE-SSS program/3rd Orientation</span>**
+**<span style="color:#ff2680"><font size="4">2020 Fall Registration Guide (Due date for additional application: Sept. 18, 2020 )</font></span>**
+
+  <B>● Due date for submission of application form: Friday, August 28, 2020 at noon(12:00 p.m.)<br>
+  <span style="color:#ff2680">● Due date for additional submission of application form: Friday, September 18, 2020 at noon(12:00 p.m.)</span><br>
+  ● Place of submission: <del>Office of Tokyo Tech Academy for Super Smart Society (Room.213, South Bldg. 3, Ookayama campus)</del></B><br>
+    ※To prevent infection of COVID-19, we would like to receive documents via e-mail. Please send the application form and required documents (PDF file) to the email address below.<br>
+　　　　　　　　　　　<B>e-mail: wise-sss@jim.titech.ac.jp<br>
+  ● Application form: Please download from here → <a href="/doc/2020_Fall_Application form.docx">word</a>,<a href="/doc/2020_Fall_Application form.pdf">pdf</a><br>
+  ● Registration examination (document screening)：Early September 2020</B><br>
+
+  Please read the <a href="/doc/Guide_SSS.pdf">Study guide</a> carefully. Doctoral course applicants or existing doctoral students who request for a <B>mid-term review</B> in concurrent with the entrance examination, please complete "4. Request for mid-term review for transforming into the program" in the registration application form. <br>
+
+<hr>
+
+**<span style="color:#ff2680"><font size="4">Mid-term review (fall 2020)</font></span>**
+
+  The mid-term review in fall 2020 will be held as follows.<br>
+
+  <B>● Date：Thursday, September 17, 2020<br>
+     ● Time：pending<br>
+     ● Review method：Online<br>
+     ● An oral presentation(10 minutes) and an interview (10 minutes) will be conducted for the following:<br>
+    　 　　　１．Master's thesis overview (Doctoral students should include current research.)<br>
+    　　 　　２．Future research plans (including contribution to super smart society)<br>
+    　　　 　３．List of research achievements<br></B><br>
+    ※ A peer review will be conducted by students who have already passed the mid-term review.<br>
+    　 ・Reviewer will attend the examination and review the presentations.<br>
+    　 ・Student's review is for reference and will not affect the result of the examination.<br><br>
+    ※ Details will be announced directly from the office of Tokyo Tech Academy for Super Smart Society<br>
+
+<hr>
+
+**<span style="color:#ff2680"><font size="4">Briefing session for the enrollment in WISE-SSS program/3rd Orientation</font></span>**
 
 The registration application period for the enrollment in fall 2020 is scheduled in late August 2020. Prior to that, we will hold an orientation (briefing session for the enrollment).
 
@@ -42,9 +74,9 @@ The registration application period for the enrollment in fall 2020 is scheduled
 ＊Participation in the orientation is optional. It is not a requirement to register for WISE-SSS program.
 <br>
 
+<hr>
 
-
-**<span style="color:#ff2680">Important notice: Mid-term review</span>**
+**<span style="color:#ff2680"><font size="4">Important notice: Mid-term review</font></span>**
 
 * Date: March 23, 2020, Monday at 13:30-<br>
 * Venue: Room ~~E304~~ 208, West Bldg. 8<br>
@@ -52,7 +84,7 @@ The registration application period for the enrollment in fall 2020 is scheduled
 \* Details will be announced directly from the office of Tokyo Tech Academy for Super Smart Society.
 
 <hr>
-**<span style="color:#ff2680">Important notice: Extension of the registration application period for WISE-SSS program</span>**
+**<span style="color:#ff2680"><font size="4">Important notice: Extension of the registration application period for WISE-SSS program</font></span>**
 
 The registration application period has been extended until March 12, for the following students:<br>
 \* Those who gave up the application due to the postponement or cancellation of the internship by reason of coronavirus;<br>
@@ -68,7 +100,7 @@ The registration application period has been extended until March 12, for the fo
 
 <hr>
 
-**<span style="color:#ff2680">Registration guide (for the enrollment in April 2020)</span>**
+**<span style="color:#ff2680"><font size="4">Registration guide (for the enrollment in April 2020)</font></span>**
 
 * **Step 1: Participate in the orientation**
 
