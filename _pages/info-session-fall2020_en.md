@@ -10,8 +10,8 @@ header:
 
 <h4><font size="4">Date：Wednesday, October 21, 2020, 16:15-17:30</font></h4>
 
-<h4><font size="4">Venue：Online or Lecture Theatre (Ookayama campus W531)</font></h4>
-※The venue will be announced on this page as soon as it is confirmed.
+<h4><font size="4">Venue：Online </font></h4>
+※ Online meeting information will be sent to those who have registered later.
 
 <h4><font size="4">Target audience：Tokyo Tech students</font></h4>
 
