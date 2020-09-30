@@ -75,6 +75,11 @@ feature_row:
 {% include feature_row %}
 
 <h6>NEWS　</h6>
+
+<B>30/09/2020</B>　Course information for the 4th quarter: "SSS.S401 Super Smart Society Innovation A1: Frontiers in Quantum Technology" ⇒ [OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028549&Nendo=2020&vid=03&lang=EN) ※English subtitles have been added to the same course held in the 2nd Q.<br>
+
+<B>30/09/2020</B>　Course information for the 3rd quarter: "SSS.S402 Super Smart Society Innovation A2: IoT/Robotics/Smart city" ⇒ [OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=202030566&lang=EN&vid=03)<br>
+
 <B>2020.08.07</B>　[Faculty recruitment：Specially Appointed Associate Professor for Quantum science R&E field,Tokyo Tech Academy for Super Smart Society<br>　　　　　　　 (Closing date for application: 7th September 2020）](/doc/koubo_quantum_202008.pdf)
 
 <B>2020.08.07</B>　[We are now accepting applications for the opening ceremony of Tokyo Tech Academy for Super Smart Society.](https://www.wise-sss.titech.ac.jp/kick-off_en/)
