@@ -60,8 +60,8 @@ feature_row:
     <br>● Wednesday, November 18, 2020, 13:30-17:00(Seeds-Round)
     <br>● Wednesday, December 2, 2020, 17:15-20:15(Needs-Round)</B><br>
     The purpose of the workshop is to build interdisciplinary research teams by matching the needs of SSS Consortium partners with the seeds of the research and human resources of Tokyo Tech students."
-    url: "/en"
-    btn_label: "Coming soon"
+    url: "https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20201118/"
+    btn_label: "See more"
     btn_class: "btn--primary"    
 
   - image_path: /assets/images/PV.png
