@@ -53,6 +53,17 @@ feature_row:
     btn_label: "See more"
     btn_class: "btn--primary"    
 
+  - image_path: /assets/images/matchingWS_2020fall.png
+    alt: "SSS Matching Workshop"
+    title: "SSS Matching Workshop"
+    excerpt: "<B>Date：
+    <br>● Wednesday, November 18, 2020, 13:30-17:00(Seeds-Round)
+    <br>● Wednesday, December 2, 2020, 17:15-20:15(Needs-Round)</B><br>
+    The purpose of the workshop is to build interdisciplinary research teams by matching the needs of SSS Consortium partners with the seeds of the research and human resources of Tokyo Tech students."
+    url: "/home_en/"
+    btn_label: "Coming soon"
+    btn_class: "btn--primary"    
+
   - image_path: /assets/images/PV.png
     alt: "SSS Research & Education fields"
     title: "SSS Research & Education fields"
