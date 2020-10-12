@@ -27,4 +27,12 @@ header:
 * 異分野融合マッチングワークショップについて
 * インターンシップについて
 
+<br>
+
+<a href="/assets/images/ais_fall2020_01.png"><img src="/assets/images/ais_fall2020_01.png" width="20%" height="20%"/>
+</a>
+
+<a href="/assets/images/ais_fall2020_02.png"><img src="/assets/images/ais_fall2020_02.png" width="20%" height="20%"/>
+</a>
+
 **問合せ先**：超スマート社会卓越教育院事務室　E-mail: wise-sss@jim.titech.ac.jp<br>
