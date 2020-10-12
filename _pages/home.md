@@ -50,6 +50,17 @@ feature_row:
     btn_label: "See more"
     btn_class: "btn--primary"    
 
+  - image_path: /assets/images/matchingWS_2020fall.png
+    alt: "SSS異分野融合マッチングワークショップ"
+    title: "SSS異分野融合マッチングワークショップ"
+    excerpt: "<B>日時：
+    <br>● 2020年11月18日(水)13:30-17:00(シーズ・ラウンド)
+    <br>● 2020年12月2日(水)17:15-20:15(ニーズ・ラウンド)</B><br>
+    超スマート社会推進コンソーシアム参加機関が提供する社会のニーズと東工大学生のシーズをマッチングし、分野を超えた異分野融合研究チームの構築を目指します。"
+    url: "/home/"
+    btn_label: "Coming soon"
+    btn_class: "btn--primary"    
+
   - image_path: /assets/images/PV.png
     alt: "SSS教育研究フィールド"
     title: "SSS教育研究フィールド"
