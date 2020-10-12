@@ -59,7 +59,7 @@ In order to enroll in WISE-SSS program, it is necessary to meet the following tw
   Please participate in the SSS interdisciplinary matching workshop at least once.
   The upcoming SSS interdisciplinary matching workshops are as follows.<br>
 
-  Date：December 18 and December 1  2020,  Online event. Please participate on both days.<br>
+  Date：December 18 and December 2, 2020,  Online event. Please participate on both days.<br>
   [＊You can find the information of the previous matching workshop from here.](http://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/).
 
   **2. Enroll in the cyber/physical off-campus project course**<br>
