@@ -33,5 +33,4 @@ Please register via the registration form.　[＞Registration form](https://form
 <a href="/assets/images/ais_fall2020_02.png"><img src="/assets/images/ais_fall2020_02.png" width="20%" height="20%"/>
 </a>
 
-
 **Contact**：Office of Tokyo Tech Academy for Super Smart Society / E-mail: wise-sss@jim.titech.ac.jp<br>
