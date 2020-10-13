@@ -87,6 +87,8 @@ feature_row:
 
 <h6>NEWS　</h6>
 
+<B>2020.10.13</B>　Prof. Kei Sakaguchi, Dean of the Tokyo Tech Academy for Super Smart Society is featured in the ["FACES: Tokyo Tech Researchers".](https://www.titech.ac.jp/english/research/stories/faces39_sakaguchi.html)<br>
+
 <B>30/09/2020</B>　Course information for the 4th quarter: "SSS.S402 Super Smart Society Innovation A2: IoT/Robotics/Smart city" ⇒ [OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=202030566&lang=EN&vid=03) ※English subtitles have been added to the same course held in the 2nd Q.<br>
 
 <B>30/09/2020</B>　Course information for the 3rd quarter: "SSS.S401 Super Smart Society Innovation A1: Frontiers in Quantum Technology" ⇒ [OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028549&Nendo=2020&vid=03&lang=EN)<br>
