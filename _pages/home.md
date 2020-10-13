@@ -84,6 +84,8 @@ feature_row:
 
 <h6>NEWS　</h6>
 
+<B>2020.10.13</B>　阪口啓教育院長が[「顔 東工大の研究者たち」](https://www.titech.ac.jp/research/stories/faces39_sakaguchi.html)で紹介されました。<br>
+
 <B>2020.09.30</B>　第4Q科目「SSS.S402 超スマート社会創造A2：IoT/ロボティクス/スマートシティ」の講義情報が[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=202030566&lang=JA&vid=03)に公開されました。※第2Qで行われた授業に英語字幕が付きました。<br>
 
 <B>2020.09.30</B>　第3Q科目「SSS.S401 超スマート社会創造A1：量子科学の最前線」の講義情報が[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028549&Nendo=2020&vid=03)に公開されました。<br>
