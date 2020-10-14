@@ -66,6 +66,9 @@ video {
   display: inline-block;
   *display: inline;
   *zoom: 1;
+  pointer-events: none;
+  touch-callout:none;
+  user-select: none;
 }
 
 /* Prevents modern browsers from displaying 'audio' without controls */
