@@ -269,10 +269,6 @@ figure {
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
-    pointer-events: none;
-    touch-callout:none;
-    user-select: none;
-
   }
 
   > a {
