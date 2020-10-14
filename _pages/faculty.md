@@ -114,25 +114,25 @@ Cross Jeffrey Scott |オンライン教育委員会<br>副委員長|社会理工
 
 <br>
 
-**海外アドバイザー**　　画像をクリックするとアドバイザーのメッセージをご覧いただけます。（学内限定公開）
+**海外アドバイザー**　
 
-Magnus Egerstedt |Georgia Institute of Technology |[![magnus](/assets/images/advisors/magnus.egerstedt.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Magnus%20Egerstedt.mp4)
-Jenq-Shiou Leu |NTUST |[![leu](/assets/images/advisors/jenq.shiou.leu.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Jenq-Shiou%20Leu.mp4)
-Wilfred G. van der Wiel |University of Twente |[![wilfred](/assets/images/advisors/w.g.vanderwiel.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Wilfred%20G.%20van%20der%20Wiel.mp4)
-Marco Ceccarelli |University of Rome Tor Vergata |[![marco](/assets/images/advisors/marco.ceccarelli.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Marco%20Ceccarelli.mp4)
+Magnus Egerstedt |Georgia Institute of Technology
+Jenq-Shiou Leu |NTUST
+Wilfred G. van der Wiel |University of Twente
+Marco Ceccarelli |University of Rome Tor Vergata
 Chia-Hsiang Menq |The Ohio State University
-Taweep Chaisomphob |Thammasat University |[![taweep](/assets/images/advisors/taweep.chaisomphob.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/taweep.chaisomphob.mp4)
-Ian Watson |University of Glasgow |[![watson](/assets/images/advisors/ian.watson.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/ian.watson.mp4)
-Sandra Hirche |Technical University of Munich |[![sandra](/assets/images/advisors/sandra.hirche.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Sandra%20Hirche.mp4)
-Thomas Haustein |Fraunhofer Heinrich-Hertz-Institute |[![thomas](/assets/images/advisors/thomas.haustein.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Thomas%20Haustein.mp4)
-Branka Vucetic |University of Sydney |[![branka](/assets/images/advisors/branka.vucetic.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Branka%20Vucetic.mp4)
-Susi S. Varvayanis |Cornell University |[![susi](/assets/images/advisors/susi.varvayanis.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Susi%20Varvayanis.mp4)
-Michiel Bacchiani |Google Japan |[![bacchiani](/assets/images/advisors/michiel.bacchiani.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/michiel.bacchiani.mp4)
-Ali Sadri |SOLiD Gear Inc. |[![ali](/assets/images/advisors/ali.sadri.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Ali%20Sadri%20Research%20for%20tokyotech.mp4)
-Emilio Carvanese Strinati |CEA Leti |[![emilio](/assets/images/advisors/emilio.c.strinati.jpg)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/emilio.carvanese.strinati.mp4)
-Sumei Sun |Infocomm Research |[![sumei](/assets/images/advisors/sumei.sun.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Sumei%20Sun.mp4)
-Masaaki Maeda |Asurion LLC |[![maeda](/assets/images/advisors/masaaki.maeda.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Masaaki%20Maeda.mp4)
-Seong-Lyun Kim |Yonsei University |[![kim](/assets/images/advisors/seong.lyun.kim.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/seong.lyun.kim.mp4)
+Taweep Chaisomphob |Thammasat University
+Ian Watson |University of Glasgow
+Sandra Hirche |Technical University of Munich
+Thomas Haustein |Fraunhofer Heinrich-Hertz-Institute
+Branka Vucetic |University of Sydney
+Susi S. Varvayanis |Cornell University
+Michiel Bacchiani |Google Japan
+Ali Sadri |SOLiD Gear Inc.
+Emilio Carvanese Strinati |CEA Leti
+Sumei Sun |Infocomm Research
+Masaaki Maeda |Asurion LLC
+Seong-Lyun Kim |Yonsei University
 
 <br>
 
