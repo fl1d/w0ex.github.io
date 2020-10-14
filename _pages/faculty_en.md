@@ -114,25 +114,25 @@ Yu Ara |Specially Appointed Assistant Professor|Tokyo Tech Academy for Super Sma
 |Hironori Hibino|Tokyo University of Science
 
 <br><br>
-**International Advisor**
+**International Advisor**　　Click on the image to see the advisor's message. (Only accessible from campus network)
 
-M. Egerstedt|Georgia Institute of Technology
-J.-S. Leu|NTUST
-W.G. van der Wiel|University of Twente
-M. Ceccarelli|University of Rome Tor Vergata
-C.-H. Menq|The Ohio State University
-T. Chaisomphob|Thammasat University
-I. Watson|University of Glasgow
-S. Hirche|Technical University of Munich
-T. Haustein|Fraunhofer Heinrich-Hertz-Institute
-B. Vucetic|University of Sydney
-S. S. Varvayanis|Cornell University
-M. Bacchiani|Google Japan
-A. Sadri|Intel Corp.
-E. C. Strinati|CEA Leti
-S. Sun|Infocomm Research
-M. Maeda|Asurion LLC
-S. L. Kim|Yonsei University
+Magnus Egerstedt |Georgia Institute of Technology |[![magnus](/assets/images/advisors/magnus.egerstedt.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Magnus%20Egerstedt.mp4)
+Jenq-Shiou Leu |NTUST |[![leu](/assets/images/advisors/jenq.shiou.leu.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Jenq-Shiou%20Leu.mp4)
+Wilfred G. van der Wiel |University of Twente |[![wilfred](/assets/images/advisors/w.g.vanderwiel.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Wilfred%20G.%20van%20der%20Wiel.mp4)
+Marco Ceccarelli |University of Rome Tor Vergata |[![marco](/assets/images/advisors/marco.ceccarelli.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Marco%20Ceccarelli.mp4)
+Chia-Hsiang Menq |The Ohio State University
+Taweep Chaisomphob |Thammasat University |[![taweep](/assets/images/advisors/taweep.chaisomphob.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/taweep.chaisomphob.mp4)
+Ian Watson |University of Glasgow |[![watson](/assets/images/advisors/ian.watson.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/ian.watson.mp4)
+Sandra Hirche |Technical University of Munich |[![sandra](/assets/images/advisors/sandra.Hirche.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Sandra%20Hirche.mp4)
+Thomas Haustein |Fraunhofer Heinrich-Hertz-Institute |[![thomas](/assets/images/advisors/thomas.Haustein.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Thomas%20Haustein.mp4)
+Branka Vucetic |University of Sydney |[![branka](/assets/images/advisors/branka.vucetic.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Branka%20Vucetic.mp4)
+Susi S. Varvayanis |Cornell University |[![susi](/assets/images/advisors/susi.varvayanis.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Susi%20Varvayanis.mp4)
+Michiel Bacchiani |Google Japan |[![bacchiani](/assets/images/advisors/michiel.bacchiani.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/michiel.bacchiani.mp4)
+Ali Sadri |SOLiD Gear Inc. |[![ali](/assets/images/advisors/ali.sadri.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Ali%20Sadri%20Research%20for%20tokyotech.mp4)
+Emilio Carvanese Strinati |CEA Leti |[![emilio](/assets/images/advisors/emilio.c.strinati.jpg)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/emilio.carvanese.strinati.mp4)
+Sumei Sun |Infocomm Research |[![sumei](/assets/images/advisors/sumei.sun.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Sumei%20Sun.mp4)
+Masaaki Maeda |Asurion LLC |[![maeda](/assets/images/advisors/masaaki.maeda.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/Masaaki%20Maeda.mp4)
+Seong-Lyun Kim |Yonsei University |[![kim](/assets/images/advisors/seong.lyun.Kim.png)](https://www.sss.e.titech.ac.jp/wise-sss/video_international.advisors/seong.lyun.kim.mp4)
 
 <br><br>
 
