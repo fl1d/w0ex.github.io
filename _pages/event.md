@@ -46,9 +46,9 @@ header:
   日時：2020年10月21日（水）16:15-17:30 オンライン開催<br>
   対象：東工大学生<br>
   詳細は[こちら](/info-session-fall2020)を参照ください。　
-  <div style="text-align:left"><a href="/images/ais_fall2020_01.png"><img src="/assets/images/ais_fall2020_01.png" width="20%" height="20%" />
+  <div style="text-align:left"><a href="/assets/images/ais_fall2020_01.png"><img src="/assets/images/ais_fall2020_01.png" width="20%" height="20%" />
   </a>
-  <a href="/images/ais_fall2020_02.png"><img src="/assets/images/ais_fall2020_02.png" width="20%" height="20%" />
+  <a href="/assets/images/ais_fall2020_02.png"><img src="/assets/images/ais_fall2020_02.png" width="20%" height="20%" />
   </a>
   </div>
 
