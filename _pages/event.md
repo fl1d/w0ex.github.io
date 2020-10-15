@@ -41,7 +41,7 @@ header:
 
 <hr>
 
-* **学生募集説明会**
+* **超スマート社会卓越教育課程・学生募集説明会**
 
   日時：2020年10月21日（水）16:15-17:30 オンライン開催<br>
   対象：東工大学生<br>
@@ -51,7 +51,8 @@ header:
   <a href="/images/ais_fall2020_02.png"><img src="/assets/images/ais_fall2020_02.png" width="20%" height="20%" />
   </a>
   </div>
-  <br>
+
+<hr>
 
 * **超スマート社会グローバルフォーラム**<span style="color:Red"> ー終了しましたー</span>
 
