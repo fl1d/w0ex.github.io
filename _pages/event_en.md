@@ -31,6 +31,27 @@ header:
 
 ## Upcoming Events
 
+* **SSS Interdisciplinary matching workshop**
+
+  Date: November 18 & December 2, 2020  Online event<br>
+  Details: Click [here](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20201118/)<br>
+  <div style="text-align:left"><img src="/assets/images/matchingWS_2020fall.png" width="20%" height="20%" />
+  </div>
+
+<hr>
+
+* **WISE-SSS Admissions Information Session**
+
+  Date: October 21, 2020, Wednesday at 16:15-17:30　Online event<br>
+  Details: Click [here](/info-session-fall2020)<br>
+  <div style="text-align:left"><a href="/images/ais_fall2020_01.png"><img src="/assets/images/ais_fall2020_01.png" width="20%" height="20%" />
+  </a>
+  <a href="/images/ais_fall2020_02.png"><img src="/assets/images/ais_fall2020_02.png" width="20%" height="20%" />
+  </a>
+  </div>
+
+<hr>
+
 * **SSS Global Forum**<span style="color:Red">　-The even has ended.-</span>
 
   Date: Saturday, September 12, 2020<br>
