@@ -31,6 +31,29 @@ header:
 
 ## 開催予定のイベント
 
+* **SSS異分野融合マッチングワークショップ**
+
+  日時：2020年11月18日(水) & 12月2日(水) オンライン開催<br>
+  対象：東工大学生、超スマート社会推進コンソーシアム参加機関、東工大教職員<br>
+  [詳細はこちらを参照ください。](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20201118/)　
+  <div style="text-align:left"><img src="/assets/images/matchingWS_2020fall.png" width="20%" height="20%" />
+  </div>
+
+<hr>
+
+* **超スマート社会卓越教育課程・学生募集説明会**
+
+  日時：2020年10月21日（水）16:15-17:30 オンライン開催<br>
+  対象：東工大学生<br>
+  詳細は[こちら](/info-session-fall2020)を参照ください。　
+  <div style="text-align:left"><a href="/assets/images/ais_fall2020_01.png"><img src="/assets/images/ais_fall2020_01.png" width="20%" height="20%" />
+  </a>
+  <a href="/assets/images/ais_fall2020_02.png"><img src="/assets/images/ais_fall2020_02.png" width="20%" height="20%" />
+  </a>
+  </div>
+
+<hr>
+
 * **超スマート社会グローバルフォーラム**<span style="color:Red"> ー終了しましたー</span>
 
   日時：2020年9月12日(土)<br>
