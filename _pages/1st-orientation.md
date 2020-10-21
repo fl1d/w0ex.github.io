@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/header_fall.png
+  overlay_image: /assets/images/header_autumn.png
   actions:
   - label: "超スマート社会卓越教育課程とは"
     url: "/what-is-sss/"
