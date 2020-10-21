@@ -96,7 +96,7 @@ Takao Kashiwagi|Institute Professor<br>Professor Emeritus|Solution Research Cent
 Kenji Suzuki|Specially Appointed Professor|World Research Hub Initiative
 Hiroyuki Ito | Associate Professor|Laboratory for Future Interdisciplinary <br>Research of Science and Technology
 Akinori Nishihara |Specially Appointed Professor|Tokyo Tech Academy for Super Smart Society
-Toru Nagahama |Specially Appointed Associate Professor|Tokyo Tech Academy for Super Smart Society
+Toru Nagahama |Associate Professor|Center for Innovative Teaching and Learning
 Shoichi Kishiki |Associate Professor|Laboratory for Future Interdisciplinary <br>Research of Science and Technology
 Kayoko Nohara |Professor|Transdisciplinary Science and Engineering
 Kazuki Maruta |Specially Appointed Associate Professor|Tokyo Tech Academy for Super Smart Society
