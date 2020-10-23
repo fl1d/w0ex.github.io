@@ -27,6 +27,11 @@ header:
 * 異分野融合マッチングワークショップについて
 * インターンシップについて
 
+
+<h4><font size="4">説明会資料</font></h4>（学内ネットワークからのみアクセス可能）
+
+[![material](/assets/images/ad_material.png)](https://www.sss.e.titech.ac.jp/wise-sss/pdf/material_ad_infomation_fall2020.pdf)
+
 <br>
 
 <a href="/assets/images/ais_fall2020_01.png"><img src="/assets/images/ais_fall2020_01.png" width="20%" height="20%"/>
