@@ -40,7 +40,7 @@ header:
 
 <hr>
 
-* **WISE-SSS Admissions Information Session**
+* **WISE-SSS Admissions Information Session**<span style="color:Red">　-The even has ended.-</span>
 
   Date: October 21, 2020, Wednesday at 16:15-17:30　Online event<br>
   Details: Click [here](/info-session-fall2020_en)<br>
