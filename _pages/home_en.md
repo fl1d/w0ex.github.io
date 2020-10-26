@@ -33,15 +33,6 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/info-session-fall2020.png
-    alt: "WISE-SSS Admissions information session"
-    title: "WISE-SSS Admissions information session"
-    excerpt: "<B>Date：Wednesday, October 21, 16:15-17:30<br>Venue：Online</B><br>
-    If you are interested in the WISE-SSS program, please join us."
-    url: "/info-session-fall2020_en/"
-    btn_label: "See more"
-    btn_class: "btn--primary"    
-
   - image_path: /assets/images/add_application.png
     alt: "WISE-SSS Additional Registration Application in Fall 2020"
     title: "WISE-SSS Additional Registration Application in Fall 2020"
