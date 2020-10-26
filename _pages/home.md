@@ -30,15 +30,6 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/info-session-fall2020.png
-    alt: "超スマート社会卓越教育課程・学生募集説明会"
-    title: "超スマート社会卓越教育課程・学生募集説明会"
-    excerpt: "<B>日時：2020年10月21日(水)16:15〜17:30<br>開催方法：オンライン開催</B><br>
-    超スマート社会卓越教育課程学生募集説明会を開催いたします。本プログラムにご興味のある方は奮ってご参加ください。"
-    url: "/info-session-fall2020/"
-    btn_label: "See more"
-    btn_class: "btn--primary"    
-
   - image_path: /assets/images/add_application.png
     alt: "超スマート社会卓越教育課程・追加登録申請受付中"
     title: "超スマート社会卓越教育課程・追加登録申請受付中"
