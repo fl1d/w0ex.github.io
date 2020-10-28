@@ -35,25 +35,28 @@ header:
     <td style="border:none;" width="50%">
 
 <h5>Quantum computing R&E field</h5>
-<video width="90%" src="/video/quantum_computer.m4v" controls></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ugZYHpeiHAQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5>Smart robotics R&E field</h5>
-<video width="90%" src="/video/robotics.m4v" controls></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0_m_4_VGqdo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5>Smart robotics(Robot Land, Smart Manufacturing) R&E field</h5>
-<video width="90%" src="/video/robotics_l_m.m4v" controls></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wg8prZZ46Tw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h5>Artificial Intelligence R&E field</h5>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7s3lnMQOqOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </td>
 <td style="border:none;" width="50%">
 
 <h5>Quantum sensor R&E field</h5>
-<video width="90%" src="/video/quantum_sensor.m4v" controls></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jPs9mQJEKGc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5>Smart robotics(Robot Zoo Aqua, Robot Zoo Sky) R&E field</h5>
-<video width="90%" src="/video/robotics_a_s.m4v" controls></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mdQUHdqadl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5>Smart mobility R&E field</h5>
-<video width="90%" src="/video/mobility.m4v" controls></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E20RnN_0rbI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </td>
 </table>
