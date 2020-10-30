@@ -34,6 +34,13 @@ header:
 
 <br>
 
+<h4><font size="4">説明会動画</font></h4>（学内ネットワークからのみアクセス可能）
+
+<div style="text-align:left"><a href="https://www.sss.e.titech.ac.jp/wise-sss/mp4/info-session_2020102.mp4"><img src="/assets/images/ad_session_20201021.png" width="40%" height="40%" />
+</a></div>
+
+<br>
+
 <a href="/assets/images/ais_fall2020_01.png"><img src="/assets/images/ais_fall2020_01.png" width="20%" height="20%"/>
 </a>
 
