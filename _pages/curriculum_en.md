@@ -47,6 +47,7 @@ header:
     - ART.T454  Advanced Topics in Artificial Intelligence S (English)＊<br>
     - SCE.I501  Image recognition (English)＊<br>
     - ART.T551  Image and Video Recognition (English)＊<br>
+    - ICT.H517  Advanced Measurement of Sensory Information (English)＊<br>
   * Courses related to basic quantum science (examples)<br>
     - EEE.D201  Quantum Mechanics (Japanese)<br>
     - [SSS.B401  Introduction to Quantum Science and Technology (English)](/doc/SSS_B401_IntroductionToQuantumScienceAndTechnology.pdf)​<br>
