@@ -31,10 +31,24 @@ header:
 
 
 ## Registration Guide
-Normally, there are two registration opportunities per year (spring and fall semesters), but for the fall semester of the 2020 academic year, there are multiple registration application periods.
+
+<font size="4"><h5>2021 Spring Registration Guide</h5></font>
+   <div class="box2">
+   <p><b>● Due date for submission of application form:</b>　Friday, February 26, 2021 at noon (12:00 p.m.)<br>
+
+<b>● How to submit:</b> Please send the application form and required documents (PDF file) to the email address below.<br>
+　　　　　　　　　　<b>e-mail: wise-sss@jim.titech.ac.jp</b><br><br>
+
+<b>● Application form:</b> Please download the format. → <a href="/doc/2021_spring_application_form.docx">word</a>, <a href="/doc/2021_spring_application_form.pdf">pdf</a><br>
+
+<b>● Registration examination (document screening)：</b> Early March 2021<br><br>
+
+  Please read the <a href="/doc/Guide_SSS.pdf">Study guide</a> carefully. Current or prospective doctoral students who request for a <B>mid-term review</B> in concurrent with the entrance examination, please complete "4. Request for mid-term review for transforming into the program" in the registration application form. The mid-term review will be held on the middle of March 2021.<br>
+  </p>
+  </div>
 
 <font size="4"><h5>2020 Fall Registration Guide</h5></font>
-
+Normally, there are two registration opportunities per year (spring and fall semesters), but for the fall semester of the 2020 academic year, there are multiple registration application periods.
    <div class="box2">
    <p><b>● Due date for additional submission of application form:</b><br><br>
 　　　　　　1) Friday, September 18, 2020 at noon(12:00 p.m.)<br>
