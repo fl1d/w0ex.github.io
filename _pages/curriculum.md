@@ -46,6 +46,7 @@ header:
     - ART.T454 Advanced Topics in Artificial Intelligence S (英語開講)＊<br>
     - SCE.I501 視覚認識 (英語開講)＊<br>
     - ART.T551 画像・映像認識 (英語開講)＊<br>
+    - ICT.H517 感性情報センシング特論 (英語開講)＊<br>
   * 量子科学基礎科目群の例<br>
     - EEE.D201 量子力学 (日本語開講)<br>
     - [SSS.B401 Introduction to Quantum Science and Technology (英語開講)](/doc/SSS_B401_IntroductionToQuantumScienceAndTechnology.pdf)<br>
