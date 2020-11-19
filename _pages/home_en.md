@@ -55,6 +55,16 @@ feature_row:
     btn_label: "See more"
     btn_class: "btn--primary"    
 
+  - image_path: /assets/images/application_2021s.png
+    alt: "WISE-SSS Registration Application in Spring 2021"
+    title: "WISE-SSS Registration Application in Spring 2021"
+    excerpt: "<B>Due date for submission of application form：
+    <br>● Friday, February 26, 2021 at noon</B><br>
+    Tokyo Tech Academy for Super Smart Society is accepting registration applications for the enrollment in spring 2021."
+    url: "/guide_en/"
+    btn_label: "See more"
+    btn_class: "btn--primary"    
+
   - image_path: /assets/images/PV.png
     alt: "SSS Research & Education fields"
     title: "SSS Research & Education fields"
@@ -63,6 +73,7 @@ feature_row:
     url: "/RE_fields_en"
     btn_label: "See more"
     btn_class: "btn--primary"
+
 
   - image_path: /assets/images/poster_wise-sss.png
     alt: "For international students who want to study at Tokyo Tech"

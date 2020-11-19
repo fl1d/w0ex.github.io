@@ -52,6 +52,16 @@ feature_row:
     btn_label: "See more"
     btn_class: "btn--primary"    
 
+  - image_path: /assets/images/application_2021s.png
+    alt: "超スマート社会卓越教育課程・2021年春期登録申請"
+    title: "超スマート社会卓越教育課程・2021年春期登録申請"
+    excerpt: "<B>申請書提出期日：
+    <br>● 2021年2月26日(金)正午</B><br>
+    超スマート社会卓越教育課程では、2021年春期登録の募集をいたします。"
+    url: "/guide/"
+    btn_label: "See more"
+    btn_class: "btn--primary"    
+
   - image_path: /assets/images/PV.png
     alt: "SSS教育研究フィールド"
     title: "SSS教育研究フィールド"
