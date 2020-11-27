@@ -55,7 +55,7 @@ header:
 Note: Courses with "＊" are not described in the study guide.
 </div><br>
 
-* **Specialized courses related to cyber/physical specialized space** 　(Please refer to Tables 4-1 and 4-2 in the [Study Guide](/doc/Guide_SSS_en.pdf))
+* **Specialized courses related to cyber/physical space** 　(Please refer to Tables 4-1 and 4-2 in the [Study Guide](/doc/Guide_SSS_en.pdf))
 
   Students must earn credits in selected subjects related to cyber space and physical space to acquire “specialized academic ability & originality” for a super smart society.
   * Specialized courses related to cyberspace (examples)<br>
