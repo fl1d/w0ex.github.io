@@ -5,7 +5,7 @@ permalink: /guide/
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/header_autumn.png
+  overlay_image: /assets/images/header_winter.png
   actions:
   - label: "超スマート社会卓越教育課程とは"
     url: "/what-is-sss/"
