@@ -31,7 +31,7 @@ header:
 
 ## Upcoming Events
 
-* **SSS Interdisciplinary matching workshop**
+* **SSS Interdisciplinary matching workshop**<span style="color:Red">　-The event has ended.-</span>
 
   Date: November 18 & December 2, 2020  Online event<br>
   Details: Click [here](https://www.sss.e.titech.ac.jp/event-sss-matching-ws-20201118/)<br>
