@@ -85,6 +85,8 @@ feature_row:
 
 <h6>NEWS　</h6>
 
+<B>2020.12.10</B>　["Robot Zoo Sky"](/RE_fields/)を利用した研究（工学院・畑中健志准教授）が、[CCTA2020](https://ccta2020.ieeecss.org/)で[”Outstanding Student Paper Award”](http://ieeecss.org/awards/conference-control-technology-and-applications-best-student-paper-award)を受賞しました。<br>
+
 <B>2020.10.13</B>　阪口啓教育院長が[「顔 東工大の研究者たち」](https://www.titech.ac.jp/research/stories/faces39_sakaguchi.html)で紹介されました。<br>
 
 <B>2020.09.30</B>　第4Q科目「SSS.S402 超スマート社会創造A2：IoT/ロボティクス/スマートシティ」の講義情報が[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=202030566&lang=JA&vid=03)に公開されました。※第2Qで行われた授業に英語字幕が付きました。<br>
