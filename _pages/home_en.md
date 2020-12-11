@@ -81,7 +81,7 @@ feature_row:
 <B>2020.12.11</B>　Information: Special temporary benefits of “Super Smart Society Leadership Scholarship for Doctoral Students”<br>
 Based on the proposal of the SSS Promotion Consortium, we are providing financial support to WISE-SSS enrolled students whose household budget has changed suddenly or their educational and research activities have been restricted due to the spread of the COVID-19. <br>
 Eligible for benefits: WISE-SSS students enrolled by the registration in fall 2020<br>
-Amount: 50,000 yen per person (one time only)
+Amount: 50,000 yen per person (one time only)<br>
 More details will be announced at a later date.<br>
 
 <B>2020.12.10</B>　The research by Prof. Takeshi Hatanaka using ["Robot Zoo Sky"](/RE_fields/) was awarded the [”Outstanding Student Paper Award”](http://ieeecss.org/awards/conference-control-technology-and-applications-best-student-paper-award) at [CCTA2020](https://ccta2020.ieeecss.org/).<br>
