@@ -74,7 +74,7 @@ feature_row:
 
 <h6>NEWS　</h6>
 
-<B>2020.12.11</B>　超スマート社会リーダーシップ博士奨励緊急一時金の支給について<br>
+<B>2020.12.11　超スマート社会リーダーシップ博士奨励緊急一時金の支給について</B><br>
 このたび、超スマート社会推進コンソーシアムの提言にもとづき、新型コロナウイルス感染拡大の影響により家計の急変や教育研究活動の制限を受けている超スマート社会卓越教育院の登録学生に対し、経済的支援を行います。対象：超スマート社会卓越教育院の登録学生（2020年度秋期までに登録した学生）、金額：1人につき50,000円（1回限り）。手続きの詳細については、後日連絡いたします。<br>
 
 <B>2020.12.10</B>　["Robot Zoo Sky"](/RE_fields/)を利用した研究（工学院・畑中健志准教授）が、[CCTA2020](https://ccta2020.ieeecss.org/)で[”Outstanding Student Paper Award”](http://ieeecss.org/awards/conference-control-technology-and-applications-best-student-paper-award)を受賞しました。<br>
