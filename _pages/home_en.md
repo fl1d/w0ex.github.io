@@ -78,7 +78,7 @@ feature_row:
 
 <h6>NEWS　</h6>
 
-<B>2020.12.11</B>　Information: Special temporary benefits of “Super Smart Society Leadership Scholarship for Doctoral Students”<br>
+<B>2020.12.11　Information: Special temporary benefits of “Super Smart Society Leadership Scholarship for Doctoral Students”</B><br>
 Based on the proposal of the SSS Promotion Consortium, we are providing financial support to WISE-SSS enrolled students whose household budget has changed suddenly or their educational and research activities have been restricted due to the spread of the COVID-19. <br>
 Eligible for benefits: WISE-SSS students enrolled by the registration in fall 2020<br>
 Amount: 50,000 yen per person (one time only)<br>
