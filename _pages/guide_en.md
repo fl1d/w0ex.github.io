@@ -47,33 +47,11 @@ header:
   </p>
   </div>
 
-<font size="4"><h5>2020 Fall Registration Guide</h5></font>
-Normally, there are two registration opportunities per year (spring and fall semesters), but for the fall semester of the 2020 academic year, there are multiple registration application periods.
-   <div class="box2">
-   <p><b>● Due date for additional submission of application form:</b><br><br>
-　　　　　　1) Friday, September 18, 2020 at noon(12:00 p.m.)<br>
-　　　　　　2) Friday, October 23, 2020 at noon(12:00 p.m.)<br>
-　　　　　　3) Friday, December 18, 2020 at noon(12:00 p.m.)<br><br>
-
-<b>● How to submit:</b> Please send the application form and required documents (PDF file) to the email address below.<br>
-　　　　　　　　<b>e-mail: wise-sss@jim.titech.ac.jp</b><br><br>
-
-<b>● Application form:</b> Please download the format. → <a href="/doc/2020_Fall_Application_re_form.docx">word</a>, <a href="/doc/2020_Fall_Application_re_form.pdf">pdf</a><br>
-
-<b>● Registration examination (document screening)：</b> It will be conducted in conjunction with the submission of the application.<br><br>
-
-  Please read the <a href="/doc/Guide_SSS.pdf">Study guide</a> carefully. Current or prospective doctoral students who request for a <B>mid-term review</B> in concurrent with the entrance examination, please complete "4. Request for mid-term review for transforming into the program" in the registration application form. <br>
-  </p>
-  </div>
-
 <font size="4"><h5>Requirements for enrollment</h5></font>
 In order to enroll in WISE-SSS program, it is necessary to meet the following two requirements.
 
   **1. Experience of participation in the SSS interdisciplinary matching workshop**<br>
-  Please participate in the SSS interdisciplinary matching workshop at least once.
-  The upcoming SSS interdisciplinary matching workshops are as follows.<br>
-
-  Date：December 18 and December 2, 2020,  Online event. Please participate on both days.<br>
+  Please participate in the SSS interdisciplinary matching workshop at least once.<br>
   [＊You can find the information of the previous matching workshop from here.](http://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/).
 
   **2. Enroll in the cyber/physical off-campus project course**<br>
@@ -88,7 +66,7 @@ In order to enroll in WISE-SSS program, it is necessary to meet the following tw
 
     <b>【Case 1】 The internship is canceled or postponed</b><br>
     　＜Documents to be submitted＞<br>
-    　(1)Documents showing that you planned to do an internship by September 30, 2020<br>
+    　(1)Documents showing that you planned to do an internship by March 31, 2021<br>
     　(2)Documents showing that the internship was canceled or postponed due to the influence of the COVID-19<br><br>
 
     <b>【Case 2】 You applied for an internship but were not accepted</b><br>
