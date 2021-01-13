@@ -150,11 +150,9 @@ Seong-Lyun Kim |Yonsei University
 |Hitachi Industrial Equipment Systems Co.,Ltd.
 |YASKAWA Electric Corporation
 |SHO-BOND CORPORATION
-|Digital Transformation Division, Mitsubishi UFJ Financial Group, Inc.
 |Ota City
 |Kawasaki City
 |Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
-|Center for Advanced Intelligence Project, RIKEN
 |National Institutes for Quantum and Radiological Science and Technology (QST)
 |The Wireless Networks Research Center,<br>National Institute of Information and Communications Technology (NICT)
 |Information Technology and Human Factors,<br>National Institute of Advanced Industrial Science and Technology (AIST)
