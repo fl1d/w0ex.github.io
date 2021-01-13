@@ -31,6 +31,42 @@ header:
 
 ## Registration Guide
 
+<font size="4"><h5>2020 Fall Registration Guide</h5></font>
+Normally, there are two registration opportunities per year (spring and fall semesters), but for the fall semester of the 2020 academic year, there are multiple registration application periods.
+   <div class="box2">
+   <p><b>● Due date for additional submission of application form:</b><br><br>
+　　　　　　1) Friday, September 18, 2020 at noon(12:00 p.m.)<br>
+　　　　　　2) Friday, October 23, 2020 at noon(12:00 p.m.)<br>
+　　　　　　3) Friday, December 18, 2020 at noon(12:00 p.m.)<br><br>
+
+<b>● How to submit:</b> Please send the application form and required documents (PDF file) to the email address below.<br>
+　　　　　　　　<b>e-mail: wise-sss@jim.titech.ac.jp</b><br><br>
+
+<b>● Application form:</b> Please download the format. → <a href="/doc/2020_Fall_Application_re_form.docx">word</a>, <a href="/doc/2020_Fall_Application_re_form.pdf">pdf</a><br>
+
+<b>● Registration examination (document screening)：</b> It will be conducted in conjunction with the submission of the application.<br><br>
+
+  Please read the <a href="/doc/Guide_SSS.pdf">Study guide</a> carefully. Current or prospective doctoral students who request for a <B>mid-term review</B> in concurrent with the entrance examination, please complete "4. Request for mid-term review for transforming into the program" in the registration application form. <br>
+  </p>
+  </div>
+
+<font size="4"><h5>Requirements for enrollment</h5></font>
+In order to enroll in WISE-SSS program, it is necessary to meet the following two requirements.
+
+  **1. Experience of participation in the SSS interdisciplinary matching workshop**<br>
+  Please participate in the SSS interdisciplinary matching workshop at least once.
+  The upcoming SSS interdisciplinary matching workshops are as follows.<br>
+
+  Date：December 18 and December 2, 2020,  Online event. Please participate on both days.<br>
+  [＊You can find the information of the previous matching workshop from here.](http://www.sss.e.titech.ac.jp/event-sss-matching-ws-20191108/).
+
+  **2. Enroll in the cyber/physical off-campus project course**<br>
+  <span style="color:#ff2680">※ Due to the influence of the COVID-19, the registration requirements have been relaxed. Please refer to the "★ Internship Information" section below for details.</span><br>
+
+  Take at least one credit from the courses related to the cyber/physical off-campus project designed by the program. (Please refer to Tables 1 and in the [Study Guide](/doc/Guide_SSS_en.pdf)). <u>A credit from the internship subject of the student’s original course can be also used. If a student is unable to acquire the credit by the entrance exam date, please submit a certificate of internship completion provided by the company where the internship is conducted.</u> [For information about the internship program provided by Super Smart Society Consortium, please click here (internal link).](https://www.sss.e.titech.ac.jp/for_students/for_students_only/)  If you had regular employment experience at a company or an institution, the applicants can use that certificate of employment to replace credit requirement for the cyber/physical off-campus project subjects in Table 1.
+<br>
+
+
 **<span style="color:#ff2680"><font size="4">2020 Fall Registration Guide (Due date for additional application: Sept. 18, 2020 )</font></span>**
 
   <B>● Due date for submission of application form: Friday, August 28, 2020 at noon(12:00 p.m.)<br>
