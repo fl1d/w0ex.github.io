@@ -5,7 +5,7 @@ permalink: /archive_en/
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/header_winter.png
+  overlay_image: /assets/images/header_spring.png
   actions:
   - label: "About the WISE-SSS Program"
     url: "/what-is-sss_en/"
@@ -65,7 +65,7 @@ In order to enroll in WISE-SSS program, it is necessary to meet the following tw
 
   Take at least one credit from the courses related to the cyber/physical off-campus project designed by the program. (Please refer to Tables 1 and in the [Study Guide](/doc/Guide_SSS_en.pdf)). <u>A credit from the internship subject of the student’s original course can be also used. If a student is unable to acquire the credit by the entrance exam date, please submit a certificate of internship completion provided by the company where the internship is conducted.</u> [For information about the internship program provided by Super Smart Society Consortium, please click here (internal link).](https://www.sss.e.titech.ac.jp/for_students/for_students_only/)  If you had regular employment experience at a company or an institution, the applicants can use that certificate of employment to replace credit requirement for the cyber/physical off-campus project subjects in Table 1.
 <br>
-
+<hr>
 
 **<span style="color:#ff2680"><font size="4">2020 Fall Registration Guide (Due date for additional application: Sept. 18, 2020 )</font></span>**
 
