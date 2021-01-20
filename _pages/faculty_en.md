@@ -5,7 +5,7 @@ permalink: /faculty_en/
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/header_winter.png
+  overlay_image: /assets/images/header_spring.png
   actions:
   - label: "About the WISE-SSS Program"
     url: "/what-is-sss_en/"
